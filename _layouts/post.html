@@ -7,12 +7,12 @@
     </title>
     <!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
     <meta name="description" content="{{ page.excerpt | strip_html }}"/>
-    <link rel="canonical" href="http://sapiensoup.com/human-metabolism-thc/" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
-    <meta property="og:url" content="http://sapiensoup.com/human-metabolism-thc/" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="SAPIENSOUP Blog" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
     <meta property="article:tag" content="edibles" />
@@ -297,7 +297,7 @@
                   <span class="posted-on">
                     <span class="screen-reader-text">Posted on
                     </span>
-                    <a href="http://sapiensoup.com/human-metabolism-thc/" rel="bookmark">
+                    <a href="{{ page.url }}" rel="bookmark">
                       <time class="entry-date published" datetime="2016-12-21T14:16:57+00:00">December 21, 2016
                       </time>
                       <time class="updated" datetime="2016-12-22T07:56:51+00:00">December 22, 2016
@@ -332,7 +332,7 @@
                 <div id="respond" class="comment-respond">
                   <h2 id="reply-title" class="comment-reply-title">Leave a Reply
                     <small>
-                      <a rel="nofollow" id="cancel-comment-reply-link" href="/human-metabolism-thc/#respond" style="display:none;">Cancel reply
+                      <a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url }}/#respond" style="display:none;">Cancel reply
                       </a>
                     </small>
                   </h2>
@@ -466,7 +466,7 @@
                             </a>
                           </div>
                           <div  class='icon2'>
-                            <a rel="nofollow" href="http://twitter.com/share" data-count="none" class="sr-twitter-button twitter-share-button" data-lang="en_US" data-url="http://sapiensoup.com/human-metabolism-thc/" data-text="Here goes your thought #Topic via@sapiensoupblog" >
+                            <a rel="nofollow" href="http://twitter.com/share" data-count="none" class="sr-twitter-button twitter-share-button" data-lang="en_US" data-url="{{ site.url }}{{ page.url }}" data-text="Here goes your thought #Topic via@sapiensoupblog" >
                             </a>
                           </div>
                         </div>
@@ -483,11 +483,11 @@
                         </span>
                         <div class="sfsi_plus_inside">
                           <div  class='icon2'>
-                            <fb:like href="http://sapiensoup.com/human-metabolism-thc/" width="180" send="false" showfaces="false" layout="button" action="like">
+                            <fb:like href="{{ site.url }}{{ page.url }}" width="180" send="false" showfaces="false" layout="button" action="like">
                             </fb:like>
                           </div>
                           <div  class='icon3'>
-                            <fb:share-button href="http://sapiensoup.com/human-metabolism-thc/" width="140" type="button">
+                            <fb:share-button href="{{ site.url }}{{ page.url }}" width="140" type="button">
                             </fb:share-button>
                           </div>
                         </div>
@@ -504,11 +504,11 @@
                         </span>
                         <div class="sfsi_plus_inside">
                           <div  class='icon2'>
-                            <div class="g-plusone" data-href="http://sapiensoup.com/human-metabolism-thc/" data-size="large" data-annotation="none" >
+                            <div class="g-plusone" data-href="{{ site.url }}{{ page.url }}" data-size="large" data-annotation="none" >
                             </div>
                           </div>
                           <div  class='icon3'>
-                            <div class="g-plus" data-action="share" data-annotation="none" data-height="24" data-href="http://sapiensoup.com/human-metabolism-thc/">http://sapiensoup.com/human-metabolism-thc/
+                            <div class="g-plus" data-action="share" data-annotation="none" data-height="24" data-href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}
                             </div>
                           </div>
                         </div>
