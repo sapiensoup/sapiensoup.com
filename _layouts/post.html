@@ -30,7 +30,7 @@
     {% endif %}
     <meta name="twitter:creator" content="@sapiensoupblog" />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="http://sapiensoup.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ site.url }}{{ site.feedurl }}" />
     <link rel='stylesheet' id='bcct_style-css' href='{{ site.baseurl }}/css/bctt.css?ver=3.0' type='text/css' media='all' />
     <link rel='stylesheet' id='ili-frontend-css-css'  href='{{ site.baseurl }}/css/ili.css?ver=4.7' type='text/css' media='all' />
     <link rel='stylesheet' id='SFSIPLUSmainCss-css'  href='{{ site.baseurl }}/css/sfsi-style.css?ver=4.7' type='text/css' media='all' />
@@ -410,7 +410,7 @@
                   </div>
                   <div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_plus_wicons shuffeldiv '>
                     <div class='sfsiplus_inerCnt'>
-                      <a class=' sficn' effect='' target='_blank'  href='http://sapiensoup.com/?feed=rss2' id='sfsiplusid_rss'  style='opacity:1' >
+                      <a class=' sficn' effect='' target='_blank'  href='{{ site.url }}{{ site.feedurl }}' id='sfsiplusid_rss'  style='opacity:1' >
                         <img alt='RSS' title='RSS' src='http://sapiensoup.com/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_rss.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect=''   />
                       </a>
                     </div>
@@ -497,7 +497,7 @@
               </h2>
               <ul>
                 <li>
-                  <a href="http://sapiensoup.com/feed/">Entries
+                  <a href="{{ site.url }}{{ site.feedurl }}">Entries
                     <abbr title="Really Simple Syndication">RSS
                     </abbr>
                   </a>

@@ -1,5 +1,6 @@
 url: "https://sapiensoup.com"
 baseurl: ""
+feedurl: "/feed"
 title: "SAPIENSOUP Blog"
 markdown: kramdown
 gems:
