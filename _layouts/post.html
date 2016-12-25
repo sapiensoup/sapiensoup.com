@@ -287,16 +287,24 @@
                 <h2 class="screen-reader-text">Post navigation
                 </h2>
                 <div class="nav-links">
+                  {% if page.previous %}
                   <div class="nav-previous">
-                    <a href="http://sapiensoup.com/what-zika-is-and-how-to-avoid-it/" rel="prev">
-                      <span class="meta-nav" aria-hidden="true">Previous
-                      </span>
-                      <span class="screen-reader-text">Previous post:
-                      </span>
-                      <span class="post-title">What Zika is and how to avoid it
-                      </span>
+                    <a href="{{ page.previous.url }}" rel="prev">
+                      <span class="meta-nav" aria-hidden="true">Previous</span>
+                      <span class="screen-reader-text">Previous post:</span>
+                      <span class="post-title">{{ page.previous.title }}</span>
                     </a>
                   </div>
+                  {% endif %}
+                  {% if page.next %}
+                  <div class="nav-next">
+                    <a href="{{ page.next.url }}" rel="prev">
+                      <span class="meta-nav" aria-hidden="true">Next</span>
+                      <span class="screen-reader-text">Next post:</span>
+                      <span class="post-title">{{ page.next.title }}</span>
+                    </a>
+                  </div>
+                  {% endif %}
                 </div>
               </nav>
             </main>
