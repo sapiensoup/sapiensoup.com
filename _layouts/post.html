@@ -12,13 +12,13 @@
     <title>{{ page.title }} &ndash; SAPIENSOUP Blog
     </title>
     <!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
-    <meta name="description" content="Cannabis turns into a different kind of drug when it&#039;s eaten vs. smoked: a summary of scientific research—visualized and explained in simple language."/>
+    <meta name="description" content="{{ page.excerpt | strip_html }}"/>
     <meta name="robots" content="noodp"/>
     <link rel="canonical" href="http://sapiensoup.com/human-metabolism-thc/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="Why cannabis turns into a different kind of drug when it&#039;s eaten vs. smoked: summary of scientific research on the human metabolism of THC—visualized and explained in simple language." />
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:url" content="http://sapiensoup.com/human-metabolism-thc/" />
     <meta property="og:site_name" content="SAPIENSOUP Blog" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
@@ -32,7 +32,7 @@
     <meta property="og:updated_time" content="2016-12-22T07:56:51+00:00" />
     <meta property="og:image" content="http://sapiensoup.com/wp-content/uploads/2016/12/Human-Metabolism-THC-FB.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="It’s widely-known that delta-9-THC is the active ingredient in cannabis. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high." />
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:site" content="@sapiensoupblog" />
     <meta name="twitter:image" content="http://sapiensoup.com/wp-content/uploads/2016/12/Metabolism-THC-T.png" />
