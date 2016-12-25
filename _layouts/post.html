@@ -13,9 +13,6 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
-    {% for tag in page.tags %}
-    <meta property="article:tag" content="{{ tag }}" />
-    {% endfor %}
     <meta property="article:section" content="health" />
     <meta property="article:published_time" content="{{ page.date | date_to_xmlschema}}" />
     {% if page.facebook.image %}
@@ -113,26 +110,6 @@
                     </span>
                     <a href="{{ page.url }}" rel="bookmark">
                       <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
-                    </a>
-                  </span>
-                  <span class="cat-links">
-                    <span class="screen-reader-text">Categories
-                    </span>
-                    <a href="http://sapiensoup.com/category/health/" rel="category tag">health
-                    </a>,
-                    <a href="http://sapiensoup.com/category/posts-in-english/" rel="category tag">Posts in English
-                    </a>
-                  </span>
-                  <span class="tags-links">
-                    <span class="screen-reader-text">Tags
-                    </span>
-                    <a href="http://sapiensoup.com/tag/edibles/" rel="tag">edibles
-                    </a>,
-                    <a href="http://sapiensoup.com/tag/human-body/" rel="tag">human body
-                    </a>,
-                    <a href="http://sapiensoup.com/tag/metabolism/" rel="tag">metabolism
-                    </a>,
-                    <a href="http://sapiensoup.com/tag/thc/" rel="tag">THC
                     </a>
                   </span>
                 </footer>
@@ -327,28 +304,6 @@
                   </a>
                 </li>
                 {% endfor %}
-              </ul>
-            </section>
-            <section id="categories-2" class="widget widget_categories">
-              <h2 class="widget-title">Categories
-              </h2>
-              <ul>
-                <li class="cat-item cat-item-6">
-                  <a href="http://sapiensoup.com/category/food/" >food
-                  </a>
-                </li>
-                <li class="cat-item cat-item-8">
-                  <a href="http://sapiensoup.com/category/health/" >health
-                  </a>
-                </li>
-                <li class="cat-item cat-item-3">
-                  <a href="http://sapiensoup.com/category/posts-auf-deutsch/" >Posts auf Deutsch
-                  </a>
-                </li>
-                <li class="cat-item cat-item-4">
-                  <a href="http://sapiensoup.com/category/posts-in-english/" >Posts in English
-                  </a>
-                </li>
               </ul>
             </section>
             <section id="archives-2" class="widget widget_archive">
