@@ -567,18 +567,12 @@
               <h2 class="widget-title">Recent Posts
               </h2>
               <ul>
+                {% for post in site.posts %}
                 <li>
-                  <a href="http://sapiensoup.com/human-metabolism-thc/">{{ page.title }}
+                  <a href="{{ post.url }}">{{ post.title }}
                   </a>
                 </li>
-                <li>
-                  <a href="http://sapiensoup.com/what-zika-is-and-how-to-avoid-it/">What Zika is and how to avoid it
-                  </a>
-                </li>
-                <li>
-                  <a href="http://sapiensoup.com/sind-bio-kuhe-glucklich/">Sind Bio-Kühe glücklich?
-                  </a>
-                </li>
+                {% endfor %}
               </ul>
             </section>
             <section id="categories-2" class="widget widget_categories">
