@@ -3,8 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} &ndash; SAPIENSOUP Blog
-    </title>
+    <title>{{ page.title }} &ndash; {{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | strip_html }}"/>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="en_US" />
@@ -12,7 +11,7 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="og:site_name" content="SAPIENSOUP Blog" />
+    <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
     <meta property="article:tag" content="edibles" />
     <meta property="article:tag" content="human body" />
@@ -31,7 +30,7 @@
     <meta name="twitter:creator" content="@sapiensoupblog" />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="SAPIENSOUP Blog &raquo; Feed" href="http://sapiensoup.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="http://sapiensoup.com/feed/" />
     <script type="text/javascript">
       window._wpemojiSettings = {
         "baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{
@@ -260,8 +259,7 @@
                 <img width="120" height="115" src="http://sapiensoup.com/wp-content/uploads/2016/11/Sapien-Soup-Logo-e1478116772701.png" class="custom-logo" alt="" itemprop="logo" />
               </a>
               <p class="site-title">
-                <a href="http://sapiensoup.com/" rel="home">SAPIENSOUP Blog
-                </a>
+                <a href="http://sapiensoup.com/" rel="home">{{ site.title }}</a>
               </p>
             </div>
             <!-- .site-branding -->
@@ -621,8 +619,7 @@
           </p>
           <div class="site-info">
             <span class="site-title">
-              <a href="http://sapiensoup.com/" rel="home">SAPIENSOUP Blog
-              </a>
+              <a href="http://sapiensoup.com/" rel="home">{{ site.title }}</a>
             </span>
           </div>
           <!-- .site-info -->
