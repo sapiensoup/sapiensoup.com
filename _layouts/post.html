@@ -100,12 +100,12 @@
                 <!-- .entry-content -->
                 <footer class="entry-footer">
                   <span class="byline">
+                    {% assign author = site.data.authors | where: "id", page.author | first %}
                     <span class="author vcard">
-                      <img alt='' src='http://1.gravatar.com/avatar/4f2990fe44b7e30cbd6acfcfe874d72e?s=49&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4f2990fe44b7e30cbd6acfcfe874d72e?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' />
+                      <img alt='' src='{{ author.image }}?s=49&#038;d=mm&#038;r=g' srcset='{{ author.image }}?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' />
                       <span class="screen-reader-text">Author
                       </span>
-                      <a class="url fn n" href="http://sapiensoup.com/author/marlene/">Marlene
-                      </a>
+                      <a class="url fn n" href="{{ site.url }}/author/{{ author.id }}/">{{ author.name }}</a>
                     </span>
                   </span>
                   <span class="posted-on">
