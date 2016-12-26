@@ -31,11 +31,10 @@ When cannabis is consumed, the liver breaks down the main psychoactive ingredien
 
 You'll find different versions of naming those molecules across the internet. If you end up as confused as I was, check the following table for clarification:
 
-| ----- |
-| **Name used here** |  **Pronunciation** |  **Molecular notation** |  **Also known as** |
-| delta-9-THC |  _"delta 9 THC"_ |  Δ9-THC |  THC |
-| 11-OH-THC |  _"hydroxy THC"_ |  11-OH- Δ9-THC |  11-hydroxy-THC |
-| 11-COOH-THC |  _"carboxy THC"_ |  11-COOH- Δ9-THC |  11-nor-9-carboxy-THC, 9-carboxy-THC, THC-COOH |
+| **Name used here** | **Pronunciation** | **Molecular notation** | **Also known as** |
+| delta-9-THC | _"delta 9 THC"_ | Δ<sup>9</sup>-THC | THC |
+| 11-OH-THC | _"hydroxy THC"_ | 11-OH-Δ<sup>9</sup>-THC | 11-hydroxy-THC |
+| 11-COOH-THC | _"carboxy THC"_ | 11-COOH-Δ<sup>9</sup>-THC | 11-nor-9-carboxy-THC, 9-carboxy-THC, THC-COOH |
 
 THC = _Tetrahydrocannabinol_
 
@@ -61,7 +60,6 @@ There are two kinds of cannabinoid receptors:
 Each time the blood circulates through the body, a certain portion of it passes through the liver. There, psychoactive delta-9-THC is metabolized into psychoactive 11-OH-THC and non-psychoactive 11-COOH-THC. Afterward, these two metabolites travel along with delta-9-THC to the heart and from there throughout the body. Like delta-9-THC, 11-OH-THC also binds to CB1 receptors in the brain.
 
 <figure id="attachment_151" style="width: 600px" class="wp-caption aligncenter"><img class="wp-image-151" style="text-align: center;" src="http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200.png" alt="Metabolic pathway of THC after inhalation" width="600" height="150" srcset="http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200.png 1200w, http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200-300x75.png 300w, http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200-768x192.png 768w, http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200-1024x256.png 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after inhalation</center></figcaption></figure>
-
 
 The biological pathway through the lungs typically results in a steep increase of delta-9-THC in the bloodstream within 10 minutes of consumption. 11-OH-THC peaks slightly later, at around 15 minutes. After that, levels of both psychoactive molecules decrease sharply until, after 12 hours, their concentration falls under the detectable limit of 0.5 ng/ml. The second and non-psychoactive metabolite 11-COOH-THC peaks more than one hour after consumption and circulates in the bloodstream for a long time. In the quoted study it took 168 hours, i.e. 7 days, to fall under the detectable limit.[^blood-cannabinoids]
 
