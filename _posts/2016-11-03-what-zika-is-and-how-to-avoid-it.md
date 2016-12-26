@@ -18,7 +18,7 @@ Zika is not a new virus. Like all zoonotic viruses (meaning of non-human origin 
 
 Zika is a flavivirus, which means it belongs to the same group as dengue, yellow fever, Japanese encephalitis, and the West Nile virus.
 
-<figure id="attachment_80" style="width: 240px" class="wp-caption alignnone"><img class="size-full wp-image-80" src="/images/zika/Zika-virus-particle.png" alt="Zika virus particle" width="240" height="240" srcset="/images/zika/Zika-virus-particle.png 240w, /images/zika/Zika-virus-particle-150x150.png 150w" sizes="(max-width: 240px) 85vw, 240px"><figcaption class="wp-caption-text">Zika virus particle (By Manuel Almagro Rivas,&nbsp;<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons)</figcaption></figure>
+<figure id="attachment_80" style="width: 240px" class="wp-caption alignnone"><img class="size-full wp-image-80" src="/images/zika/Zika-virus-particle.png" alt="Zika virus particle" width="240" height="240" srcset="/images/zika/Zika-virus-particle.png 240w, /images/zika/Zika-virus-particle-150x150.png 150w" sizes="(max-width: 240px) 85vw, 240px"><figcaption class="wp-caption-text">Zika virus particle (By Manuel Almagro Rivas, <a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons)</figcaption></figure>
 
 The virus was first isolated from a sick monkey in the Zika Forest in Uganda in 1947, hence its name. It was then found in mosquitoes in that same forest a few years later. In 1968, Zika was first isolated from humans in Nigeria. It was known that the virus caused mostly transient febrile illness, in combinations with a possible rash, headache, joint pain, and conjunctivitis. Most patients recovered fully within a week and so the disease associated with the Zika virus was perceived as mild and self-limiting.
 
@@ -39,7 +39,7 @@ Microcephaly basically means a baby's head is much smaller than expected, usuall
 
 The more I dug into the association between Zika and birth defects, the foggier the information became. It is important to remember that most pregnant Zika infected women are having babies without any abnormalities. We really don't know yet why there is this sudden increase in cases of microcephaly in the South American population, and why this was not seen in previous years. Some hypothesize that there may be differences in Zika's ability to cause disease[^zika-history]. Zika's ability to mutate/change very quickly is due to it being an RNA virus rather than a DNA virus[^zika-panic]. Others argue that the effects of Zika seem worse at the moment because a larger population is affected and the Americas provide an ideal mosquito-breeding climate.
 
-A brand new study published in Nature on the 31st of October showed that mice testes are severely damaged&nbsp;by Zika. These results highlight the uncertainty surrounding Zika and the need to investigate Zika's effects on the function and viability of sperm in humans[^zika-mice].
+A brand new study published in Nature on the 31st of October showed that mice testes are severely damaged by Zika. These results highlight the uncertainty surrounding Zika and the need to investigate Zika's effects on the function and viability of sperm in humans[^zika-mice].
 
 ### How do I know if I have Zika?
 
@@ -56,11 +56,9 @@ The number one way to get infected with the Zika virus is by being bitten by a m
 
 <figure id="attachment_85" style="width: 840px" class="wp-caption alignleft"><img class="size-large wp-image-85" src="/images/zika/Zika-transmitting-mosquito-map-Europe-july-2016-1024x818.jpg" alt="Areas in Europe where Aedes albopictus is present, July 2016" width="840" height="671" srcset="/images/zika/Zika-transmitting-mosquito-map-Europe-july-2016-1024x818.jpg 1024w, /images/zika/Zika-transmitting-mosquito-map-Europe-july-2016-300x240.jpg 300w, /images/zika/Zika-transmitting-mosquito-map-Europe-july-2016-768x613.jpg 768w, /images/zika/Zika-transmitting-mosquito-map-Europe-july-2016-1200x958.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"><figcaption class="wp-caption-text">Areas in Europe where Aedes albopictus is present, July 2016 (ECDC and EFSA, VectorNet)</figcaption></figure>
 
-&nbsp;
-
 #### Sexually transmitted
 
-Researchers&nbsp;have been able to detect virus particles in the blood, urine and semen (as well as saliva and tears) of infected patients, and over 30 cases of sexual transmission have been documented.
+Researchers have been able to detect virus particles in the blood, urine and semen (as well as saliva and tears) of infected patients, and over 30 cases of sexual transmission have been documented.
 
 When I looked into this more closely, I found lots of conflicting information on how long Zika remains in the blood, and if all the bodily fluids, in which virus particles have been detected, can actually be infectious. Unfortunately, most studies have only been able to follow patients for a short period of time, because Zika has only been in the spotlight over the past year. Zika was detected in the blood of a patient for up to 81 days after the onset of symptoms[^zika-detection]. This was the longest recorded case of Zika found in blood.
 
@@ -74,7 +72,7 @@ Virus particles were detected in the amniotic fluid, fetal brain, and in the blo
 
 In August 2016 the FDA put forward the recommendation that all blood donations should be tested for the Zika virus, but this is an expensive recommendation.
 
-Testing for Zika&nbsp;(with real time RT-PCR) can cost up to $500 per test in the USA, while a clinic in London offers this test for £383. In Austria you can get tested at the "[Referenzzentrale für Arboviren an der Virologie der Medizinischen Universität Wien](http://www.virologie.meduniwien.ac.at/wissenschaft-forschung/referenzlabor/)".
+Testing for Zika (with real time RT-PCR) can cost up to $500 per test in the USA, while a clinic in London offers this test for £383. In Austria you can get tested at the "[Referenzzentrale für Arboviren an der Virologie der Medizinischen Universität Wien](http://www.virologie.meduniwien.ac.at/wissenschaft-forschung/referenzlabor/)".
 
 ## Checklist for family-planners
 
@@ -102,8 +100,6 @@ One of the main reasons I began investigating this topic is to know what my risk
 The bad news: Zika will continue to spread. The mosquito _A. albopictus_ is already present in many parts of southern Europe (e.g. Italy, parts of France &amp; Spain), the chances are relatively high that one of these bites an infected individual and begins spreading the virus. In Europe most pregnant women are screened at the start of pregnancy to determine their immune status on a few dangerous infections during pregnancy. I can only assume Zika will eventually be added to the list.
 
 The good news: Zika appears to be mostly a harmless virus, with only 20% of all infected individuals actually getting any symptoms at all. So my suggestion: don't panic.
-
-&nbsp;
 
 * * *
 
