@@ -23,7 +23,7 @@ To understand the pathway of THC in the human body, you must first understand wh
 
 ### A bit of biochemistry
 
-When cannabis is consumed, the liver breaks down the main psychoactive ingredient **delta-9-THC** into other molecules. First, enzymes turn delta-9-THC into **11-OH-THC** (which is also psychoactive) and then into **11-COOH-THC** which is not psychoactive.[[1]][2]
+When cannabis is consumed, the liver breaks down the main psychoactive ingredient **delta-9-THC** into other molecules. First, enzymes turn delta-9-THC into **11-OH-THC** (which is also psychoactive) and then into **11-COOH-THC** which is not psychoactive.[^wikipedia-on-thc]
 
 You'll find different versions of naming those molecules across the internet. If you end up as confused as I was, check the following table for clarification:
 
@@ -56,11 +56,11 @@ Each time the blood circulates through the body, a certain portion of it passes 
 
 ![Metabolic pathway of THC after inhalation][4]Metabolic pathway of THC after inhalation
 
-The biological pathway through the lungs typically results in a steep increase of delta-9-THC in the bloodstream within 10 minutes of consumption. 11-OH-THC peaks slightly later, at around 15 minutes. After that, levels of both psychoactive molecules decrease sharply until, after 12 hours, their concentration falls under the detectable limit of 0.5 ng/ml. The second and non-psychoactive metabolite 11-COOH-THC peaks more than one hour after consumption and circulates in the bloodstream for a long time. In the quoted study it took 168 hours, i.e. 7 days, to fall under the detectable limit.[[2]][5]
+The biological pathway through the lungs typically results in a steep increase of delta-9-THC in the bloodstream within 10 minutes of consumption. 11-OH-THC peaks slightly later, at around 15 minutes. After that, levels of both psychoactive molecules decrease sharply until, after 12 hours, their concentration falls under the detectable limit of 0.5 ng/ml. The second and non-psychoactive metabolite 11-COOH-THC peaks more than one hour after consumption and circulates in the bloodstream for a long time. In the quoted study it took 168 hours, i.e. 7 days, to fall under the detectable limit.[^blood-cannabinoids]
 
 ### Ingestion
 
-When ingested, delta-9-THC enters the bloodstream through the walls of the stomach and intestines. Tests with radiolabeled delta-9-THC molecules show this process to be highly effective, with 90-95% of delta-9-THC molecules being absorbed, depending on the carrier medium.[[3]][6] When absorbed gastrointestinally, delta-9-THC travels first to the liver where most of it&nbsp;is eliminated or metabolized before it has ever had a chance to activate a receptor. After this first pass through the liver, the remaining delta-9-THC and both its metabolites get to the heart and from there into circulation. Delta-9-THC and 11-OH-THC reach the brain simultaneously.
+When ingested, delta-9-THC enters the bloodstream through the walls of the stomach and intestines. Tests with radiolabeled delta-9-THC molecules show this process to be highly effective, with 90-95% of delta-9-THC molecules being absorbed, depending on the carrier medium.[^pharmacokinetics] When absorbed gastrointestinally, delta-9-THC travels first to the liver where most of it is eliminated or metabolized before it has ever had a chance to activate a receptor. After this first pass through the liver, the remaining delta-9-THC and both its metabolites get to the heart and from there into circulation. Delta-9-THC and 11-OH-THC reach the brain simultaneously.
 
 ![Metabolic-Pathway-Stomach][7]Metabolic pathway of THC after ingestion
 
@@ -68,19 +68,20 @@ How much of the consumed THC actually makes it into the bloodstream? There is no
 
 ### Inhalation
 
-In an experiment, six test subjects smoked the exact same amount of delta-9-THC. Test subject Mr. Burns exhibited almost three times as much delta-9-THC in his bloodstream compared to Homer who showed the lowest concentration. For all test subjects the peak was within 6 to 10 minutes after inhalation.[[2]][5]
+In an experiment, six test subjects smoked the exact same amount of delta-9-THC. Test subject Mr. Burns exhibited almost three times as much delta-9-THC in his bloodstream compared to Homer who showed the lowest concentration. For all test subjects the peak was within 6 to 10 minutes after inhalation.[^blood-cannabinoids]
 
-What influences bioavailability? Two main factors are (1) method of inhalation, e.g. vaping or smoking, smoking in a joint or pipe, and (2) whether the test subject is an infrequent or regular user. Technique matters, as depth of inhalation, puff duration and breath hold increase bioavailability[[3]][6]; regular users inhale more efficiently and therefore show a 50-70% higher bioavailability of delta-9-THC.[[4]][8] [[5]][9]
 
-Across all users, light and heavy, the bioavailability for inhaled delta-9-THC is between 10-35%.[[3]][6]
+What influences bioavailability? Two main factors are (1) method of inhalation, e.g. vaping or smoking, smoking in a joint or pipe, and (2) whether the test subject is an infrequent or regular user. Technique matters, as depth of inhalation, puff duration and breath hold increase bioavailability[^pharmacokinetics]; regular users inhale more efficiently and therefore show a 50-70% higher bioavailability of delta-9-THC.[^clinical-effects] [^single-dose-kinetics]
+
+Across all users, light and heavy, the bioavailability for inhaled delta-9-THC is between 10-35%.[^pharmacokinetics]
 
 ### Ingestion
 
-For ingested delta-9-THC, bioavailability is only between 4-12%. In contrast to inhalation, the user has little influence on the degree of bioavailability, with the exception of choosing a more optimal carrier medium. In many studies the choice was sesame oil or a similar high-fat carrier. After oral use, high variability was observed not only in the absolute levels of THC but also in the timing when users show peak concentration. Concretely, person A can exhibit peak concentration after one hour of ingestion whereas person B can exhibit peak concentration after six hours. Multiple peaks have been reported as well.[[3]][6]
+For ingested delta-9-THC, bioavailability is only between 4-12%. In contrast to inhalation, the user has little influence on the degree of bioavailability, with the exception of choosing a more optimal carrier medium. In many studies the choice was sesame oil or a similar high-fat carrier. After oral use, high variability was observed not only in the absolute levels of THC but also in the timing when users show peak concentration. Concretely, person A can exhibit peak concentration after one hour of ingestion whereas person B can exhibit peak concentration after six hours. Multiple peaks have been reported as well.[^pharmacokinetics]
 
 ### Which produces stronger effects, inhalation or ingestion?
 
-The following chart compares the delta-9-THC exposure of three different methods of intake: inhalation, ingestion and injection. In practice, delta-9-THC is usually not injected, but was done so in this study as a control for determining the bioavailability of different routes. The same study suggests a mean bioavailability of 18% for inhalation and 6% for ingestion.[[6]][10]
+The following chart compares the delta-9-THC exposure of three different methods of intake: inhalation, ingestion and injection. In practice, delta-9-THC is usually not injected, but was done so in this study as a control for determining the bioavailability of different routes. The same study suggests a mean bioavailability of 18% for inhalation and 6% for ingestion.[^plasma-delta-9]
 
 Looking at this chart I was tempted to conclude that inhalation produces a stronger psychoactive effect than ingestion but there are a number of problems with this assumption.
 
@@ -92,20 +93,21 @@ Second—and more importantly—THC blood levels are a terrible indicator for th
 
 Blood transports the THC but it's the destination that matters:
 
-* **Psychoactive THC binds to CB1 receptors in the brain.** That's why a few minutes after inhalation we already see higher THC concentrations in the brain than in the blood.
-* **THC is highly fat-soluble.** THC is rapidly taken up by fat tissue, where it likes to accumulate and sit for many days. From these fat deposits, it is slowly released back into the bloodstream. [[7]][11]
+ - **Psychoactive THC binds to CB1 receptors in the brain.** That's why a few minutes after inhalation we already see higher THC concentrations in the brain than in the blood.
+
+ - **THC is highly fat-soluble.** THC is rapidly taken up by fat tissue, where it likes to accumulate and sit for many days. From these fat deposits, it is slowly released back into the bloodstream.[^marijuana-toxicity]
 
 ![Distribution of THC in the body over time.][12]
+As you can see in the chart above[^marijuana-toxicity], after smoking THC there is a time lag between concentrations in the blood and brain. That's why high THC levels in the bloodstream don't mean that the user experiences a psychological high at the same time.
 
-As you can see in the chart above[[7]][13], after smoking THC there is a time lag between concentrations in the blood and brain. That's why high THC levels in the bloodstream don't mean that the user experiences a psychological high at the same time.
+Finally, **THC is not just THC.** Some studies suggest, that the psychological high correlates better with the blood levels of the metabolite 11-OH-THC whose absolute representation would be much lower than the one of delta-9-THC.[^metabolism] More on this in the next and final sections.
 
-Finally, **THC is not just THC.** Some studies suggest, that the psychological high correlates better with the blood levels of the metabolite 11-OH-THC whose absolute representation would be much lower than the one of delta-9-THC.[[8]][14] More on this in the next and final sections.
 
 Just around the time when THC concentration is at a high point in the brain, psychoactive effects start to manifest. In the study described below, users were asked to rate the intensity of their experience over time on a scale from 1 to 10 in both inhalation and ingestion scenarios.
 
 ### Inhalation
 
-In the "smoking" chart below, you see the typical spike of delta-9-THC levels at the beginning, followed by 11-OH-THC peaking a few minutes later (the study at hand does not display 11-OH-THC levels). The subjectively rated effect achieves the highest level around 10 minutes after the delta-9-THC peak.[[9]][15]
+In the "smoking" chart below, you see the typical spike of delta-9-THC levels at the beginning, followed by 11-OH-THC peaking a few minutes later (the study at hand does not display 11-OH-THC levels). The subjectively rated effect achieves the highest level around 10 minutes after the delta-9-THC peak.[^plasma-concentrations]
 
 ### Ingestion
 
@@ -113,7 +115,7 @@ The second tab above shows the same data for ingestion of 20 milligrams of delta
 
 Comparing the psychological high over a timescale from 15 minutes to 360 minutes (i.e. 6 hours) reveals the potency of delta-9-THC via the pathway through the stomach.
 
-The study at hand shows comparably small psychological effects for oral consumption. I've seen a second dataset which documented a much stronger psychological high which lasted almost twice as long as in the above study (with the same dose).[[8]][14]&nbsp;[[9]][15]
+The study at hand shows comparably small psychological effects for oral consumption. I've seen a second dataset which documented a much stronger psychological high which lasted almost twice as long as in the above study (with the same dose).[^metabolism] [^plasma-concentrations]
 
 Many users claim that edibles produce a stronger and more "psychedelic" effect when compared to smoking. Unfortunately, there aren't many studies that have assessed the quality of psychological effects across different methods of intake. Based on the data I've found, I can neither support nor dismiss such a claim.
 
@@ -121,9 +123,9 @@ An insight the data does provide, however, is that the ratio of delta-9-THC to 1
 
 &gt; The 'first-pass effect' through the liver drastically changes the ratio of the two psychoactive cannabinoids.
 
-When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 11-OH-THC. When cannabis is ingested, however, blood tests show this same ratio being 1:1.[[8]][14]
+When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 11-OH-THC. When cannabis is ingested, however, blood tests show this same ratio being 1:1.[^metabolism]
 
-11-OH-THC passes the blood-brain-barrier more easily than delta-9-THC. Moreover, in animal tests 11-OH-THC has shown to be three to seven times more potent than delta-9-THC, i.e. three to seven times more capable of binding to the CB1 receptors in the brain.[[3]][6]
+11-OH-THC passes the blood-brain-barrier more easily than delta-9-THC. Moreover, in animal tests 11-OH-THC has shown to be three to seven times more potent than delta-9-THC, i.e. three to seven times more capable of binding to the CB1 receptors in the brain.[^pharmacokinetics]
 
 Altogether, this means that the lower bioavailability of delta-9-THC when ingested seems to get balanced out by the larger occurrence of 11-OH-THC and its higher potency in the brain.
 
@@ -137,79 +139,42 @@ Having said that, it's also a fact that drugs have desired effects and undesired
 
 Ergo, if I had the opportunity to enjoy the well-documented benefits of cannabis at a fraction of the associated exposure, that's hitting a sweet spot. Especially for folks who are interested in achieving mild, enduring effects which blend in smoothly with their everyday lives.
 
-&gt; Lightly-dosed edibles may be a 'sweet spot' for health-conscious folks looking for mild and enduring effects at low levels of exposure.
+> Lightly-dosed edibles may be a 'sweet spot' for health-conscious folks looking for mild and enduring effects at low levels of exposure.
 
 ### Minimum effective dose
 
-Coming up with the right _minimum effective dose (MED_) is a matter of trial and error. Bioavailability fluctuates wildly across individuals and gender. The enzymes in the liver of a man and a woman work differently, which leads to a lower rate of blood plasma clearing in women[[10]][16], something to take into account too.
+Coming up with the right _minimum effective dose (MED)_ is a matter of trial and error. Bioavailability fluctuates wildly across individuals and gender. The enzymes in the liver of a man and a woman work differently, which leads to a lower rate of blood plasma clearing in women[^chemistry], something to take into account too.
 
-So, where to start? Some edibles sold in US states, which have legalized marijuana, contain astronomical doses of 100 milligrams&nbsp;and more. I haven't encountered studies with oral&nbsp;doses of less than 20 milligrams, but 20&nbsp;milligrams resulted in a medium to strong effect across the board which makes me believe the MED is significantly lower than that. The US state Colorado mandates a restriction of 10 milligrams&nbsp;of THC per edible, which is also the state's recommended dose per "serving".
-If one THC infused gummy bear contained&nbsp;10 milligrams of THC, I'd consider&nbsp;just eating the feet.[[11]][17]
+So, where to start? Some edibles sold in US states, which have legalized marijuana, contain astronomical doses of 100 milligrams and more. I haven't encountered studies with oral doses of less than 20 milligrams, but 20 milligrams resulted in a medium to strong effect across the board which makes me believe the MED is significantly lower than that. The US state Colorado mandates a restriction of 10 milligrams of THC per edible, which is also the state's recommended dose per "serving". If one THC infused gummy bear contained 10 milligrams of THC, I'd consider just eating the feet.[^stranger]
 
 ### Smoker's paranoia
 
 Another—quite useful—lesson I learned researching the metabolism of delta-9-THC is about dealing with smoker's paranoia. Most of us have been there: you, a friend, a first timer, an excessive dose or simply a bad day. Happens to the best. Next time I see somebody freaking out I'll say something along the lines of "Yes, you're super baked. That's because you have peak THC concentration in your brain right now. Hang in there buddy, science taught us the peak doesn't last very long. In just a few minutes it'll be a smooth ride down the other end."
 
-![Infographic-Human-Metabolism-THC][18]
+<img class="wp-image-159" src="http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300.png" alt="Infographic-Human-Metabolism-THC" width="650" height="2075" srcset="http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300.png 1300w, http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px">
 
 &nbsp;
 
 * * *
 
-[[1]][19] Wikipedia on [Tetrahydrocannabinol][20]
+[^wikipedia-on-thc]: Wikipedia on [Tetrahydrocannabinol](https://en.wikipedia.org/wiki/Tetrahydrocannabinol)
 
-[[2]][21] Huestis MA, Henningfield JE, Cone EJ. Blood cannabinoids. I. Absorption of THC and formation of 11-OH-THC and THCCOOH during and after smoking marijuana. J Anal Toxicol. 1992 Sep-Oct;16(5):276-82. PubMed PMID: 1338215.
+[^blood-cannabinoids]: Huestis MA, Henningfield JE, Cone EJ. Blood cannabinoids. I. Absorption of THC and formation of 11-OH-THC and THCCOOH during and after smoking marijuana. J Anal Toxicol. 1992 Sep-Oct;16(5):276-82. PubMed PMID: 1338215.
 
-[[3]][22] Grotenhermen F. Pharmacokinetics and pharmacodynamics of cannabinoids. Clin Pharmacokinet. 2003;42(4):327-60. Review. PubMed PMID: 12648025.
+[^pharmacokinetics]: Grotenhermen F. Pharmacokinetics and pharmacodynamics of cannabinoids. Clin Pharmacokinet. 2003;42(4):327-60. Review. PubMed PMID: 12648025.
 
-[[4]][23] Lindgren JE, Ohlsson A, Agurell S, et al. Clinical effects and plasma levels of delta 9-tetrahydrocannabinol (delta 9-THC) in heavy and light users of cannabis. Psychopharmacology (Berl). 1981;74(3):208-12. PubMed PMID: 6267648.
+[^clinical-effects]: Lindgren JE, Ohlsson A, Agurell S, et al. Clinical effects and plasma levels of delta 9-tetrahydrocannabinol (delta 9-THC) in heavy and light users of cannabis. Psychopharmacology (Berl). 1981;74(3):208-12. PubMed PMID: 6267648.
 
-[[5]][24] Ohlsson A, Lindgren JE, Wahlen A, et al. Single dose kinetics of deuterium labelled delta 1-tetrahydrocannabinol in heavy and light cannabis users. Biomed Mass Spectrom. 1982 Jan;9(1):6-10. PubMed PMID: 6277407.
+[^single-dose-kinetics]: Ohlsson A, Lindgren JE, Wahlen A, et al. Single dose kinetics of deuterium labelled delta 1-tetrahydrocannabinol in heavy and light cannabis users. Biomed Mass Spectrom. 1982 Jan;9(1):6-10. PubMed PMID: 6277407.
 
-[[6]][25] Ohlsson A, Lindgren JE, Wahlen A, et al. Plasma delta-9 tetrahydrocannabinol concentrations and clinical effects after oral and intravenous administration and smoking. Clin Pharmacol Ther. 1980 Sep;28(3):409-16. PubMed PMID: 6250760.
+[^plasma-delta-9]: Ohlsson A, Lindgren JE, Wahlen A, et al. Plasma delta-9 tetrahydrocannabinol concentrations and clinical effects after oral and intravenous administration and smoking. Clin Pharmacol Ther. 1980 Sep;28(3):409-16. PubMed PMID: 6250760.
 
-[[7]][26] Nahas GG. Marijuana: toxicity and tolerance. In Medical Aspects of Drug Abuse. 1975. _Republished in_ Ashton CH. Pharmacology and effects of cannabis: a brief review. Br J Psychiatry. 2001 Feb;178:101-6. Review. PubMed PMID: 11157422.
+[^marijuana-toxicity]: Nahas GG. Marijuana: toxicity and tolerance. In Medical Aspects of Drug Abuse. 1975. _Republished in_ Ashton CH. Pharmacology and effects of cannabis: a brief review. Br J Psychiatry. 2001 Feb;178:101-6. Review. PubMed PMID: 11157422.
 
-[[8]][27] Wall ME, Perez-Reyes M. The metabolism of delta 9-tetrahydrocannabinol and related cannabinoids in man. J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):178S-189S. PubMed PMID: 6271823.
+[^metabolism]: Wall ME, Perez-Reyes M. The metabolism of delta 9-tetrahydrocannabinol and related cannabinoids in man. J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):178S-189S. PubMed PMID: 6271823.
 
-[[9]][28] Hollister LE, Gillespie HK, Ohlsson A, et al. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
+[^plasma-concentrations]: Hollister LE, Gillespie HK, Ohlsson A, et al. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
 
-[[10]][29] Sharma P, Murthy P, Bharath MMS. Chemistry, Metabolism, and Toxicology of Cannabis: Clinical Implications. Iranian Journal of Psychiatry. 2012;7(4):149-156. PMCID: PMC3570572
+[^chemistry]: Sharma P, Murthy P, Bharath MMS. Chemistry, Metabolism, and Toxicology of Cannabis: Clinical Implications. Iranian Journal of Psychiatry. 2012;7(4):149-156. PMCID: PMC3570572
 
-[[11]][29]&nbsp;Helpful suggestion found in [the Stranger][30].
-
-![][31]
-
-[1]: http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300-94x300.png
-[2]: http://sapiensoup.com#_ftn1
-[3]: http://sapiensoup.com/wp-content/uploads/2016/12/Metabolites-of-THC-780-300x192.png
-[4]: http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Stomach-1200.png
-[5]: http://sapiensoup.com#_ftn2
-[6]: http://sapiensoup.com#_ftn3
-[7]: http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Lungs-848.png
-[8]: http://sapiensoup.com#_ftn4
-[9]: http://sapiensoup.com#_ftn5
-[10]: http://sapiensoup.com#_ftn6
-[11]: http://sapiensoup.com#_ftn7
-[12]: http://sapiensoup.com/wp-content/uploads/2016/12/Distribution-1024x698.jpg
-[13]: http://sapiensoup.com/wp-admin/post.php?post=114&amp;action=edit#_ftn7
-[14]: http://sapiensoup.com#_ftn8
-[15]: http://sapiensoup.com#_ftn9
-[16]: http://sapiensoup.com#_ftn10
-[17]: http://sapiensoup.com/wp-admin/post.php?post=114&amp;action=edit#_ftn11
-[18]: http://sapiensoup.com/wp-content/uploads/2016/12/Infographic-Human-Metabolism-THC-1300.png
-[19]: http://sapiensoup.com#_ftnref1
-[20]: https://en.wikipedia.org/wiki/Tetrahydrocannabinol
-[21]: http://sapiensoup.com#_ftnref2
-[22]: http://sapiensoup.com#_ftnref3
-[23]: http://sapiensoup.com#_ftnref4
-[24]: http://sapiensoup.com#_ftnref5
-[25]: http://sapiensoup.com#_ftnref6
-[26]: http://sapiensoup.com#_ftnref7
-[27]: http://sapiensoup.com#_ftnref8
-[28]: http://sapiensoup.com#_ftnref9
-[29]: http://sapiensoup.com#_ftnref10
-[30]: http://www.thestranger.com/seattle/a-beginners-guide-to-ingesting-marijuana/Content?oid=20059080
-[31]: http://sapiensoup.com/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Follow/icon_Follow_en_US.png
-
-
+[^stranger]: Helpful suggestion found in [the Stranger](http://www.thestranger.com/seattle/a-beginners-guide-to-ingesting-marijuana/Content?oid=20059080).
