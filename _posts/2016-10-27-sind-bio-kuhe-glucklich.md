@@ -4,22 +4,22 @@ title:  Sind Bio-Kühe glücklich?
 author: marlene
 ---
 
-Ich esse gerne Rindfleisch. Bilder von industrieller Tierhaltung fahren mir aber&nbsp;durch Mark und Bein. Deswegen verbringe ich gefühlte Stunden vor dem Kühlregal im Supermarkt und vergleiche Etiketten auf Frischfleisch.
+Ich esse gerne Rindfleisch. Bilder von industrieller Tierhaltung fahren mir aber durch Mark und Bein. Deswegen verbringe ich gefühlte Stunden vor dem Kühlregal im Supermarkt und vergleiche Etiketten auf Frischfleisch.
 
-Wenn ich im Schnitt 70%[^verschiedene-rindfleischteile] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich&nbsp;verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
+Wenn ich im Schnitt 70%[^verschiedene-rindfleischteile] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
 
 ![Bio Logos Österreich](/images/bio-kuhe/Logos.png)
 
 # I. Auf welche Bio Siegel kann man sich verlassen?
 
-Produkte mit der Kennzeichnung _„aus natürlicher Landwirtschaft"_&nbsp; oder _„aus kontrolliertem Anbau"_ wirken wie Bio-Produkte, sind es aber oft nicht. Die Vielzahl an Bio-Kennzeichnungen ist verwirrend. Es gibt allerdings eine einfache Hilfe um sich zurecht zu finden: das Bio-Siegel der Europäischen Union. Denn als Faustregel gilt: wenn _"Bio"_ oder _„ökologisch"_ draufsteht dann gelten mindestens die Auflagen der EU. Und die Bestätigung dafür, ist das grüne Logo auf der Verpackung.
+Produkte mit der Kennzeichnung _„aus natürlicher Landwirtschaft"_  oder _„aus kontrolliertem Anbau"_ wirken wie Bio-Produkte, sind es aber oft nicht. Die Vielzahl an Bio-Kennzeichnungen ist verwirrend. Es gibt allerdings eine einfache Hilfe um sich zurecht zu finden: das Bio-Siegel der Europäischen Union. Denn als Faustregel gilt: wenn _"Bio"_ oder _„ökologisch"_ draufsteht dann gelten mindestens die Auflagen der EU. Und die Bestätigung dafür, ist das grüne Logo auf der Verpackung.
 
 <figure style="width: 300px" class="wp-caption alignnone"><img class="size-medium" src="https://ec.europa.eu/agriculture/organic/sites/orgfarming/files/img/body/organic_farming_logo.jpg" alt="EU Bio-Logo" width="300" height="200"><figcaption class="wp-caption-text">EU Bio-Logo</figcaption></figure>
 
 Die EU regelt die Produktion und Verarbeitung von Bio-Erzeugnissen[^eu-bio-verordnung] und bildet damit die Grundlage für alle weiteren nationalen und regionalen Bio-Siegel.
 
 
-> Das EU-Bio-Siegel zeigt dem Konsumenten, dass das Produkt "weitgehend"&nbsp;aus biologischer Landwirtschaft stammt.
+> Das EU-Bio-Siegel zeigt dem Konsumenten, dass das Produkt "weitgehend" aus biologischer Landwirtschaft stammt.
 
 Um eine Idee davon zu bekommen, was in dieser Verordnung vorgeschrieben ist, hier ein kleiner Auszug:
 
@@ -36,9 +36,9 @@ Der Unterschied zwischen dem schwarz-weissen und dem roten AMA Biosiegel liegt d
 <figure id="attachment_42" style="width: 618px" class="wp-caption alignnone"><img class="size-full wp-image-42" src="/images/bio-kuhe/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png" alt="Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA" width="618" height="343" srcset="/images/bio-kuhe/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png 618w, /images/bio-kuhe/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA-300x167.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA</figcaption></figure>
 
 # II. Steht Bio Haltung für glückliche Kühe?
-Schwierige Frage. _„Glück"_ ist schon bei uns Homo Sapiens schwer zu messen – wie misst man _„Glück"_ bei einer Kuh? Interpretiert man Glück als die Abwesenheit von Stress, so könnte&nbsp;man den Stress (d.h. Cortisol-Levels) von Bio-Kuh und konventionel&nbsp;gehaltener&nbsp;Kuh messen und vergleichen. Bei meiner Recherche habe ich zu wenig&nbsp;Datenmaterial gefunden um so eine Hypothese weiter zu verfolgen.
+Schwierige Frage. _„Glück"_ ist schon bei uns Homo Sapiens schwer zu messen – wie misst man _„Glück"_ bei einer Kuh? Interpretiert man Glück als die Abwesenheit von Stress, so könnte man den Stress (d.h. Cortisol-Levels) von Bio-Kuh und konventionel gehaltener Kuh messen und vergleichen. Bei meiner Recherche habe ich zu wenig Datenmaterial gefunden um so eine Hypothese weiter zu verfolgen.
 
-Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&nbsp;Kategorien herunterzubrechen:
+Daher habe ich entschieden das _„Glück"_ der Kühe auf fünf Kategorien herunterzubrechen:
 
 ### Auslauf
 
@@ -66,21 +66,21 @@ Unter natürlichen Bedingungen besteht eine Rinderherde aus etwa 20-30 Kühen mi
 
 <figure id="attachment_52" style="width: 830px" class="wp-caption alignnone"><img class="wp-image-52 size-full" src="/images/bio-kuhe/Bio-Rinderhaltung-Struktur-oesterreich-2015.png" alt="Bio-Rinderhaltung in Österreich: Vergleich der Strukturdaten Herdengröße und Anzahl der Betriebe" width="830" height="594" srcset="/images/bio-kuhe/Bio-Rinderhaltung-Struktur-oesterreich-2015.png 830w, /images/bio-kuhe/Bio-Rinderhaltung-Struktur-oesterreich-2015-300x215.png 300w, /images/bio-kuhe/Bio-Rinderhaltung-Struktur-oesterreich-2015-768x550.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Vergleich der Strukturdaten Bio-Rinderhaltung in Österreich: Herdengröße und Anzahl der Betriebe</figcaption></figure>
 
-Von den insgesamt 379.895 Rindern aus Bio-Landwirtschaftsbetrieben in Österreich werden die meisten in kleinen Betrieben gehalten. 30% der Bio-Rinder teilen sich beispielsweise auf 22% der Bio-Betriebe auf. Man sieht&nbsp;auch, dass fast die Hälfte&nbsp;der Bio-Betriebe relativ kleine Herden von weniger als 19 Tieren hält. Knapp zwei Drittel&nbsp;haben weniger als 30 Kühe am Hof. Das sind 37% aller Bio-Rinder in Österreich. Zwei Drittel der&nbsp;Bio-Rinder werden in Größen von maximal 50 Tieren gehalten.[^struktur-der-rinderhaltenden]
+Von den insgesamt 379.895 Rindern aus Bio-Landwirtschaftsbetrieben in Österreich werden die meisten in kleinen Betrieben gehalten. 30% der Bio-Rinder teilen sich beispielsweise auf 22% der Bio-Betriebe auf. Man sieht auch, dass fast die Hälfte der Bio-Betriebe relativ kleine Herden von weniger als 19 Tieren hält. Knapp zwei Drittel haben weniger als 30 Kühe am Hof. Das sind 37% aller Bio-Rinder in Österreich. Zwei Drittel der Bio-Rinder werden in Größen von maximal 50 Tieren gehalten.[^struktur-der-rinderhaltenden]
 
-Österreich ist im europäischen Vergleich Spitzenreiter in der Bio-Rinderhaltung.&nbsp;Der Bio-Anteil in EU-27 lag in 2010 im Durchschnitt bei unter 3%[^facts-and-figures]. In Österreich kamen in 2013 mehr als 19% aller Rinder aus biologischer Haltung, Tendenz steigend.
+Österreich ist im europäischen Vergleich Spitzenreiter in der Bio-Rinderhaltung. Der Bio-Anteil in EU-27 lag in 2010 im Durchschnitt bei unter 3%[^facts-and-figures]. In Österreich kamen in 2013 mehr als 19% aller Rinder aus biologischer Haltung, Tendenz steigend.
 
 <figure id="attachment_8" style="width: 829px" class="wp-caption alignnone"><img class="size-full wp-image-8" src="/images/bio-kuhe/Bio-Anteil-im-EU-Vergleich.png" alt="EU Vergleich Anteil Bio-Landwirtschaft" width="829" height="590" srcset="/images/bio-kuhe/Bio-Anteil-im-EU-Vergleich.png 829w, /images/bio-kuhe/Bio-Anteil-im-EU-Vergleich-300x214.png 300w, /images/bio-kuhe/Bio-Anteil-im-EU-Vergleich-768x547.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">EU Vergleich: Anteil Bio-Landwirtschaft, Eurostat 2013</figcaption></figure>
 
-Auch die oben beschriebene kleine Herdengröße ist eher unüblich im europäischen Vergleich. Eine Auswahl der Top 5 Bio-Produzenten plus Deutschland und Frankreich zeigt, wie Rinder bei unseren EU-Nachbarn&nbsp;gehalten werden (ohne Trennung von biologischer und konventioneller Haltung).
+Auch die oben beschriebene kleine Herdengröße ist eher unüblich im europäischen Vergleich. Eine Auswahl der Top 5 Bio-Produzenten plus Deutschland und Frankreich zeigt, wie Rinder bei unseren EU-Nachbarn gehalten werden (ohne Trennung von biologischer und konventioneller Haltung).
 
 <figure id="attachment_15" class="wp-caption alignnone"><img class="size-full wp-image-15" src="/images/bio-kuhe/Vergleich-EU-Strukturdaten-2013.jpg" alt="Strukturdaten Rinderhaltung in EU: Herdengröße und Anzahl der Betriebe" width="905" height="682" srcset="/images/bio-kuhe/Vergleich-EU-Strukturdaten-2013.jpg 905w, /images/bio-kuhe/Vergleich-EU-Strukturdaten-2013-300x226.jpg 300w, /images/bio-kuhe/Vergleich-EU-Strukturdaten-2013-768x579.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"><figcaption class="wp-caption-text">Vergleich der Strukturdaten Rinderhaltung in EU: Herdengröße und Anzahl der Betriebe, EuroStat 2013</figcaption></figure>
 
-In den&nbsp;Vergleichsländern werden über zwei Drittel der Rinder in Großbetrieben von über 100 Rinder pro Betrieb gehalten. In Österreich werden nur 14% so gehalten und innerhalb der biologischen Landwirtschaft sind es sogar nur 7%. Die kleineren Herdengrößen in Österreich sprechen – stark vereinfacht – für bessere Bedingungen für die Kühe.
+In den Vergleichsländern werden über zwei Drittel der Rinder in Großbetrieben von über 100 Rinder pro Betrieb gehalten. In Österreich werden nur 14% so gehalten und innerhalb der biologischen Landwirtschaft sind es sogar nur 7%. Die kleineren Herdengrößen in Österreich sprechen – stark vereinfacht – für bessere Bedingungen für die Kühe.
 
 ### Sozialverhalten
 
-Rinder haben ein ausgeprägtes Sozialverhalten. Es gibt eine Rangordnung und klare Regeln innerhalb einer Herde. Kälber haben eine enge Beziehung zur&nbsp;Mutterkuh: wenn eine Kuh ein Kalb gebärt, leckt sie es trocken und säugt es mehrmals täglich. Die Milch der ersten Tage ist besonders reichhaltig und wichtig für das Immunsystem der Kälber. Nach kurzer Zeit erkennt die Kuh ihr Kalb am Geruch, nach wenigen Tagen kennen sie gegenseitig ihre Stimmen. Rund sechs Monate säugt das Kalb am Euter seiner Mutter.
+Rinder haben ein ausgeprägtes Sozialverhalten. Es gibt eine Rangordnung und klare Regeln innerhalb einer Herde. Kälber haben eine enge Beziehung zur Mutterkuh: wenn eine Kuh ein Kalb gebärt, leckt sie es trocken und säugt es mehrmals täglich. Die Milch der ersten Tage ist besonders reichhaltig und wichtig für das Immunsystem der Kälber. Nach kurzer Zeit erkennt die Kuh ihr Kalb am Geruch, nach wenigen Tagen kennen sie gegenseitig ihre Stimmen. Rund sechs Monate säugt das Kalb am Euter seiner Mutter.
 
 In der Milchviehhaltung werden die Kälber binnen der ersten Lebenswoche, oft schon nach wenigen Stunden oder Tagen, von der Mutter getrennt. Die Kuh ruft noch tagelang nach ihrem Jungen. Früh getrennte Kälber zeigen häufig Verhaltensauffälligkeiten wie gegenseitiges Besaugen.
 
@@ -110,32 +110,31 @@ Im Klartext bedeutet das: wer nicht möchte dass Kalb und Mutter getrennt werden
 
 Auch die strengen, österreichischen Bio-Richtlinien von AMA-Austria oder BIO AUSTRIA schreiben keine Muttergebundene Kälberaufzucht für Milchvieh vor.
 
-##### Wo gibt es&nbsp;Milch aus Muttergebundener Kälberaufzucht in Wien zu kaufen?
+##### Wo gibt es Milch aus Muttergebundener Kälberaufzucht in Wien zu kaufen?
 
-Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden keine solche Milch finden. Auf meine Anfrage bei der Landwirtschaftskammer konnte mir trotz freundlicher Unterstützung auch kein Betrieb genannt werden, der Milch aus Muttergebundener Kälberaufzucht anbieten würde. Solche Milch wird meist&nbsp;nur direkt am Bauernhof zum Eigenbedarf getrunken und stammt von Mütterkühen (sprich von Mastvieh), nicht von Milchkühen.
+Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden keine solche Milch finden. Auf meine Anfrage bei der Landwirtschaftskammer konnte mir trotz freundlicher Unterstützung auch kein Betrieb genannt werden, der Milch aus Muttergebundener Kälberaufzucht anbieten würde. Solche Milch wird meist nur direkt am Bauernhof zum Eigenbedarf getrunken und stammt von Mütterkühen (sprich von Mastvieh), nicht von Milchkühen.
 
-Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal&nbsp;für Kleinbetriebe.
+Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal für Kleinbetriebe.
 
 In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[^kaelberaufzucht]
 
-Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte&nbsp;Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum&nbsp;Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
+Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
 
 # Macht der Kauf von Bio-Produkten dann überhaupt Sinn?
 
-Absolut! Auch wenn outputorientierte Nutztierhaltung immer einen Kompromiss für die artgerechte Form der Tierhaltung darstellt, so sind die Bedingungen in der Bio-Haltung doch merklich&nbsp;besser als in der konventionellen Haltung.
+Absolut! Auch wenn outputorientierte Nutztierhaltung immer einen Kompromiss für die artgerechte Form der Tierhaltung darstellt, so sind die Bedingungen in der Bio-Haltung doch merklich besser als in der konventionellen Haltung.
 
 ![Fazit](/images/bio-kuhe/Fazit.png)
 
-Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der Landwirtschaft:
+Noch viel wichtiger ist _"Bio"_ allerdings für die Nachhaltigkeit in der Landwirtschaft:
 
- - **Nährstoffe im Boden**&nbsp;bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden&nbsp;erholen.
+ - **Nährstoffe im Boden** bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden erholen.
  - **Grundwasser** wird nicht mit Kunstdüngern belastet.
  - Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
  {: style="padding-left: 40px;"}
 
-> Biologische Landwirtschaft schont Böden und Gewässer und hilft&nbsp;damit uns und zukünftigen Generationen.
+> Biologische Landwirtschaft schont Böden und Gewässer und hilft damit uns und zukünftigen Generationen.
 
-&nbsp;
 
 * * *
 
