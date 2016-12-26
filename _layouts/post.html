@@ -46,7 +46,7 @@ layout: default
   <div class="nav-links">
     {% if page.previous %}
     <div class="nav-previous">
-      <a href="{{ page.previous.url }}" rel="prev">
+      <a href="{{ site.baseurl }}{{ page.previous.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Previous</span>
         <span class="screen-reader-text">Previous post:</span>
         <span class="post-title">{{ page.previous.title }}</span>
@@ -55,7 +55,7 @@ layout: default
     {% endif %}
     {% if page.next %}
     <div class="nav-next">
-      <a href="{{ page.next.url }}" rel="prev">
+      <a href="{{ site.baseurl }}{{ page.next.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Next</span>
         <span class="screen-reader-text">Next post:</span>
         <span class="post-title">{{ page.next.title }}</span>
