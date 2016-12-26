@@ -6,7 +6,7 @@ author: marlene
 
 Ich esse gerne Rindfleisch. Bilder von industrieller Tierhaltung fahren mir aber&nbsp;durch Mark und Bein. Deswegen verbringe ich gefühlte Stunden vor dem Kühlregal im Supermarkt und vergleiche Etiketten auf Frischfleisch.
 
-Wenn ich im Schnitt 70%[[0]][1] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich&nbsp;verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
+Wenn ich im Schnitt 70%[^verschiedene-rindfleischteile] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich&nbsp;verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
 
 ![Bio Logos Österreich](http://sapiensoup.com/wp-content/uploads/2016/10/Logos.png)
 
@@ -16,7 +16,8 @@ Produkte mit der Kennzeichnung _„aus natürlicher Landwirtschaft"_&nbsp; oder 
 
 <figure style="width: 300px" class="wp-caption alignnone"><img class="size-medium" src="https://ec.europa.eu/agriculture/organic/sites/orgfarming/files/img/body/organic_farming_logo.jpg" alt="EU Bio-Logo" width="300" height="200"><figcaption class="wp-caption-text">EU Bio-Logo</figcaption></figure>
 
-Die EU regelt die Produktion und Verarbeitung von Bio-Erzeugnissen[[1]][4] und bildet damit die Grundlage für alle weiteren nationalen und regionalen Bio-Siegel.
+Die EU regelt die Produktion und Verarbeitung von Bio-Erzeugnissen[^eu-bio-verordnung] und bildet damit die Grundlage für alle weiteren nationalen und regionalen Bio-Siegel.
+
 
 > Das EU-Bio-Siegel zeigt dem Konsumenten, dass das Produkt "weitgehend"&nbsp;aus biologischer Landwirtschaft stammt.
 
@@ -44,12 +45,12 @@ Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&n
 In der konventionellen Viehhaltung besteht keine Pflicht die Tiere auf die Weide zu lassen. Hier macht das Wörtchen „Bio" einen großen Unterschied. Die EU-Bio-Verordnung schreibt vor:
 
  - ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
- - Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[[2]][6]
+ - Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[^weidelandes]
  {: style="padding-left: 40px;"}
 
 ### Futter
 
-Das Futter muss zu mindestens 60% aus Gras, Heu und Stroh aus biologischem (vorzugsweise Eigen-) Anbau bestehen. Bio-Kraftfutter darf bis zu einem Anteil von 40% verzehrt werden[[3]][7], Tiermehl ist untersagt. Kälber müssen mit natürlicher Milch gefüttert werden, vorzugsweise mit der Milch der Mutterkuh.
+Das Futter muss zu mindestens 60% aus Gras, Heu und Stroh aus biologischem (vorzugsweise Eigen-) Anbau bestehen. Bio-Kraftfutter darf bis zu einem Anteil von 40% verzehrt werden[^laktationsperiode], Tiermehl ist untersagt. Kälber müssen mit natürlicher Milch gefüttert werden, vorzugsweise mit der Milch der Mutterkuh.
 
 <figure id="attachment_11" style="width: 832px" class="wp-caption alignnone"><img class="size-full wp-image-11" src="http://sapiensoup.com/wp-content/uploads/2016/10/Futter.png" alt="Rinder Futter" width="832" height="376" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Futter.png 832w, http://sapiensoup.com/wp-content/uploads/2016/10/Futter-300x136.png 300w, http://sapiensoup.com/wp-content/uploads/2016/10/Futter-768x347.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Was Kühe fressen</figcaption></figure>
 
@@ -65,9 +66,9 @@ Unter natürlichen Bedingungen besteht eine Rinderherde aus etwa 20-30 Kühen mi
 
 <figure id="attachment_52" style="width: 830px" class="wp-caption alignnone"><img class="wp-image-52 size-full" src="http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Rinderhaltung-Struktur-Österreich-2015.png" alt="Bio-Rinderhaltung in Österreich: Vergleich der Strukturdaten Herdengröße und Anzahl der Betriebe" width="830" height="594" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Rinderhaltung-Struktur-Österreich-2015.png 830w, http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Rinderhaltung-Struktur-Österreich-2015-300x215.png 300w, http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Rinderhaltung-Struktur-Österreich-2015-768x550.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Vergleich der Strukturdaten Bio-Rinderhaltung in Österreich: Herdengröße und Anzahl der Betriebe</figcaption></figure>
 
-Von den insgesamt 379.895 Rindern aus Bio-Landwirtschaftsbetrieben in Österreich werden die meisten in kleinen Betrieben gehalten. 30% der Bio-Rinder teilen sich beispielsweise auf 22% der Bio-Betriebe auf. Man sieht&nbsp;auch, dass fast die Hälfte&nbsp;der Bio-Betriebe relativ kleine Herden von weniger als 19 Tieren hält. Knapp zwei Drittel&nbsp;haben weniger als 30 Kühe am Hof. Das sind 37% aller Bio-Rinder in Österreich. Zwei Drittel der&nbsp;Bio-Rinder werden in Größen von maximal 50 Tieren gehalten.[[4]][10]
+Von den insgesamt 379.895 Rindern aus Bio-Landwirtschaftsbetrieben in Österreich werden die meisten in kleinen Betrieben gehalten. 30% der Bio-Rinder teilen sich beispielsweise auf 22% der Bio-Betriebe auf. Man sieht&nbsp;auch, dass fast die Hälfte&nbsp;der Bio-Betriebe relativ kleine Herden von weniger als 19 Tieren hält. Knapp zwei Drittel&nbsp;haben weniger als 30 Kühe am Hof. Das sind 37% aller Bio-Rinder in Österreich. Zwei Drittel der&nbsp;Bio-Rinder werden in Größen von maximal 50 Tieren gehalten.[^struktur-der-rinderhaltenden]
 
-Österreich ist im europäischen Vergleich Spitzenreiter in der Bio-Rinderhaltung.&nbsp;Der Bio-Anteil in EU-27 lag in 2010 im Durchschnitt bei unter 3%[[5]][11]. In Österreich kamen in 2013 mehr als 19% aller Rinder aus biologischer Haltung, Tendenz steigend.
+Österreich ist im europäischen Vergleich Spitzenreiter in der Bio-Rinderhaltung.&nbsp;Der Bio-Anteil in EU-27 lag in 2010 im Durchschnitt bei unter 3%[^facts-and-figures]. In Österreich kamen in 2013 mehr als 19% aller Rinder aus biologischer Haltung, Tendenz steigend.
 
 <figure id="attachment_8" style="width: 829px" class="wp-caption alignnone"><img class="size-full wp-image-8" src="http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Anteil-im-EU-Vergleich.png" alt="EU Vergleich Anteil Bio-Landwirtschaft" width="829" height="590" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Anteil-im-EU-Vergleich.png 829w, http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Anteil-im-EU-Vergleich-300x214.png 300w, http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Anteil-im-EU-Vergleich-768x547.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">EU Vergleich: Anteil Bio-Landwirtschaft, Eurostat 2013</figcaption></figure>
 
@@ -87,9 +88,9 @@ In der Milchviehhaltung werden die Kälber binnen der ersten Lebenswoche, oft sc
 
 Warum werden Mutterkuh und Kalb eigentlich getrennt? Muttertiere produzieren grundsätzlich so viel Milch wie ihre Nachkommen benötigen. Um mehr Milch zu erwirtschaften als das Kalb benötigt, muss man in der Milchproduktion tricksen:
 
- 1. Die Milchkuh bekommt zusätzlich Kraftfutter. Eine österreichische Milchkuh erzielt eine jährliche Milchleistung von durchschnittlich 6.580 Liter pro Jahr[[6]][14], das ist mehr als doppelt so viel als sie für die Ernährung ihres Kalbs benötigen würde[[7]][15]. Raufutter – sprich Gras, Heu, Stroh – hat einen relativ niedrigen Energiewert und reicht nicht aus, um diesen erhöhten Energiebedarf zu decken. Daher wird mit sogenanntem „Kraftfutter" zugefüttert. Dieses besteht bei einem Bio-Milchbauern zumeist aus geschroteten Getreidesorten und Eiweißfrüchten (z.B. Soja, Erbsen) aus Bio-Anbau.
+ 1. Die Milchkuh bekommt zusätzlich Kraftfutter. Eine österreichische Milchkuh erzielt eine jährliche Milchleistung von durchschnittlich 6.580 Liter pro Jahr[^statistik-austria], das ist mehr als doppelt so viel als sie für die Ernährung ihres Kalbs benötigen würde[^milchleistung]. Raufutter – sprich Gras, Heu, Stroh – hat einen relativ niedrigen Energiewert und reicht nicht aus, um diesen erhöhten Energiebedarf zu decken. Daher wird mit sogenanntem „Kraftfutter" zugefüttert. Dieses besteht bei einem Bio-Milchbauern zumeist aus geschroteten Getreidesorten und Eiweißfrüchten (z.B. Soja, Erbsen) aus Bio-Anbau.
  2. Milchkühe werden jedes Jahr geschwängert, denn ohne Kalb – keine Milch.
- 3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[[8]][16] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
+ 3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[^bio-austria] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
 Die vorgeschriebene Gruppenhaltung ab dem Alter von einer Woche soll dem Kalb ein Leben im Sozialverband bieten. Dieser Verband ist meist eine Gruppe von Kälbern und bedeutet nicht, dass das das Tier mit seiner Mutter beisammen sein darf um seinem natürlichen Sozialverhalten – Säugen und Ablecken – nachzugehen. Milch aus echter „Mutterkuhhaltung" sucht man in österreichischen Supermärkten vergebens.
  {: style="padding-left: 40px;"}
 
@@ -99,7 +100,7 @@ Mutterkuhhaltung gibt es natürlich schon, aber nicht bei Milchkühen.
 
 <figure id="attachment_17" style="width: 523px" class="wp-caption alignnone"><img class="size-full wp-image-17" src="http://sapiensoup.com/wp-content/uploads/2016/10/Rinderhaltung-total-vs-Bio.png" alt="Anteil Milch- vs. Mutterkuh im Vergleich biologische vs. konventionelle Rinderhaltung in Österreich" width="523" height="169" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Rinderhaltung-total-vs-Bio.png 523w, http://sapiensoup.com/wp-content/uploads/2016/10/Rinderhaltung-total-vs-Bio-300x97.png 300w" sizes="(max-width: 523px) 85vw, 523px"><figcaption class="wp-caption-text">Vergleich Bio-Rinderhaltung vs. Rinderhaltung gesamt in Österreich, Bundesanstalt für Agrarökonomik, 2015</figcaption></figure>
 
-Ein kleiner Exkurs in die konventionelle Rindviehhaltung macht das verständlicher: in der Rindviehhaltung unterscheidet man zwischen **Milchvieh**, für die Milchproduktion und **Mastvieh**, für die Fleischproduktion. In Österreich werden über zwei Drittel der Kühe als Milchvieh gehalten und rund ein Drittel als Mastvieh[[9]][18]. Da die Milch des Mastviehs nicht kommerziell verwertet wird, kann das Kalb bei der Mutterkuh bleiben und säugen.
+Ein kleiner Exkurs in die konventionelle Rindviehhaltung macht das verständlicher: in der Rindviehhaltung unterscheidet man zwischen **Milchvieh**, für die Milchproduktion und **Mastvieh**, für die Fleischproduktion. In Österreich werden über zwei Drittel der Kühe als Milchvieh gehalten und rund ein Drittel als Mastvieh[^agraroekonomik]. Da die Milch des Mastviehs nicht kommerziell verwertet wird, kann das Kalb bei der Mutterkuh bleiben und säugen.
 
 <figure id="attachment_13" style="width: 822px" class="wp-caption alignnone"><img class="size-full wp-image-13" src="http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015.png" alt="Anteil von Viehtyp am Gesamt-Rinderbestand in Österreich, Bundesanstalt für Agrarökonomik, 2015" width="822" height="712" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015.png 822w, http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015-300x260.png 300w, http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015-768x665.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Viehhaltung Österreich Rinder 2015: Rinderbestand gesamt</figcaption></figure>
 
@@ -115,7 +116,7 @@ Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden keine s
 
 Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal&nbsp;für Kleinbetriebe.
 
-In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[[10]][20]
+In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[^kaelberaufzucht]
 
 Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte&nbsp;Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum&nbsp;Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
 
@@ -138,48 +139,35 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 
 * * *
 
+[^verschiedene-rindfleischteile]:
+    Eigene Berechnung: Verschiedene Rindfleischteile (Hüftsteak, Gulasch, Schnitzel, Faschiertes) im Preisvergleich zwischen Bio und konventioneller Herkunft. Verglichen wurden Proben von drei Einzelhandelsketten in Österreich: Spar, Billa und Hofer am 25.10.2016.
 
-[[0]][22] Eigene Berechnung: Verschiedene Rindfleischteile (Hüftsteak, Gulasch, Schnitzel, Faschiertes) im Preisvergleich zwischen Bio und konventioneller Herkunft. Verglichen wurden Proben von drei Einzelhandelsketten in Österreich: Spar, Billa und Hofer am 25.10.2016.
+[^eu-bio-verordnung]:
+    EU-Bio-Verordnung 834/2007 und 889/2008
 
-[[1]][23] EU-Bio-Verordnung 834/2007 und 889/2008
+[^weidelandes]:
+    Tatsächlich ist die Berechnung der Größe des Weidelandes von vielen Faktoren abhängig. Wer sich hierfür genauer interessiert, dem empfehle ich direkt in der [Bio-Verordnung 889/2008 – Artikel 14](http://www.biola.at/artikel-14-auslauf.html)&nbsp;nachzulesen.
 
-[[2]][24] Tatsächlich ist die Berechnung der Größe des Weidelandes von vielen Faktoren abhängig. Wer sich hierfür genauer interessiert, dem empfehle ich direkt in der [Bio-Verordnung 889/2008 – Artikel 14](http://www.biola.at/artikel-14-auslauf.html)&nbsp;nachzulesen.
+[^laktationsperiode]:
+    Während der Laktationsperiode darf das Verhältnis von Rau- und Kraftfutter 50:50 betragen.
 
-[[3]][26] Während der Laktationsperiode darf das Verhältnis von Rau- und Kraftfutter 50:50 betragen.
+[^struktur-der-rinderhaltenden]:
+    Daten aus "Struktur der Rinderhaltenden Betriebe in Österreich zum Stichtag 1.12.2015", Bundesanstalt für Agrarökonomik, BMLFUW
 
-[[4]][27] Daten aus "Struktur der Rinderhaltenden Betriebe in Österreich zum Stichtag 1.12.2015", Bundesanstalt für Agrarökonomik, BMLFUW
+[^facts-and-figures]:
+    [Facts and figures on organic agriculture in the European Union](http://ec.europa.eu/agriculture/markets-and-prices/more-reports/pdf/organic-2013_en.pdf), 2013
 
-[[5]][28] [Facts and figures on organic agriculture in the European Union](http://ec.europa.eu/agriculture/markets-and-prices/more-reports/pdf/organic-2013_en.pdf), 2013
+[^statistik-austria]:
+    [Statistik Austria](http://www.statistik.at/web_de/statistiken/wirtschaft/land_und_forstwirtschaft/viehbestand_tierische_erzeugung/milch/index.html)
 
-[[6]][30] [Statistik Austria](http://www.statistik.at/web_de/statistiken/wirtschaft/land_und_forstwirtschaft/viehbestand_tierische_erzeugung/milch/index.html)
+[^milchleistung]:
+    [Wikipedia](https://de.wikipedia.org/wiki/Milchleistung)
 
-[[7]][32]&nbsp;[Wikipedia](https://de.wikipedia.org/wiki/Milchleistung)
+[^bio-austria]:
+    laut tel. Auskunft von BIO AUSTRIA ist Bio-Milchpulver verhältnismäßig teuer und wird nur in Notfällen eingesetzt
 
-[[8]][34] laut tel. Auskunft von BIO AUSTRIA ist Bio-Milchpulver verhältnismäßig teuer und wird nur in Notfällen eingesetzt
+[^agraroekonomik]:
+    laut [Bundesanstalt für Agrarökonomik&nbsp;](http://www.agraroekonomik.at/index.php?id=regrinderbest)
 
-[[9]][35]&nbsp;laut [Bundesanstalt für Agrarökonomik&nbsp;](http://www.agraroekonomik.at/index.php?id=regrinderbest)
-
-[[10]][37]&nbsp;[Muttergebundene Kälberaufzucht](http://www.konsumentenverband.ch/service/pdf/muttergebundene-kaelberaufzucht.pdf)
-
-[1]: http://sapiensoup.com#_ftn0
-[4]: http://sapiensoup.com#_ftn1
-[6]: http://sapiensoup.com#_ftn2
-[7]: http://sapiensoup.com#_ftn3
-[10]: http://sapiensoup.com#_ftn4
-[11]: http://sapiensoup.com#_ftn5
-[14]: http://sapiensoup.com#_ftn6
-[15]: http://sapiensoup.com#_ftn7
-[16]: http://sapiensoup.com#_ftn8
-[18]: http://sapiensoup.com#_ftn9
-[20]: http://sapiensoup.com#_ftn10
-[22]: http://sapiensoup.com#_ftnref0
-[23]: http://sapiensoup.com#_ftnref1
-[24]: http://sapiensoup.com#_ftnref2
-[26]: http://sapiensoup.com#_ftnref3
-[27]: http://sapiensoup.com#_ftnref4
-[28]: http://sapiensoup.com#_ftnref5
-[30]: http://sapiensoup.com#_ftnref6
-[32]: http://sapiensoup.com#_ftnref7
-[34]: http://sapiensoup.com#_ftnref8
-[35]: http://sapiensoup.com#_ftnref9
-[37]: http://sapiensoup.com#_ftnref10
+[^kaelberaufzucht]:
+    [Muttergebundene Kälberaufzucht](http://www.konsumentenverband.ch/service/pdf/muttergebundene-kaelberaufzucht.pdf)
