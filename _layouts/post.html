@@ -4,42 +4,34 @@ layout: default
 
 <article class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
-    <h1 class="entry-title">{{ page.title }}
-    </h1>
-  </header>
-  <!-- .entry-header -->
+    <h1 class="entry-title">{{ page.title }}</h1>
+  </header><!-- .entry-header -->
   <div class="entry-content">
-  {{ content }}
-  </div>
-  <!-- .entry-content -->
+    {{ content }}
+  </div><!-- .entry-content -->
   <footer class="entry-footer">
     <span class="byline">
       {% assign author = site.data.authors | where: "id", page.author | first %}
       <span class="author vcard">
         <img alt='' src='{{ author.image }}?s=49&#038;d=mm&#038;r=g' srcset='{{ author.image }}?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' />
-        <span class="screen-reader-text">Author
-        </span>
+        <span class="screen-reader-text">Author</span>
         <a class="url fn n" href="{{ site.baseurl }}/author/{{ author.id }}">{{ author.name }}</a>
       </span>
     </span>
     <span class="posted-on">
-      <span class="screen-reader-text">Posted on
-      </span>
+      <span class="screen-reader-text">Posted on</span>
       <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">
         <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
       </a>
     </span>
-  </footer>
-  <!-- .entry-footer -->
-</article>
-<!-- #post-## -->
+  </footer><!-- .entry-footer -->
+</article><!-- #post-## -->
 <div id="comments" class="comments-area">
   <div id="respond" class="comment-respond">
     <h2 id="reply-title" class="comment-reply-title">Leave a Reply</h2>
     TODO: Disqus
   </div>
-</div>
-<!-- .comments-area -->
+</div><!-- .comments-area -->
 <nav class="navigation post-navigation" role="navigation">
   <h2 class="screen-reader-text">Post navigation
   </h2>
