@@ -63,7 +63,7 @@ Each time the blood circulates through the body, a certain portion of it passes 
 
 The biological pathway through the lungs typically results in a steep increase of delta-9-THC in the bloodstream within 10 minutes of consumption. 11-OH-THC peaks slightly later, at around 15 minutes. After that, levels of both psychoactive molecules decrease sharply until, after 12 hours, their concentration falls under the detectable limit of 0.5 ng/ml. The second and non-psychoactive metabolite 11-COOH-THC peaks more than one hour after consumption and circulates in the bloodstream for a long time. In the quoted study it took 168 hours, i.e. 7 days, to fall under the detectable limit.[^blood-cannabinoids]
 
-<div class="infogram-embed" data-id="c9eb1fcf-210f-4b51-8499-abaadbe70ba2" data-type="interactive" data-title="THC levels after inhalation and ingestion"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="c9eb1fcf-210f-4b51-8499-abaadbe70ba2" title="THC levels after inhalation and ingestion" %}
 
 ### Ingestion
 
@@ -79,7 +79,7 @@ How much of the consumed THC actually makes it into the bloodstream? There is no
 
 In an experiment, six test subjects smoked the exact same amount of delta-9-THC. Test subject Mr. Burns exhibited almost three times as much delta-9-THC in his bloodstream compared to Homer who showed the lowest concentration. For all test subjects the peak was within 6 to 10 minutes after inhalation.[^blood-cannabinoids]
 
-<div class="infogram-embed" data-id="89586b01-8b36-4545-8567-c30edf10ae54" data-type="interactive" data-title="Variability of Bioavailability after Inhalation of THC"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="89586b01-8b36-4545-8567-c30edf10ae54" title="Variability of Bioavailability after Inhalation of THC" %}
 
 What influences bioavailability? Two main factors are (1) method of inhalation, e.g. vaping or smoking, smoking in a joint or pipe, and (2) whether the test subject is an infrequent or regular user. Technique matters, as depth of inhalation, puff duration and breath hold increase bioavailability[^pharmacokinetics]; regular users inhale more efficiently and therefore show a 50-70% higher bioavailability of delta-9-THC.[^clinical-effects] [^single-dose-kinetics]
 
@@ -93,7 +93,7 @@ For ingested delta-9-THC, bioavailability is only between 4-12%. In contrast to 
 
 The following chart compares the delta-9-THC exposure of three different methods of intake: inhalation, ingestion and injection. In practice, delta-9-THC is usually not injected, but was done so in this study as a control for determining the bioavailability of different routes. The same study suggests a mean bioavailability of 18% for inhalation and 6% for ingestion.[^plasma-delta-9]
 
-<div class="infogram-embed" data-id="ff3f7bb9-6ee7-4872-9456-6e40e8de9b6b" data-type="interactive" data-title="Area under curve (AUC) comparison of delta-9-THC"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="ff3f7bb9-6ee7-4872-9456-6e40e8de9b6b" title="Area under curve (AUC) comparison of delta-9-THC" %}
 
 Looking at this chart I was tempted to conclude that inhalation produces a stronger psychoactive effect than ingestion but there are a number of problems with this assumption.
 
@@ -123,7 +123,7 @@ Just around the time when THC concentration is at a high point in the brain, psy
 
 In the "smoking" chart below, you see the typical spike of delta-9-THC levels at the beginning, followed by 11-OH-THC peaking a few minutes later (the study at hand does not display 11-OH-THC levels). The subjectively rated effect achieves the highest level around 10 minutes after the delta-9-THC peak.[^plasma-concentrations]
 
-<div class="infogram-embed" data-id="37c6f3f0-4092-4425-b74b-22c102b0fc0e" data-type="interactive" data-title="Rated Effect"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="37c6f3f0-4092-4425-b74b-22c102b0fc0e" title="Rated Effect" %}
 
 ### Ingestion
 
@@ -131,7 +131,7 @@ The second tab above shows the same data for ingestion of 20 milligrams of delta
 
 Comparing the psychological high over a timescale from 15 minutes to 360 minutes (i.e. 6 hours) reveals the potency of delta-9-THC via the pathway through the stomach.
 
-<div class="infogram-embed" data-id="e81b9a33-2c23-4da3-90fe-434a8e0dd52f" data-type="interactive" data-title="Comparison of Rated Effect"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="e81b9a33-2c23-4da3-90fe-434a8e0dd52f" title="Comparison of Rated Effect" %}
 
 The study at hand shows comparably small psychological effects for oral consumption. I've seen a second dataset which documented a much stronger psychological high which lasted almost twice as long as in the above study (with the same dose).[^metabolism] [^plasma-concentrations]
 
@@ -143,7 +143,7 @@ An insight the data does provide, however, is that the ratio of delta-9-THC to 1
 
 When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 11-OH-THC. When cannabis is ingested, however, blood tests show this same ratio being 1:1.[^metabolism]
 
-<div class="infogram-embed" data-id="95c829f4-94b4-48a2-8021-a1b296337cc9" data-type="interactive" data-title="Composition"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t),d=o[0],a=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=a+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var r=e.createElement(t);r.async=1,r.id=n,r.src=s,d.parentNode.insertBefore(r,d)}}(document,"script","infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script>
+{% include infogram.html id="95c829f4-94b4-48a2-8021-a1b296337cc9" title="Composition" %}
 
 11-OH-THC passes the blood-brain-barrier more easily than delta-9-THC. Moreover, in animal tests 11-OH-THC has shown to be three to seven times more potent than delta-9-THC, i.e. three to seven times more capable of binding to the CB1 receptors in the brain.[^pharmacokinetics]
 
