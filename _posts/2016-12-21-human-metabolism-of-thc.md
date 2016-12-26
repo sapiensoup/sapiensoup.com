@@ -11,7 +11,7 @@ twitter:
 permalink: /human-metabolism-thc
 ---
 
-It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts&nbsp;the psychological high.
+It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high.
 
 ![Thumbnail-Infographic-Human-Metabolism-THC][1]This post presents a summary of scientific research on the human metabolism of THC—visualized and explained in simple language.
 
@@ -45,7 +45,7 @@ Whether one inhales or ingests cannabis makes a big difference in terms of the m
 
 ### Inhalation
 
-When cannabis is smoked or vaporized, delta-9-THC enters the bloodstream via absorption through the lungs. Once in the bloodstream, the delta-9-THC travels straight to the heart, and the heart then pumps it&nbsp;through the entire body—including the brain—allowing it&nbsp;to bind to cannabinoid receptors. The psychologically experienced high kicks in as the THC molecules pass the blood-brain barrier and bind to receptors in the brain.
+When cannabis is smoked or vaporized, delta-9-THC enters the bloodstream via absorption through the lungs. Once in the bloodstream, the delta-9-THC travels straight to the heart, and the heart then pumps it through the entire body—including the brain—allowing it to bind to cannabinoid receptors. The psychologically experienced high kicks in as the THC molecules pass the blood-brain barrier and bind to receptors in the brain.
 
 There are two kinds of cannabinoid receptors:
 
