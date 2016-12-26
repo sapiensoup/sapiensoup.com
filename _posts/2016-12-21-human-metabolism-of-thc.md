@@ -55,8 +55,8 @@ When cannabis is smoked or vaporized, delta-9-THC enters the bloodstream via abs
 
 There are two kinds of cannabinoid receptors:
 
-1. **CB1 receptors**_,_ which are activated by delta-9-THC and 11-OH-THC and found primarily in the brain and central nervous system; and
-2. **CB2 receptors**_,_ which are activated by cannabinol and found primarily in the tonsils, spleen and white blood cells.
+1. **CB1 receptors,** which are activated by delta-9-THC and 11-OH-THC and found primarily in the brain and central nervous system; and
+2. **CB2 receptors,** which are activated by cannabinol and found primarily in the tonsils, spleen and white blood cells.
 
 Each time the blood circulates through the body, a certain portion of it passes through the liver. There, psychoactive delta-9-THC is metabolized into psychoactive 11-OH-THC and non-psychoactive 11-COOH-THC. Afterward, these two metabolites travel along with delta-9-THC to the heart and from there throughout the body. Like delta-9-THC, 11-OH-THC also binds to CB1 receptors in the brain.
 
