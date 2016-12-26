@@ -1,5 +1,4 @@
-url: "https://sapiensoup.com"
-baseurl: ""
+url: "https://sapiensoup.github.io/sapiensoup.com"
 feedurl: "/feed"
 title: "SAPIENSOUP Blog"
 markdown: kramdown
