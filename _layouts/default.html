@@ -32,6 +32,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ site.url }}{{ site.feedurl }}" />
     <link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
     <link rel='stylesheet' id='twentysixteen-style-css'  href='{{ site.baseurl }}/css/twentysixteen.css?ver=4.7' type='text/css' media='all' />
+    {% if jekyll.environment == "production" %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -40,6 +41,7 @@
       ga('create', 'UA-85960731-1', 'auto');
       ga('send', 'pageview');
     </script>
+    {% endif %}
   </head>
   <body class="post-template-default single single-post postid-114 single-format-standard wp-custom-logo group-blog">
     <div id="page" class="site">
