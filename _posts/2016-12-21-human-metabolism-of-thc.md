@@ -103,7 +103,7 @@ First is that with bioavailability fluctuating wildly between users, it's diffic
 
 Second—and more importantly—THC blood levels are a terrible indicator for the magnitude of a psychological high.
 
-&gt; THC blood levels are a terrible indicator for the magnitude of a psychological high.
+> THC blood levels are a terrible indicator for the magnitude of a psychological high.
 
 Blood transports the THC but it's the destination that matters:
 
@@ -141,7 +141,7 @@ Many users claim that edibles produce a stronger and more "psychedelic" effect w
 
 An insight the data does provide, however, is that the ratio of delta-9-THC to 11-OH-THC impacts the intensity of the psychological high. And this ratio depends directly on the method of intake.
 
-&gt; The 'first-pass effect' through the liver drastically changes the ratio of the two psychoactive cannabinoids.
+> The 'first-pass effect' through the liver drastically changes the ratio of the two psychoactive cannabinoids.
 
 When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 11-OH-THC. When cannabis is ingested, however, blood tests show this same ratio being 1:1.[^metabolism]
 
@@ -151,7 +151,7 @@ When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 
 
 Altogether, this means that the lower bioavailability of delta-9-THC when ingested seems to get balanced out by the larger occurrence of 11-OH-THC and its higher potency in the brain.
 
-&gt; The conclusion is that 11-OH-THC gets you a 'better bind for the buck'.
+> The conclusion is that 11-OH-THC gets you a 'better bind for the buck'.
 
 # What I've learned
 
