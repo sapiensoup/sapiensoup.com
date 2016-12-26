@@ -14,7 +14,9 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
     <meta property="article:section" content="health" />
+    {% if page.date %}
     <meta property="article:published_time" content="{{ page.date | date_to_xmlschema}}" />
+    {% endif %}
     {% if page.facebook.image %}
     <meta property="og:image" content="{{ page.facebook.image }}" />
     {% endif %}
@@ -83,7 +85,11 @@
         </header>
         <!-- .site-header -->
         <div id="content" class="site-content">
-          {{ content }}
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+              {{ content }}
+            </main><!-- .site-main -->
+          </div><!-- .content-area -->
           <aside id="secondary" class="sidebar widget-area" role="complementary">
             <section id="text-3" class="widget widget_text">
               <h2 class="widget-title">ABOUT
@@ -96,7 +102,7 @@
                 <br>
                 3) and share our findings.
                 <p>
-                  <a href="http://sapiensoup.com/why-are-we-doing-this/">MORE...
+                  <a href="{{ site.baseurl }}/about">Read more&hellip;
                   </a>
               </div>
             </section>
