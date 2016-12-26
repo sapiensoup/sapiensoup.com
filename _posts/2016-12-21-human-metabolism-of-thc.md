@@ -45,6 +45,8 @@ Again, in the liver, delta-9-THC turns into 11-OH-THC which turns into 11-COOH-T
 
 **Note:** The three THC molecules have different properties. For the sake of clarity I'll call them by their full names—delta-9-THC, 11-OH-THC, 11-COOH-THC—unless I mean THC in general.
 
+# Metabolic pathway of THC
+
 Whether one inhales or ingests cannabis makes a big difference in terms of the metabolic pathway that THC takes through the body. And as we will see in the sections to follow, that pathway will impact the efficacy of THC.
 
 ### Inhalation
@@ -68,6 +70,8 @@ The biological pathway through the lungs typically results in a steep increase o
 When ingested, delta-9-THC enters the bloodstream through the walls of the stomach and intestines. Tests with radiolabeled delta-9-THC molecules show this process to be highly effective, with 90-95% of delta-9-THC molecules being absorbed, depending on the carrier medium.[^pharmacokinetics] When absorbed gastrointestinally, delta-9-THC travels first to the liver where most of it is eliminated or metabolized before it has ever had a chance to activate a receptor. After this first pass through the liver, the remaining delta-9-THC and both its metabolites get to the heart and from there into circulation. Delta-9-THC and 11-OH-THC reach the brain simultaneously.
 
 <figure id="attachment_156" style="width: 424px" class="wp-caption aligncenter"><img class="wp-image-156" src="http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Lungs-848.png" alt="Metabolic-Pathway-Stomach" width="424" height="150" srcset="http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Lungs-848.png 848w, http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Lungs-848-300x106.png 300w, http://sapiensoup.com/wp-content/uploads/2016/12/Metabolic-Pathway-Lungs-848-768x272.png 768w" sizes="(max-width: 424px) 85vw, 424px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after ingestion</center></figcaption></figure>
+
+# Bioavailability
 
 How much of the consumed THC actually makes it into the bloodstream? There is no easy answer. The fact is that bioavailability fluctuates wildly.
 
@@ -108,6 +112,7 @@ As you can see in the chart above[^marijuana-toxicity], after smoking THC there 
 
 Finally, **THC is not just THC.** Some studies suggest, that the psychological high correlates better with the blood levels of the metabolite 11-OH-THC whose absolute representation would be much lower than the one of delta-9-THC.[^metabolism] More on this in the next and final sections.
 
+# Psychological high
 
 Just around the time when THC concentration is at a high point in the brain, psychoactive effects start to manifest. In the study described below, users were asked to rate the intensity of their experience over time on a scale from 1 to 10 in both inhalation and ingestion scenarios.
 
@@ -136,6 +141,8 @@ When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 
 Altogether, this means that the lower bioavailability of delta-9-THC when ingested seems to get balanced out by the larger occurrence of 11-OH-THC and its higher potency in the brain.
 
 &gt; The conclusion is that 11-OH-THC gets you a 'better bind for the buck'.
+
+# What I've learned
 
 There aren't many studies which investigate the correlation of psychological high to THC concentration in blood serum. But the ones who did, pointed to a better correlation of 11-OH-THC with the psychological high state. That's interesting news for the notorious optimizer in me, because it lets you achieve more with less.
 
