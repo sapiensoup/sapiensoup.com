@@ -5,7 +5,7 @@ title: Why are we doing this?
 
 We are two skeptical geeks who
 
-<ol class="ili-indent">
+<ol style="padding-left: 40px;">
   <li>never take anything at face value,</li>
   <li>scrutinize the evidence</li>
   <li>and share our findings.</li>
