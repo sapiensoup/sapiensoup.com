@@ -8,7 +8,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ site.url }}{{ site.feedurl }}" />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='stylesheet' type='text/css' media='all' href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' />
-    <link rel='stylesheet' type='text/css' media='all' href='{{ site.baseurl }}/css/twentysixteen.css?ver=4.7' />
+    <link rel='stylesheet' type='text/css' media='all' href='/css/twentysixteen.css?ver=4.7' />
     <meta name="description" content="{{ page.excerpt | strip_html }}"/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
@@ -41,7 +41,7 @@
           <div class="site-header-main">
             <div class="site-branding">
               <a href="{{ site.url }}" class="custom-logo-link" rel="home" itemprop="url">
-                <img width="120" height="115" src="{{ site.baseurl }}/images/masthead-logo.png" class="custom-logo" alt="" itemprop="logo" />
+                <img width="120" height="115" src="/images/masthead-logo.png" class="custom-logo" alt="" itemprop="logo" />
               </a>
               <p class="site-title">
                 <a href="{{ site.url }}" rel="home">{{ site.title }}</a>
@@ -62,7 +62,7 @@
                 1) never take anything at face value,<br>
                 2) scrutinize the evidence,<br>
                 3) and share our findings. <p>
-								<a href="{{ site.baseurl }}/about">Read more&hellip;</a>
+								<a href="/about">Read more&hellip;</a>
               </div>
             </section>
             <section id="search-2" class="widget widget_search">
@@ -82,7 +82,7 @@
               <ul>
                 {% for post in site.posts %}
                 <li>
-                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
                 {% endfor %}
               </ul>

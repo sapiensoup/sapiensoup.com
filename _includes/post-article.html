@@ -19,12 +19,12 @@
       <span class="author vcard">
         <img alt='' src='{{ author.image }}?s=49&#038;d=mm&#038;r=g' srcset='{{ author.image }}?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' />
         <span class="screen-reader-text">Author</span>
-        <a class="url fn n" href="{{ site.baseurl }}/author/{{ author.id }}">{{ author.name }}</a>
+        <a class="url fn n" href="/author/{{ author.id }}">{{ author.name }}</a>
       </span>
     </span>
     <span class="posted-on">
       <span class="screen-reader-text">Posted on</span>
-      <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
+      <a href="{{ post.url }}" rel="bookmark">
         <time class="entry-date published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
       </a>
     </span>

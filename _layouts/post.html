@@ -18,7 +18,7 @@ layout: default
   <div class="nav-links">
     {% if post.previous %}
     <div class="nav-previous">
-      <a href="{{ site.baseurl }}{{ post.previous.url }}" rel="prev">
+      <a href="{{ post.previous.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Previous</span>
         <span class="screen-reader-text">Previous post:</span>
         <span class="post-title">{{ post.previous.title }}</span>
@@ -27,7 +27,7 @@ layout: default
     {% endif %}
     {% if post.next %}
     <div class="nav-next">
-      <a href="{{ site.baseurl }}{{ post.next.url }}" rel="prev">
+      <a href="{{ post.next.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Next</span>
         <span class="screen-reader-text">Next post:</span>
         <span class="post-title">{{ post.next.title }}</span>
