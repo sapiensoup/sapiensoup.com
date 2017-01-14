@@ -18,7 +18,7 @@
       <name>{{ site.data.authors | where: "id", post.author | first | map: "name" }}</name>
       <uri>{{ site.url }}/author/{{ post.author }}</uri>
     </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
+    <summary>{{ post.excerpt }}</summary>
   </entry>
   {% endfor %}
 </feed>
