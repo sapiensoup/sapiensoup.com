@@ -1,15 +1,15 @@
-{% assign page = include.page %}
+{% assign post = include.post %}
 
 <article class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
-    <h1 class="entry-title">{{ page.title }}</h1>
+    <h1 class="entry-title">{{ post.title }}</h1>
   </header><!-- .entry-header -->
   <div class="entry-content">
-    {{ page.content }}
+    {{ post.content }}
   </div><!-- .entry-content -->
   <footer class="entry-footer">
     <span class="byline">
-      {% assign author = site.data.authors | where: "id", page.author | first %}
+      {% assign author = site.data.authors | where: "id", post.author | first %}
       <span class="author vcard">
         <img alt='' src='{{ author.image }}?s=49&#038;d=mm&#038;r=g' srcset='{{ author.image }}?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' />
         <span class="screen-reader-text">Author</span>
@@ -18,8 +18,8 @@
     </span>
     <span class="posted-on">
       <span class="screen-reader-text">Posted on</span>
-      <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">
-        <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
+        <time class="entry-date published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
       </a>
     </span>
   </footer><!-- .entry-footer -->

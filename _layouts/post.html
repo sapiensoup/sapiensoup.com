@@ -2,7 +2,9 @@
 layout: default
 ---
 
-{% include post-article.html page=page %}
+{% assign post = page %}
+
+{% include post-article.html post=post %}
 
 <div id="comments" class="comments-area">
   <div id="respond" class="comment-respond">
@@ -14,21 +16,21 @@ layout: default
   <h2 class="screen-reader-text">Post navigation
   </h2>
   <div class="nav-links">
-    {% if page.previous %}
+    {% if post.previous %}
     <div class="nav-previous">
-      <a href="{{ site.baseurl }}{{ page.previous.url }}" rel="prev">
+      <a href="{{ site.baseurl }}{{ post.previous.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Previous</span>
         <span class="screen-reader-text">Previous post:</span>
-        <span class="post-title">{{ page.previous.title }}</span>
+        <span class="post-title">{{ post.previous.title }}</span>
       </a>
     </div>
     {% endif %}
-    {% if page.next %}
+    {% if post.next %}
     <div class="nav-next">
-      <a href="{{ site.baseurl }}{{ page.next.url }}" rel="prev">
+      <a href="{{ site.baseurl }}{{ post.next.url }}" rel="prev">
         <span class="meta-nav" aria-hidden="true">Next</span>
         <span class="screen-reader-text">Next post:</span>
-        <span class="post-title">{{ page.next.title }}</span>
+        <span class="post-title">{{ post.next.title }}</span>
       </a>
     </div>
     {% endif %}
