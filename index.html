@@ -3,4 +3,6 @@ layout: default
 title: sapiensoup.com
 ---
 
-{{ site.url }}
+{% for post in site.posts %}
+{% include post-article.html page=post %}
+{% endfor %}
