@@ -3,7 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% unless page.title == 'Home' %}{{ page.title }} &ndash; {% endunless %}{{ site.title }}</title>
+    {% if page.layout == 'author' %}
+    {% assign section_title = site.data.authors | where: "id", page.author | first | map: "name" %}
+    {% elsif page.title != 'Home' %}
+    {% assign section_title = page.title %}
+    {% endif %}
+    <title>{% if section_title %}{{ section_title }} &ndash; {% endif %}{{ site.title }}</title>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ site.url }}{{ site.feedurl }}" />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
