@@ -1,7 +1,2 @@
 title: "SAPIENSOUP Blog"
 markdown: kramdown
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
