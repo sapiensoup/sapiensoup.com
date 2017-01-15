@@ -16,7 +16,7 @@ Produkte mit der Kennzeichnung _„aus natürlicher Landwirtschaft"_&nbsp; oder 
 
 Die EU regelt die Produktion und Verarbeitung von Bio-Erzeugnissen[[1]][4] und bildet damit die Grundlage für alle weiteren nationalen und regionalen Bio-Siegel.
 
-&gt; Das EU-Bio-Siegel zeigt dem Konsumenten, dass das Produkt "weitgehend"&nbsp;aus biologischer Landwirtschaft stammt.
+> Das EU-Bio-Siegel zeigt dem Konsumenten, dass das Produkt "weitgehend"&nbsp;aus biologischer Landwirtschaft stammt.
 
 Um eine Idee davon zu bekommen, was in dieser Verordnung vorgeschrieben ist, hier ein kleiner Auszug:
 
@@ -87,7 +87,7 @@ Warum werden Mutterkuh und Kalb eigentlich getrennt? Muttertiere produzieren gru
 3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[[8]][16] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
 Die vorgeschriebene Gruppenhaltung ab dem Alter von einer Woche soll dem Kalb ein Leben im Sozialverband bieten. Dieser Verband ist meist eine Gruppe von Kälbern und bedeutet nicht, dass das das Tier mit seiner Mutter beisammen sein darf um seinem natürlichen Sozialverhalten – Säugen und Ablecken – nachzugehen. Milch aus echter „Mutterkuhhaltung" sucht man in österreichischen Supermärkten vergebens.
 
-&gt; „Aber ich sehe oft Kühe mit ihren Jungen auf der Wiese grasen, wie kann das sein wenn die Tiere getrennt werden?"
+> „Aber ich sehe oft Kühe mit ihren Jungen auf der Wiese grasen, wie kann das sein wenn die Tiere getrennt werden?"
 
 Mutterkuhhaltung gibt es natürlich schon, aber nicht bei Milchkühen.
 
@@ -99,7 +99,7 @@ Ein kleiner Exkurs in die konventionelle Rindviehhaltung macht das verständlich
 
 Im Klartext bedeutet das: wer nicht möchte dass Kalb und Mutter getrennt werden, darf keine Milch aus dem Supermarkt kaufen, egal ob Bio-Milch oder konventionelle Milch.
 
-&gt; Wer nicht möchte, dass Kalb und Mutter getrennt werden, darf keine Milch kaufen.
+> Wer nicht möchte, dass Kalb und Mutter getrennt werden, darf keine Milch kaufen.
 
 Auch die strengen, österreichischen Bio-Richtlinien von AMA-Austria oder BIO AUSTRIA schreiben keine Muttergebundene Kälberaufzucht für Milchvieh vor.
 
@@ -122,7 +122,7 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 * **Grundwasser** wird nicht mit Kunstdüngern belastet.
 * Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
 
-&gt; Biologische Landwirtschaft schont Böden und Gewässer und hilft&nbsp;damit uns und zukünftigen Generationen.
+> Biologische Landwirtschaft schont Böden und Gewässer und hilft&nbsp;damit uns und zukünftigen Generationen.
 
 &nbsp;
 
