@@ -43,9 +43,9 @@ Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&n
 
 In der konventionellen Viehhaltung besteht keine Pflicht die Tiere auf die Weide zu lassen. Hier macht das Wörtchen „Bio" einen großen Unterschied. Die EU-Bio-Verordnung schreibt vor:
 
-* ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
-* Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[[2]][6]
-{: style="padding-left: 40px;"}
+ - ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
+ - Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[[2]][6]
+ {: style="padding-left: 40px;"}
 
 ### Futter
 
@@ -87,11 +87,11 @@ In der Milchviehhaltung werden die Kälber binnen der ersten Lebenswoche, oft sc
 
 Warum werden Mutterkuh und Kalb eigentlich getrennt? Muttertiere produzieren grundsätzlich so viel Milch wie ihre Nachkommen benötigen. Um mehr Milch zu erwirtschaften als das Kalb benötigt, muss man in der Milchproduktion tricksen:
 
-1. Die Milchkuh bekommt zusätzlich Kraftfutter. Eine österreichische Milchkuh erzielt eine jährliche Milchleistung von durchschnittlich 6.580 Liter pro Jahr[[6]][14], das ist mehr als doppelt so viel als sie für die Ernährung ihres Kalbs benötigen würde[[7]][15]. Raufutter – sprich Gras, Heu, Stroh – hat einen relativ niedrigen Energiewert und reicht nicht aus, um diesen erhöhten Energiebedarf zu decken. Daher wird mit sogenanntem „Kraftfutter" zugefüttert. Dieses besteht bei einem Bio-Milchbauern zumeist aus geschroteten Getreidesorten und Eiweißfrüchten (z.B. Soja, Erbsen) aus Bio-Anbau.
-2. Milchkühe werden jedes Jahr geschwängert, denn ohne Kalb – keine Milch.
-3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[[8]][16] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
+ 1. Die Milchkuh bekommt zusätzlich Kraftfutter. Eine österreichische Milchkuh erzielt eine jährliche Milchleistung von durchschnittlich 6.580 Liter pro Jahr[[6]][14], das ist mehr als doppelt so viel als sie für die Ernährung ihres Kalbs benötigen würde[[7]][15]. Raufutter – sprich Gras, Heu, Stroh – hat einen relativ niedrigen Energiewert und reicht nicht aus, um diesen erhöhten Energiebedarf zu decken. Daher wird mit sogenanntem „Kraftfutter" zugefüttert. Dieses besteht bei einem Bio-Milchbauern zumeist aus geschroteten Getreidesorten und Eiweißfrüchten (z.B. Soja, Erbsen) aus Bio-Anbau.
+ 2. Milchkühe werden jedes Jahr geschwängert, denn ohne Kalb – keine Milch.
+ 3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[[8]][16] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
 Die vorgeschriebene Gruppenhaltung ab dem Alter von einer Woche soll dem Kalb ein Leben im Sozialverband bieten. Dieser Verband ist meist eine Gruppe von Kälbern und bedeutet nicht, dass das das Tier mit seiner Mutter beisammen sein darf um seinem natürlichen Sozialverhalten – Säugen und Ablecken – nachzugehen. Milch aus echter „Mutterkuhhaltung" sucht man in österreichischen Supermärkten vergebens.
-{: style="padding-left: 40px;"}
+ {: style="padding-left: 40px;"}
 
 > „Aber ich sehe oft Kühe mit ihren Jungen auf der Wiese grasen, wie kann das sein wenn die Tiere getrennt werden?"
 
@@ -127,10 +127,10 @@ Absolut! Auch wenn outputorientierte Nutztierhaltung immer einen Kompromiss für
 
 Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der Landwirtschaft:
 
-* **Nährstoffe im Boden**&nbsp;bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden&nbsp;erholen.
-* **Grundwasser** wird nicht mit Kunstdüngern belastet.
-* Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
-{: style="padding-left: 40px;"}
+ - **Nährstoffe im Boden**&nbsp;bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden&nbsp;erholen.
+ - **Grundwasser** wird nicht mit Kunstdüngern belastet.
+ - Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
+ {: style="padding-left: 40px;"}
 
 > Biologische Landwirtschaft schont Böden und Gewässer und hilft&nbsp;damit uns und zukünftigen Generationen.
 
