@@ -7,28 +7,32 @@ permalink: /what-zika-is-and-how-to-avoid-it
 
 Why should we care about Zika? News of the Zika virus is all around, but how dangerous is it really? And is Zika relevant for people who are not intending to have kids? Here's my four-part journey on what we actually know and don't know about the Zika virus to date.
 
-[Part 1: What is Zika and why is it in the news?][1]
-[Part 2: What diseases does Zika cause? And how do I know if I have Zika?][2]
-[Part 3: How do I avoid getting Zika?][3]
-[Part 4: What's the future of the Zika virus?][4]
+[Part 1: What is Zika and why is it in the news?][1]<br/>
+[Part 2: What diseases does Zika cause? And how do I know if I have Zika?][2]<br/>
+[Part 3: How do I avoid getting Zika?][3]<br/>
+[Part 4: What's the future of the Zika virus?][4]<br/>
+
+# Part 1: What is Zika and why is it in the news?
 
 Zika is not a new virus. Like all zoonotic viruses (meaning of non-human origin that's jumped over to humans) it has been around for a long time. So why are we only hearing about it now? Perhaps because we didn't think it was a virus that causes serious damage and the number of people affected by it was limited. In fact, there are many small virus outbreaks that no one ever hears about simply because of their magnitude. If you want to get hysterical about possible looming epidemics, check out the website of the European Centre for Disease Prevention and Control ([ECDC][5]).
 
 Zika is a flavivirus, which means it belongs to the same group as dengue, yellow fever, Japanese encephalitis, and the West Nile virus.
 
-![Zika virus particle][6]Zika virus particle (By Manuel Almagro Rivas,&nbsp;[CC BY-SA 4.0][7]&nbsp;, via Wikimedia Commons)
+<figure id="attachment_80" style="width: 240px" class="wp-caption alignnone"><img class="size-full wp-image-80" src="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-virus-particle.png" alt="Zika virus particle" width="240" height="240" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-virus-particle.png 240w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-virus-particle-150x150.png 150w" sizes="(max-width: 240px) 85vw, 240px"><figcaption class="wp-caption-text">Zika virus particle (By Manuel Almagro Rivas,&nbsp;<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons)</figcaption></figure>
 
 The virus was first isolated from a sick monkey in the Zika Forest in Uganda in 1947, hence its name. It was then found in mosquitoes in that same forest a few years later. In 1968, Zika was first isolated from humans in Nigeria. It was known that the virus caused mostly transient febrile illness, in combinations with a possible rash, headache, joint pain, and conjunctivitis. Most patients recovered fully within a week and so the disease associated with the Zika virus was perceived as mild and self-limiting.
 
 In 2007, however, there was an outbreak on Yap Island in the southwestern Pacific Ocean. This was the first time the virus was detected outside of Africa and Asia, and it had infected nearly 75% of the population[[1]][8]. In 2013 Zika's spread continued to French Polynesia, and it was estimated that around 32,000 people were infected. This time a few cases of Guillain-Barré syndrome (GBS) were linked to the virus. GBS is a disorder in which the body's immune system attacks its own nerve cells, which can lead to paralysis[[2]][9]. There is only an _association_ between Zika and GBS – the literature on the causality between Zika and GBS is unsatisfactory[[3]][10]. What we do know is that neurological problems, not necessarily GBS, can arise following Zika infections.
 
-![Zika transmission worldwide, 28 October 2016][11]Zika transmission worldwide, 28 October 2016 (ECDC)
+<figure id="attachment_87" style="width: 840px" class="wp-caption alignleft"><img class="size-large wp-image-87" src="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-outbreak-map-worldwide-1024x597.png" alt="Zika transmission worldwide, 28 October 2016" width="840" height="490" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-outbreak-map-worldwide-1024x597.png 1024w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-outbreak-map-worldwide-300x175.png 300w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-outbreak-map-worldwide-768x448.png 768w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-outbreak-map-worldwide-1200x700.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"><figcaption class="wp-caption-text">Zika transmission worldwide, 28 October 2016 (ECDC)</figcaption></figure>
 
 After French Polynesia, more and more Pacific islands were affected by outbreaks in 2014 and 2015, but the reason you and I know about Zika is because Brazil was hit hard in 2015, and the Olympics were planned for 2016. Within a few months Brazil had 1.3 million suspected cases. By September 2015 there was an unusual increase in the number of infants born with microcephaly in the same area Zika had first been reported[[4]][12]. And so the rest of the world took notice.
 
+# Part 2: What diseases does Zika cause? And how do I know if I have Zika?
+
 In 80% of cases, after being infected by the Zika virus, you won't notice anything. If you do, you're most likely to come down with a mild flu. Only in very rare cases does it cause neurological problems. I asked myself just how _rare_, but could not find any solid information on how many patients actually get neurological problems following a Zika infection. Zika can cause severe problems for an unborn child of a Zika-infected mother called the _congenital Zika syndrome_, which includes microcephaly.
 
-![Microcephaly][13]Microcephaly (By Centers for Disease Control and Prevention via Wikimedia Commons)
+<figure id="attachment_82" style="width: 512px" class="wp-caption alignnone"><img class="wp-image-82 size-full" src="http://sapiensoup.com/wp-content/uploads/2016/11/Microcephaly.jpg" alt="Microcephaly" width="512" height="295" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/Microcephaly.jpg 512w, http://sapiensoup.com/wp-content/uploads/2016/11/Microcephaly-300x173.jpg 300w" sizes="(max-width: 512px) 85vw, 512px"><figcaption class="wp-caption-text">Microcephaly (By Centers for Disease Control and Prevention via Wikimedia Commons)</figcaption></figure>
 
 Microcephaly basically means a baby's head is much smaller than expected, usually leading to developmental delays, intellectual disability, and a range of other problems from mild to severe. Microcephaly is another possible outcome from infection with toxoplasmosis[[5]][14], rubella or cytomegalovirus during pregnancy, so it's not exclusively linked to the Zika virus[[6]][15]. A preliminary study with 42 patients showed that 29% of the Zika infected mothers showed fetal abnormalities. Of the 12 infected mothers, two had miscarriages. It also didn't matter when during pregnancy the women were infected[[7]][16].
 
@@ -40,13 +44,15 @@ A brand new study published in Nature on the 31st of October showed that mice te
 
 Get tested. The CDC recommends that asymptomatic women who live in areas with active Zika transmission should be tested for Zika IgM as part of the routine obstetric care during the 1st and 2nd trimesters. This test tells you if the person's immune system has created an antibody response to a flavivirus, not necessarily Zika. If the test is positive, you could have had dengue or another flavivirus[[11]][20]. Therefore, a positive IgM test should be followed by a real time RT-PCR test[[12]][21], which gives a definitive diagnosis of Zika infection. The testing is equivalent for men.
 
-![How to avoid getting Zika][22]Transmission of Zika virus and how to avoid getting Zika
+# Part 3: How do I avoid getting Zika?
+
+<figure id="attachment_102" style="width: 807px" class="wp-caption alignleft"><img class="size-large wp-image-102" src="http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-807x1024.png" alt="How to avoid getting Zika" width="807" height="1024" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-807x1024.png 807w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-237x300.png 237w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-768x974.png 768w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet.png 921w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Transmission of Zika virus and how to avoid getting Zika</figcaption></figure>
 
 #### Mosquito
 
 The number one way to get infected with the Zika virus is by being bitten by a mosquito. Mostly the culprit is the _Aedes_ mosquito species (specifically _A. aegypti_ and _A. albopictus_), which typically bite during the daytime and are widely spread throughout the tropical and subtropical regions as well as most of southern Europe[[13]][23].
 
-![Areas in Europe where Aedes albopictus is present, July 2016][24]Areas in Europe where Aedes albopictus is present, July 2016 (ECDC and EFSA, VectorNet)
+<figure id="attachment_85" style="width: 840px" class="wp-caption alignleft"><img class="size-large wp-image-85" src="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-transmitting-mosquito-map-Europe-july-2016-1024x818.jpg" alt="Areas in Europe where Aedes albopictus is present, July 2016" width="840" height="671" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/Zika-transmitting-mosquito-map-Europe-july-2016-1024x818.jpg 1024w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-transmitting-mosquito-map-Europe-july-2016-300x240.jpg 300w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-transmitting-mosquito-map-Europe-july-2016-768x613.jpg 768w, http://sapiensoup.com/wp-content/uploads/2016/11/Zika-transmitting-mosquito-map-Europe-july-2016-1200x958.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"><figcaption class="wp-caption-text">Areas in Europe where Aedes albopictus is present, July 2016 (ECDC and EFSA, VectorNet)</figcaption></figure>
 
 &nbsp;
 
@@ -73,6 +79,8 @@ Testing for Zika&nbsp;(with real time RT-PCR) can cost up to $500 per test in th
 * Avoid traveling to areas with wide spread transmission. At the moment most of South America, Mexico, USA – in particular Florida, Thailand and the Philippines, for weekly updates check the website of the [ECDC][28]
 * Don't have unprotected sex with someone recently back from one of these areas, or make sure that person has tested negative for Zika
 * Plan your next summer holidays away from the areas likely to get Zika next summer, this includes most of southern Europe – the mountains are a great alternative
+
+# Part 4: What’s the future of the Zika virus?
 
 Research on Zika has taken off and fortunately funding has increased to meet the demands set by this new epidemic. This can be seen by the number of publications found on PubMed: since the first paper in 1952 there were a total of 208 publications until 2016. A stunning 88% of all Zika papers on PubMed[[16]][29] were published in the last 11 months!
 
@@ -117,8 +125,6 @@ The good news: Zika appears to be mostly a harmless virus, with only 20% of all 
 19. Barrows NJ, Campos RK, Powell ST et al. A Screen of FDA-Approved Drugs for Inhibitors of Zika Virus Infection. Cell Host Microbe. 2016 Aug 10;20(2):259-70. doi: 10.1016/j.chom.2016.07.004. Epub 2016 Jul 28. PubMed PMID: 27476412. [↑][55]
 20. Xu M, Lee EM, Wen Z et al. Identification of small-molecule inhibitors of Zika virus infection and induced neural cell death via a drug repurposing screen. Nat Med. 2016 Oct;22(10):1101-1107. doi: 10.1038/nm.4184. PubMed PMID: 27571349. [↑][56]
 21. According to Dr. Aberle from the Medical University of Vienna (27 from Vienna, 2 from Innsbruck) on the 25th of October 2016&nbsp;[↑][57]
-
-![][58]
 
 [1]: http://sapiensoup.com#part1
 [2]: http://sapiensoup.com#part2
@@ -177,6 +183,3 @@ The good news: Zika appears to be mostly a harmless virus, with only 20% of all 
 [55]: http://sapiensoup.com#post-74-endnote-ref-18
 [56]: http://sapiensoup.com#post-74-endnote-ref-19
 [57]: http://sapiensoup.com#post-74-endnote-ref-20
-[58]: http://sapiensoup.com/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Follow/icon_Follow_en_US.png
-
-
