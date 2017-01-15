@@ -44,6 +44,7 @@ In der konventionellen Viehhaltung besteht keine Pflicht die Tiere auf die Weide
 
 * ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
 * Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[[2]][6]
+{: style="padding-left: 40px;"}
 
 ### Futter
 
@@ -126,6 +127,7 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 * **Nährstoffe im Boden**&nbsp;bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden&nbsp;erholen.
 * **Grundwasser** wird nicht mit Kunstdüngern belastet.
 * Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
+{: style="padding-left: 40px;"}
 
 > Biologische Landwirtschaft schont Böden und Gewässer und hilft&nbsp;damit uns und zukünftigen Generationen.
 
