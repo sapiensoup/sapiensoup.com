@@ -10,6 +10,8 @@ Wenn ich im Schnitt 70%[[0]][1] mehr Geld für Bio-Rindfleisch ausgebe, möchte 
 
 ![Bio Logos Österreich][2]
 
+# I. Auf welche Bio Siegel kann man sich verlassen?
+
 Produkte mit der Kennzeichnung _„aus natürlicher Landwirtschaft"_&nbsp; oder _„aus kontrolliertem Anbau"_ wirken wie Bio-Produkte, sind es aber oft nicht. Die Vielzahl an Bio-Kennzeichnungen ist verwirrend. Es gibt allerdings eine einfache Hilfe um sich zurecht zu finden: das Bio-Siegel der Europäischen Union. Denn als Faustregel gilt: wenn _"Bio"_ oder _„ökologisch"_ draufsteht dann gelten mindestens die Auflagen der EU. Und die Bestätigung dafür, ist das grüne Logo auf der Verpackung.
 
 ![EU Bio-Logo][3]EU Bio-Logo
@@ -24,13 +26,14 @@ Die EU-Bio-Verordnung sieht z.B. vor, dass 95% der Rohstoffe aus biologischem An
 
 Die Gabe von Hormonen oder der präventive Einsatz von Antibiotika ist verboten. Erkrankt ein Tier, muss zuerst eine Therapie mit Pflanzenextrakten oder homöopathischen Mitteln angestrebt werden. Sollte diese zu keinem Behandlungserfolg führen, so kann ein Tierarzt auch synthetische Medikamente und Antibiotika einsetzen. Werden einem Tier Antibiotika verabreicht, so verdoppelt sich die Wartezeit zur kommerziellen Vermarktung und auch die Milch darf während dieser Zeit nicht als Bio-Milch vertrieben werden. Werden häufiger als drei Mal pro Jahr synthetische Medikamente oder Antibiotika verabreicht, so ist das Tier nicht mehr _„Bio"_ und muss konventionell vermarktet werden.
 
-### AMA-Austria und BIO AUSTRIA
+### <u>AMA-Austria</u> und <u>BIO AUSTRIA</u>
 
 Zusätzlich gibt es in Österreich noch andere Gütesiegel wie z.B. das AMA Biosiegel oder das BIO AUSTRIA Logo. Beide stützen sich auf die EU Verordnung und setzen weitere, noch strengere Richtlinien oben auf. Sie regeln hauptsächlich Hygiene, Herkunft und Qualitätskontrolle.
 Der Unterschied zwischen dem schwarz-weissen und dem roten AMA Biosiegel liegt darin, dass für das rote Siegel sämtliche Rohstoffe aus Österreich stammen müssen.
 
 ![Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA][5]Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA
 
+# II. Steht <u>Bio</u> Haltung für glückliche Kühe?
 Schwierige Frage. _„Glück"_ ist schon bei uns Homo Sapiens schwer zu messen – wie misst man _„Glück"_ bei einer Kuh? Interpretiert man Glück als die Abwesenheit von Stress, so könnte&nbsp;man den Stress (d.h. Cortisol-Levels) von Bio-Kuh und konventionel&nbsp;gehaltener&nbsp;Kuh messen und vergleichen. Bei meiner Recherche habe ich zu wenig&nbsp;Datenmaterial gefunden um so eine Hypothese weiter zu verfolgen.
 
 Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&nbsp;Kategorien herunterzubrechen:
@@ -111,6 +114,8 @@ Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive For
 In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[[10]][20]
 
 Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte&nbsp;Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum&nbsp;Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
+
+# Macht der Kauf von Bio-Produkten dann überhaupt Sinn?
 
 Absolut! Auch wenn outputorientierte Nutztierhaltung immer einen Kompromiss für die artgerechte Form der Tierhaltung darstellt, so sind die Bedingungen in der Bio-Haltung doch merklich&nbsp;besser als in der konventionellen Haltung.
 
