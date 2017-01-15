@@ -2516,11 +2516,6 @@ p > video {
 	max-width: 100%;
 }
 
-.wp-caption img[class*="wp-image-"] {
-	display: block;
-	margin: 0;
-}
-
 .wp-caption .wp-caption-text {
 	color: #686868;
 	font-size: 13px;
