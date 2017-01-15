@@ -76,9 +76,9 @@ Testing for Zika&nbsp;(with real time RT-PCR) can cost up to $500 per test in th
 
 ## Checklist for family-planners
 
-* Avoid traveling to areas with wide spread transmission. At the moment most of South America, Mexico, USA – in particular Florida, Thailand and the Philippines, for weekly updates check the website of the [ECDC][28]
-* Don't have unprotected sex with someone recently back from one of these areas, or make sure that person has tested negative for Zika
-* Plan your next summer holidays away from the areas likely to get Zika next summer, this includes most of southern Europe – the mountains are a great alternative
+ -  Avoid traveling to areas with wide spread transmission. At the moment most of South America, Mexico, USA – in particular Florida, Thailand and the Philippines, for weekly updates check the website of the [ECDC][28]
+ -  Don't have unprotected sex with someone recently back from one of these areas, or make sure that person has tested negative for Zika
+ -  Plan your next summer holidays away from the areas likely to get Zika next summer, this includes most of southern Europe – the mountains are a great alternative
 
 # Part 4: What’s the future of the Zika virus?
 
