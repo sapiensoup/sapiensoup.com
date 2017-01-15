@@ -28,7 +28,8 @@ Die Gabe von Hormonen oder der präventive Einsatz von Antibiotika ist verboten.
 
 ### AMA-Austria und BIO AUSTRIA
 
-Zusätzlich gibt es in Österreich noch andere Gütesiegel wie z.B. das AMA Biosiegel oder das BIO AUSTRIA Logo. Beide stützen sich auf die EU Verordnung und setzen weitere, noch strengere Richtlinien oben auf. Sie regeln hauptsächlich Hygiene, Herkunft und Qualitätskontrolle.<br>
+Zusätzlich gibt es in Österreich noch andere Gütesiegel wie z.B. das AMA Biosiegel oder das BIO AUSTRIA Logo. Beide stützen sich auf die EU Verordnung und setzen weitere, noch strengere Richtlinien oben auf. Sie regeln hauptsächlich Hygiene, Herkunft und Qualitätskontrolle.
+
 Der Unterschied zwischen dem schwarz-weissen und dem roten AMA Biosiegel liegt darin, dass für das rote Siegel sämtliche Rohstoffe aus Österreich stammen müssen.
 
 <figure id="attachment_42" style="width: 618px" class="wp-caption alignnone"><img class="size-full wp-image-42" src="http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png" alt="Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA" width="618" height="343" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png 618w, http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA-300x167.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA</figcaption></figure>
@@ -112,7 +113,8 @@ Auch die strengen, österreichischen Bio-Richtlinien von AMA-Austria oder BIO AU
 
 Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden keine solche Milch finden. Auf meine Anfrage bei der Landwirtschaftskammer konnte mir trotz freundlicher Unterstützung auch kein Betrieb genannt werden, der Milch aus Muttergebundener Kälberaufzucht anbieten würde. Solche Milch wird meist&nbsp;nur direkt am Bauernhof zum Eigenbedarf getrunken und stammt von Mütterkühen (sprich von Mastvieh), nicht von Milchkühen.
 
-Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal&nbsp;für Kleinbetriebe.<br>
+Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal&nbsp;für Kleinbetriebe.
+
 In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[[10]][20]
 
 Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte&nbsp;Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum&nbsp;Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
