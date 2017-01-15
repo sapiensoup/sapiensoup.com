@@ -8,7 +8,7 @@ Ich esse gerne Rindfleisch. Bilder von industrieller Tierhaltung fahren mir aber
 
 Wenn ich im Schnitt 70%[[0]][1] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich&nbsp;verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
 
-![Bio Logos Österreich][2]
+![Bio Logos Österreich](http://sapiensoup.com/wp-content/uploads/2016/10/Logos.png)
 
 # I. Auf welche Bio Siegel kann man sich verlassen?
 
@@ -123,7 +123,7 @@ Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte&n
 
 Absolut! Auch wenn outputorientierte Nutztierhaltung immer einen Kompromiss für die artgerechte Form der Tierhaltung darstellt, so sind die Bedingungen in der Bio-Haltung doch merklich&nbsp;besser als in der konventionellen Haltung.
 
-![Fazit][21]
+![Fazit](http://sapiensoup.com/wp-content/uploads/2016/10/Fazit.png)
 
 Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der Landwirtschaft:
 
@@ -143,29 +143,25 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 
 [[1]][23] EU-Bio-Verordnung 834/2007 und 889/2008
 
-[[2]][24] Tatsächlich ist die Berechnung der Größe des Weidelandes von vielen Faktoren abhängig. Wer sich hierfür genauer interessiert, dem empfehle ich direkt in der [Bio-Verordnung 889/2008 – Artikel 14][25]&nbsp;nachzulesen.
+[[2]][24] Tatsächlich ist die Berechnung der Größe des Weidelandes von vielen Faktoren abhängig. Wer sich hierfür genauer interessiert, dem empfehle ich direkt in der [Bio-Verordnung 889/2008 – Artikel 14](http://www.biola.at/artikel-14-auslauf.html)&nbsp;nachzulesen.
 
 [[3]][26] Während der Laktationsperiode darf das Verhältnis von Rau- und Kraftfutter 50:50 betragen.
 
 [[4]][27] Daten aus "Struktur der Rinderhaltenden Betriebe in Österreich zum Stichtag 1.12.2015", Bundesanstalt für Agrarökonomik, BMLFUW
 
-[[5]][28] [Facts and figures on organic agriculture in the European Union][29], 2013
+[[5]][28] [Facts and figures on organic agriculture in the European Union](http://ec.europa.eu/agriculture/markets-and-prices/more-reports/pdf/organic-2013_en.pdf), 2013
 
-[[6]][30] [Statistik Austria][31]
+[[6]][30] [Statistik Austria](http://www.statistik.at/web_de/statistiken/wirtschaft/land_und_forstwirtschaft/viehbestand_tierische_erzeugung/milch/index.html)
 
-[[7]][32]&nbsp;[Wikipedia][33]
+[[7]][32]&nbsp;[Wikipedia](https://de.wikipedia.org/wiki/Milchleistung)
 
 [[8]][34] laut tel. Auskunft von BIO AUSTRIA ist Bio-Milchpulver verhältnismäßig teuer und wird nur in Notfällen eingesetzt
 
-[[9]][35]&nbsp;laut [Bundesanstalt für Agrarökonomik&nbsp;][36]
+[[9]][35]&nbsp;laut [Bundesanstalt für Agrarökonomik&nbsp;](http://www.agraroekonomik.at/index.php?id=regrinderbest)
 
-[[10]][37]&nbsp;[Muttergebundene Kälberaufzucht][38]
-
-![][39]
+[[10]][37]&nbsp;[Muttergebundene Kälberaufzucht](http://www.konsumentenverband.ch/service/pdf/muttergebundene-kaelberaufzucht.pdf)
 
 [1]: http://sapiensoup.com#_ftn0
-[2]: http://sapiensoup.com/wp-content/uploads/2016/10/Logos.png
-[3]: https://ec.europa.eu/agriculture/organic/sites/orgfarming/files/img/body/organic_farming_logo.jpg
 [4]: http://sapiensoup.com#_ftn1
 [5]: http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png
 [6]: http://sapiensoup.com#_ftn2
@@ -183,24 +179,14 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 [18]: http://sapiensoup.com#_ftn9
 [19]: http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015.png
 [20]: http://sapiensoup.com#_ftn10
-[21]: http://sapiensoup.com/wp-content/uploads/2016/10/Fazit.png
 [22]: http://sapiensoup.com#_ftnref0
 [23]: http://sapiensoup.com#_ftnref1
 [24]: http://sapiensoup.com#_ftnref2
-[25]: http://www.biola.at/artikel-14-auslauf.html
 [26]: http://sapiensoup.com#_ftnref3
 [27]: http://sapiensoup.com#_ftnref4
 [28]: http://sapiensoup.com#_ftnref5
-[29]: http://ec.europa.eu/agriculture/markets-and-prices/more-reports/pdf/organic-2013_en.pdf
 [30]: http://sapiensoup.com#_ftnref6
-[31]: http://www.statistik.at/web_de/statistiken/wirtschaft/land_und_forstwirtschaft/viehbestand_tierische_erzeugung/milch/index.html
 [32]: http://sapiensoup.com#_ftnref7
-[33]: https://de.wikipedia.org/wiki/Milchleistung
 [34]: http://sapiensoup.com#_ftnref8
 [35]: http://sapiensoup.com#_ftnref9
-[36]: http://www.agraroekonomik.at/index.php?id=regrinderbest
 [37]: http://sapiensoup.com#_ftnref10
-[38]: http://www.konsumentenverband.ch/service/pdf/muttergebundene-kaelberaufzucht.pdf
-[39]: http://sapiensoup.com/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Follow/icon_Follow_en_US.png
-
-
