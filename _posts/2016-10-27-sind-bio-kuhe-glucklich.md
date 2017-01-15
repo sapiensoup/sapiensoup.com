@@ -90,6 +90,7 @@ Warum werden Mutterkuh und Kalb eigentlich getrennt? Muttertiere produzieren gru
 2. Milchkühe werden jedes Jahr geschwängert, denn ohne Kalb – keine Milch.
 3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[[8]][16] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
 Die vorgeschriebene Gruppenhaltung ab dem Alter von einer Woche soll dem Kalb ein Leben im Sozialverband bieten. Dieser Verband ist meist eine Gruppe von Kälbern und bedeutet nicht, dass das das Tier mit seiner Mutter beisammen sein darf um seinem natürlichen Sozialverhalten – Säugen und Ablecken – nachzugehen. Milch aus echter „Mutterkuhhaltung" sucht man in österreichischen Supermärkten vergebens.
+{: style="padding-left: 40px;"}
 
 > „Aber ich sehe oft Kühe mit ihren Jungen auf der Wiese grasen, wie kann das sein wenn die Tiere getrennt werden?"
 
