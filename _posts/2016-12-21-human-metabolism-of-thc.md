@@ -110,7 +110,7 @@ Blood transports the THC but it's the destination that matters:
 
 <img class="aligncenter wp-image-121" src="/images/thc/Distribution-1024x698.jpg" alt="Distribution of THC in the body over time." width="550" height="375" srcset="/images/thc/Distribution-1024x698.jpg 1024w, /images/thc/Distribution-300x205.jpg 300w, /images/thc/Distribution-768x524.jpg 768w, /images/thc/Distribution-1200x818.jpg 1200w, /images/thc/Distribution.jpg 1280w" sizes="(max-width: 550px) 85vw, 550px">
 
-As you can see in the chart above[^marijuana-toxicity], after smoking THC there is a time lag between concentrations in the blood and brain. That's why high THC levels in the bloodstream don't mean that the user experiences a psychological high at the same time.
+As you can see in the chart above,[^marijuana-toxicity] after smoking THC there is a time lag between concentrations in the blood and brain. That's why high THC levels in the bloodstream don't mean that the user experiences a psychological high at the same time.
 
 Finally, **THC is not just THC.** Some studies suggest, that the psychological high correlates better with the blood levels of the metabolite 11-OH-THC whose absolute representation would be much lower than the one of delta-9-THC.[^metabolism] More on this in the next and final sections.
 
@@ -164,7 +164,7 @@ Ergo, if I had the opportunity to enjoy the well-documented benefits of cannabis
 
 ### Minimum effective dose
 
-Coming up with the right _minimum effective dose (MED)_ is a matter of trial and error. Bioavailability fluctuates wildly across individuals and gender. The enzymes in the liver of a man and a woman work differently, which leads to a lower rate of blood plasma clearing in women[^chemistry], something to take into account too.
+Coming up with the right _minimum effective dose (MED)_ is a matter of trial and error. Bioavailability fluctuates wildly across individuals and gender. The enzymes in the liver of a man and a woman work differently, which leads to a lower rate of blood plasma clearing in women,[^chemistry] something to take into account too.
 
 So, where to start? Some edibles sold in US states, which have legalized marijuana, contain astronomical doses of 100 milligrams and more. I haven't encountered studies with oral doses of less than 20 milligrams, but 20 milligrams resulted in a medium to strong effect across the board which makes me believe the MED is significantly lower than that. The US state Colorado mandates a restriction of 10 milligrams of THC per edible, which is also the state's recommended dose per "serving". If one THC infused gummy bear contained 10 milligrams of THC, I'd consider just eating the feet.[^stranger]
 
