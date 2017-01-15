@@ -6,12 +6,13 @@ author: nadine
 
 Why should we care about Zika? News of the Zika virus is all around, but how dangerous is it really? And is Zika relevant for people who are not intending to have kids? Here's my four-part journey on what we actually know and don't know about the Zika virus to date.
 
-[Part 1: What is Zika and why is it in the news?][1]<br/>
-[Part 2: What diseases does Zika cause? And how do I know if I have Zika?][2]<br/>
-[Part 3: How do I avoid getting Zika?][3]<br/>
-[Part 4: What's the future of the Zika virus?][4]<br/>
+[Part 1: What is Zika and why is it in the news?](#part1)<br/>
+[Part 2: What diseases does Zika cause? And how do I know if I have Zika?](#part2)<br/>
+[Part 3: How do I avoid getting Zika?](#part3)<br/>
+[Part 4: What's the future of the Zika virus?](#part4)
 
 # Part 1: What is Zika and why is it in the news?
+{: #part1}
 
 Zika is not a new virus. Like all zoonotic viruses (meaning of non-human origin that's jumped over to humans) it has been around for a long time. So why are we only hearing about it now? Perhaps because we didn't think it was a virus that causes serious damage and the number of people affected by it was limited. In fact, there are many small virus outbreaks that no one ever hears about simply because of their magnitude. If you want to get hysterical about possible looming epidemics, check out the website of the European Centre for Disease Prevention and Control ([ECDC][5]).
 
@@ -28,6 +29,7 @@ In 2007, however, there was an outbreak on Yap Island in the southwestern Pacifi
 After French Polynesia, more and more Pacific islands were affected by outbreaks in 2014 and 2015, but the reason you and I know about Zika is because Brazil was hit hard in 2015, and the Olympics were planned for 2016. Within a few months Brazil had 1.3 million suspected cases. By September 2015 there was an unusual increase in the number of infants born with microcephaly in the same area Zika had first been reported[[4]][12]. And so the rest of the world took notice.
 
 # Part 2: What diseases does Zika cause? And how do I know if I have Zika?
+{: #part2}
 
 In 80% of cases, after being infected by the Zika virus, you won't notice anything. If you do, you're most likely to come down with a mild flu. Only in very rare cases does it cause neurological problems. I asked myself just how _rare_, but could not find any solid information on how many patients actually get neurological problems following a Zika infection. Zika can cause severe problems for an unborn child of a Zika-infected mother called the _congenital Zika syndrome_, which includes microcephaly.
 
@@ -44,6 +46,7 @@ A brand new study published in Nature on the 31st of October showed that mice te
 Get tested. The CDC recommends that asymptomatic women who live in areas with active Zika transmission should be tested for Zika IgM as part of the routine obstetric care during the 1st and 2nd trimesters. This test tells you if the person's immune system has created an antibody response to a flavivirus, not necessarily Zika. If the test is positive, you could have had dengue or another flavivirus[[11]][20]. Therefore, a positive IgM test should be followed by a real time RT-PCR test[[12]][21], which gives a definitive diagnosis of Zika infection. The testing is equivalent for men.
 
 # Part 3: How do I avoid getting Zika?
+{: #part3}
 
 <figure id="attachment_102" style="width: 807px" class="wp-caption alignleft"><img class="size-large wp-image-102" src="http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-807x1024.png" alt="How to avoid getting Zika" width="807" height="1024" srcset="http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-807x1024.png 807w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-237x300.png 237w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet-768x974.png 768w, http://sapiensoup.com/wp-content/uploads/2016/11/How-to-avoid-getting-Zika-Factsheet.png 921w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Transmission of Zika virus and how to avoid getting Zika</figcaption></figure>
 
@@ -80,6 +83,7 @@ Testing for Zika&nbsp;(with real time RT-PCR) can cost up to $500 per test in th
  -  Plan your next summer holidays away from the areas likely to get Zika next summer, this includes most of southern Europe – the mountains are a great alternative
 
 # Part 4: What’s the future of the Zika virus?
+{: #part4}
 
 Research on Zika has taken off and fortunately funding has increased to meet the demands set by this new epidemic. This can be seen by the number of publications found on PubMed: since the first paper in 1952 there were a total of 208 publications until 2016. A stunning 88% of all Zika papers on PubMed[[16]][29] were published in the last 11 months!
 
@@ -125,10 +129,6 @@ The good news: Zika appears to be mostly a harmless virus, with only 20% of all 
 20. Xu M, Lee EM, Wen Z et al. Identification of small-molecule inhibitors of Zika virus infection and induced neural cell death via a drug repurposing screen. Nat Med. 2016 Oct;22(10):1101-1107. doi: 10.1038/nm.4184. PubMed PMID: 27571349. [↑][56]
 21. According to Dr. Aberle from the Medical University of Vienna (27 from Vienna, 2 from Innsbruck) on the 25th of October 2016&nbsp;[↑][57]
 
-[1]: http://sapiensoup.com#part1
-[2]: http://sapiensoup.com#part2
-[3]: http://sapiensoup.com#part3
-[4]: http://sapiensoup.com#part4
 [5]: http://ecdc.europa.eu/en/publications/surveillance_reports/Pages/index.aspx
 [6]: http://sapiensoup.com/wp-content/uploads/2016/11/Zika-virus-particle.png
 [7]: http://creativecommons.org/licenses/by-sa/4.0)
