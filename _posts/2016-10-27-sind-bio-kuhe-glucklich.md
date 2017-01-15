@@ -42,7 +42,7 @@ Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&n
 
 In der konventionellen Viehhaltung besteht keine Pflicht die Tiere auf die Weide zu lassen. Hier macht das Wörtchen „Bio" einen großen Unterschied. Die EU-Bio-Verordnung schreibt vor:
 
-* ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m2 Mindestfläche, für eine Milchkuh sind es 4,5m2 pro Tier und bei Zuchtstieren sind es 30m2 pro Tier
+* ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
 * Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[[2]][6]
 
 ### Futter
@@ -55,7 +55,7 @@ Um das BIO AUSTRIA Logo ausweisen zu dürfen muss der Raufutteranteil mindestens
 
 ### Stall
 
-Im Stall ist der Platz pro Tier abhängig von seinem Gewicht. Beispielsweise hat ein 400kg schweres, junges Mastrind zumindest 5m2 Platz im Stall. Für seine Milchkuh-Kolleginnen sind 6m2 pro Tier reserviert. Das klingt nach mehr, läuft allerdings bei dem durchschnittlichen Gewicht von 600kg einer Milchkuh auf ein ähnliches Verhältnis von Gewicht zu Quadratmeter hinaus. Für die Tiere sind bequeme, saubere, trockene Ruhe- bzw. Liegeflächen mit ganztägiger Tränkmöglichkeit bereitzustellen.
+Im Stall ist der Platz pro Tier abhängig von seinem Gewicht. Beispielsweise hat ein 400kg schweres, junges Mastrind zumindest 5m<sup>2</sup> Platz im Stall. Für seine Milchkuh-Kolleginnen sind 6m<sup>2</sup> pro Tier reserviert. Das klingt nach mehr, läuft allerdings bei dem durchschnittlichen Gewicht von 600kg einer Milchkuh auf ein ähnliches Verhältnis von Gewicht zu Quadratmeter hinaus. Für die Tiere sind bequeme, saubere, trockene Ruhe- bzw. Liegeflächen mit ganztägiger Tränkmöglichkeit bereitzustellen.
 
 ### Herdengröße
 
