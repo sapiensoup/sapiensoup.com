@@ -178,24 +178,35 @@ Another—quite useful—lesson I learned researching the metabolism of delta-9-
 
 * * *
 
-[^wikipedia-on-thc]: Wikipedia on [Tetrahydrocannabinol](https://en.wikipedia.org/wiki/Tetrahydrocannabinol)
+[^wikipedia-on-thc]:
+    Wikipedia on [Tetrahydrocannabinol](https://en.wikipedia.org/wiki/Tetrahydrocannabinol)
 
-[^blood-cannabinoids]: Huestis MA, Henningfield JE, Cone EJ. Blood cannabinoids. I. Absorption of THC and formation of 11-OH-THC and THCCOOH during and after smoking marijuana. J Anal Toxicol. 1992 Sep-Oct;16(5):276-82. PubMed PMID: 1338215.
+[^blood-cannabinoids]:
+    Huestis MA, Henningfield JE, Cone EJ. Blood cannabinoids. I. Absorption of THC and formation of 11-OH-THC and THCCOOH during and after smoking marijuana. J Anal Toxicol. 1992 Sep-Oct;16(5):276-82. PubMed PMID: 1338215.
 
-[^pharmacokinetics]: Grotenhermen F. Pharmacokinetics and pharmacodynamics of cannabinoids. Clin Pharmacokinet. 2003;42(4):327-60. Review. PubMed PMID: 12648025.
+[^pharmacokinetics]:
+    Grotenhermen F. Pharmacokinetics and pharmacodynamics of cannabinoids. Clin Pharmacokinet. 2003;42(4):327-60. Review. PubMed PMID: 12648025.
 
-[^clinical-effects]: Lindgren JE, Ohlsson A, Agurell S, et al. Clinical effects and plasma levels of delta 9-tetrahydrocannabinol (delta 9-THC) in heavy and light users of cannabis. Psychopharmacology (Berl). 1981;74(3):208-12. PubMed PMID: 6267648.
+[^clinical-effects]:
+    Lindgren JE, Ohlsson A, Agurell S, et al. Clinical effects and plasma levels of delta 9-tetrahydrocannabinol (delta 9-THC) in heavy and light users of cannabis. Psychopharmacology (Berl). 1981;74(3):208-12. PubMed PMID: 6267648.
 
-[^single-dose-kinetics]: Ohlsson A, Lindgren JE, Wahlen A, et al. Single dose kinetics of deuterium labelled delta 1-tetrahydrocannabinol in heavy and light cannabis users. Biomed Mass Spectrom. 1982 Jan;9(1):6-10. PubMed PMID: 6277407.
+[^single-dose-kinetics]:
+    Ohlsson A, Lindgren JE, Wahlen A, et al. Single dose kinetics of deuterium labelled delta 1-tetrahydrocannabinol in heavy and light cannabis users. Biomed Mass Spectrom. 1982 Jan;9(1):6-10. PubMed PMID: 6277407.
 
-[^plasma-delta-9]: Ohlsson A, Lindgren JE, Wahlen A, et al. Plasma delta-9 tetrahydrocannabinol concentrations and clinical effects after oral and intravenous administration and smoking. Clin Pharmacol Ther. 1980 Sep;28(3):409-16. PubMed PMID: 6250760.
+[^plasma-delta-9]:
+    Ohlsson A, Lindgren JE, Wahlen A, et al. Plasma delta-9 tetrahydrocannabinol concentrations and clinical effects after oral and intravenous administration and smoking. Clin Pharmacol Ther. 1980 Sep;28(3):409-16. PubMed PMID: 6250760.
 
-[^marijuana-toxicity]: Nahas GG. Marijuana: toxicity and tolerance. In Medical Aspects of Drug Abuse. 1975. _Republished in_ Ashton CH. Pharmacology and effects of cannabis: a brief review. Br J Psychiatry. 2001 Feb;178:101-6. Review. PubMed PMID: 11157422.
+[^marijuana-toxicity]:
+    Nahas GG. Marijuana: toxicity and tolerance. In Medical Aspects of Drug Abuse. 1975. _Republished in_ Ashton CH. Pharmacology and effects of cannabis: a brief review. Br J Psychiatry. 2001 Feb;178:101-6. Review. PubMed PMID: 11157422.
 
-[^metabolism]: Wall ME, Perez-Reyes M. The metabolism of delta 9-tetrahydrocannabinol and related cannabinoids in man. J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):178S-189S. PubMed PMID: 6271823.
+[^metabolism]:
+    Wall ME, Perez-Reyes M. The metabolism of delta 9-tetrahydrocannabinol and related cannabinoids in man. J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):178S-189S. PubMed PMID: 6271823.
 
-[^plasma-concentrations]: Hollister LE, Gillespie HK, Ohlsson A, et al. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
+[^plasma-concentrations]:
+    Hollister LE, Gillespie HK, Ohlsson A, et al. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
 
-[^chemistry]: Sharma P, Murthy P, Bharath MMS. Chemistry, Metabolism, and Toxicology of Cannabis: Clinical Implications. Iranian Journal of Psychiatry. 2012;7(4):149-156. PMCID: PMC3570572
+[^chemistry]:
+    Sharma P, Murthy P, Bharath MMS. Chemistry, Metabolism, and Toxicology of Cannabis: Clinical Implications. Iranian Journal of Psychiatry. 2012;7(4):149-156. PMCID: PMC3570572
 
-[^stranger]: Helpful suggestion found in [the Stranger](http://www.thestranger.com/seattle/a-beginners-guide-to-ingesting-marijuana/Content?oid=20059080).
+[^stranger]:
+    Helpful suggestion found in [the Stranger](http://www.thestranger.com/seattle/a-beginners-guide-to-ingesting-marijuana/Content?oid=20059080).
