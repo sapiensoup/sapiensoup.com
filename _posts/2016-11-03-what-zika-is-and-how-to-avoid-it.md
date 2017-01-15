@@ -105,23 +105,62 @@ The good news: Zika appears to be mostly a harmless virus, with only 20% of all 
 
 * * *
 
-[^zika-outside-africa]: Hayes EB. Zika virus outside Africa. Emerg Infect Dis. 2009 Sep;15(9):1347-50. doi: 10.3201/eid1509.090442. Review. PubMed PMID: 19788800.
-[^mayo-on-gbs]: Information on [GBS](http://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/basics/definition/con-20025832) from the Mayo Clinic
-[^zika-and-gbs]: Leis AA, Stokic DS. Zika Virus and Guillain-Barre Syndrome: Is There Sufficient Evidence for Causality? Front Neurol. 2016 Sep 30;7:170. PubMed PMID: 27746763.
-[^zika-nejm]: Petersen LR, Jamieson DJ, Powers AM, Honein MA. Zika Virus. N Engl J Med. 2016 Apr 21;374(16):1552-63. doi: 10.1056/NEJMra1602113. Review. PubMed PMID: 27028561.
-[^toxoplasmosis]: In Austria from 1992 to 2008, 13% of women infected with toxoplasmosis during pregnancy transmitted the infection to the fetus. (Prusa AR, Kasper DC, Pollak A et al. The Austrian Toxoplasmosis Register, 1992-2008. Clin Infect Dis. 2015 Jan 15;60(2):e4-e10. doi: 10.1093/cid/ciu724. PubMed PMID: 25216688.)
-[^microcephaly]: The CDC's information on [microcephaly](http://www.cdc.gov/ncbddd/birthdefects/microcephaly.html)
-[^zika-rio]: Brasil P, Pereira JP Jr, Raja Gabaglia C et al. Zika Virus Infection in Pregnant Women in Rio de Janeiro – Preliminary Report. N Engl J Med. 2016 Mar 4. PubMed PMID: 26943629.
-[^zika-history]: Wikan N, Smith DR. Zika virus: history of a newly emerging arbovirus. Lancet Infect Dis. 2016 Jul;16(7):e119-26. doi: 10.1016/S1473-3099(16)30010-X. Epub 2016 Jun 6. Review. PubMed PMID: 27282424.
-[^zika-panic]: Grubaugh ND, Andersen KG. Navigating the Zika panic. F1000Res. 2016 Aug 4;5:1914. PubMed PMID: 27746903.
-[^zika-mice]: Govero J, Esakky P, Scheaffer SM et al. Zika virus infection damages the testes in mice. Nature. 2016 Oct 31. doi:10.1038/nature20556. PubMed PMID: 27798603.
-[^zika-yap]: Duffy MR, Chen TH, Hancock WT et al. Zika virus outbreak on Yap Island, Federated States of Micronesia. N Engl J Med. 2009 Jun 11;360(24):2536-43. doi: 10.1056/NEJMoa0805715. PubMed PMID: 19516034.
-[^rt-pcr]: Real time RT-PCR is a way to detect and quantify RNA levels
-[^zika-detection]: Murray KO, Gorchakov R, Carlson AR et al. Prolonged Detection of Zika Virus in Vaginal Secretions and Whole Blood. Emerg Infect Dis. 2017 Jan 15;23(1). doi: 10.3201/eid2301.161394. PubMed PMID: 27748649.
-[^who-fact-sheet]: The WHO's Fact Sheet on the [Zika virus](http://www.who.int/mediacentre/factsheets/zika/en/)
-[^pubmed-search-date]: Checked on 29.10.2016 on PubMed
-[^zika-trial-and-error]: Dittmer DP. Zika vaccine: Clinical trial and error? Science. 2016 Sep 23;353(6306):1375. PubMed PMID: 27708030.
-[^an-updated-review]: Abushouk AI, Negida A, Ahmed H. An updated review of Zika virus. J Clin Virol. 2016 Oct 3;84:53-58. doi: 10.1016/j.jcv.2016.09.012. Review. PubMed PMID:27721110.
-[^fda-approved-drugs]: Barrows NJ, Campos RK, Powell ST et al. A Screen of FDA-Approved Drugs for Inhibitors of Zika Virus Infection. Cell Host Microbe. 2016 Aug 10;20(2):259-70. doi: 10.1016/j.chom.2016.07.004. Epub 2016 Jul 28. PubMed PMID: 27476412.
-[^small-molecule-inhibitors]: Xu M, Lee EM, Wen Z et al. Identification of small-molecule inhibitors of Zika virus infection and induced neural cell death via a drug repurposing screen. Nat Med. 2016 Oct;22(10):1101-1107. doi: 10.1038/nm.4184. PubMed PMID: 27571349.
-[^dr-aberle]: According to Dr. Aberle from the Medical University of Vienna (27 from Vienna, 2 from Innsbruck) on the 25th of October 2016
+[^zika-outside-africa]:
+    Hayes EB. Zika virus outside Africa. Emerg Infect Dis. 2009 Sep;15(9):1347-50. doi: 10.3201/eid1509.090442. Review. PubMed PMID: 19788800.
+
+[^mayo-on-gbs]:
+    Information on [GBS](http://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/basics/definition/con-20025832) from the Mayo Clinic
+
+[^zika-and-gbs]:
+    Leis AA, Stokic DS. Zika Virus and Guillain-Barre Syndrome: Is There Sufficient Evidence for Causality? Front Neurol. 2016 Sep 30;7:170. PubMed PMID: 27746763.
+
+[^zika-nejm]:
+    Petersen LR, Jamieson DJ, Powers AM, Honein MA. Zika Virus. N Engl J Med. 2016 Apr 21;374(16):1552-63. doi: 10.1056/NEJMra1602113. Review. PubMed PMID: 27028561.
+
+[^toxoplasmosis]:
+    In Austria from 1992 to 2008, 13% of women infected with toxoplasmosis during pregnancy transmitted the infection to the fetus. (Prusa AR, Kasper DC, Pollak A et al. The Austrian Toxoplasmosis Register, 1992-2008. Clin Infect Dis. 2015 Jan 15;60(2):e4-e10. doi: 10.1093/cid/ciu724. PubMed PMID: 25216688.)
+
+[^microcephaly]:
+    The CDC's information on [microcephaly](http://www.cdc.gov/ncbddd/birthdefects/microcephaly.html)
+
+[^zika-rio]:
+    Brasil P, Pereira JP Jr, Raja Gabaglia C et al. Zika Virus Infection in Pregnant Women in Rio de Janeiro – Preliminary Report. N Engl J Med. 2016 Mar 4. PubMed PMID: 26943629.
+
+[^zika-history]:
+    Wikan N, Smith DR. Zika virus: history of a newly emerging arbovirus. Lancet Infect Dis. 2016 Jul;16(7):e119-26. doi: 10.1016/S1473-3099(16)30010-X. Epub 2016 Jun 6. Review. PubMed PMID: 27282424.
+
+[^zika-panic]:
+    Grubaugh ND, Andersen KG. Navigating the Zika panic. F1000Res. 2016 Aug 4;5:1914. PubMed PMID: 27746903.
+
+[^zika-mice]:
+    Govero J, Esakky P, Scheaffer SM et al. Zika virus infection damages the testes in mice. Nature. 2016 Oct 31. doi:10.1038/nature20556. PubMed PMID: 27798603.
+
+[^zika-yap]:
+    Duffy MR, Chen TH, Hancock WT et al. Zika virus outbreak on Yap Island, Federated States of Micronesia. N Engl J Med. 2009 Jun 11;360(24):2536-43. doi: 10.1056/NEJMoa0805715. PubMed PMID: 19516034.
+
+[^rt-pcr]:
+    Real time RT-PCR is a way to detect and quantify RNA levels
+
+[^zika-detection]:
+    Murray KO, Gorchakov R, Carlson AR et al. Prolonged Detection of Zika Virus in Vaginal Secretions and Whole Blood. Emerg Infect Dis. 2017 Jan 15;23(1). doi: 10.3201/eid2301.161394. PubMed PMID: 27748649.
+
+[^who-fact-sheet]:
+    The WHO's Fact Sheet on the [Zika virus](http://www.who.int/mediacentre/factsheets/zika/en/)
+
+[^pubmed-search-date]:
+    Checked on 29.10.2016 on PubMed
+
+[^zika-trial-and-error]:
+    Dittmer DP. Zika vaccine: Clinical trial and error? Science. 2016 Sep 23;353(6306):1375. PubMed PMID: 27708030.
+
+[^an-updated-review]:
+    Abushouk AI, Negida A, Ahmed H. An updated review of Zika virus. J Clin Virol. 2016 Oct 3;84:53-58. doi: 10.1016/j.jcv.2016.09.012. Review. PubMed PMID:27721110.
+
+[^fda-approved-drugs]:
+    Barrows NJ, Campos RK, Powell ST et al. A Screen of FDA-Approved Drugs for Inhibitors of Zika Virus Infection. Cell Host Microbe. 2016 Aug 10;20(2):259-70. doi: 10.1016/j.chom.2016.07.004. Epub 2016 Jul 28. PubMed PMID: 27476412.
+
+[^small-molecule-inhibitors]:
+    Xu M, Lee EM, Wen Z et al. Identification of small-molecule inhibitors of Zika virus infection and induced neural cell death via a drug repurposing screen. Nat Med. 2016 Oct;22(10):1101-1107. doi: 10.1038/nm.4184. PubMed PMID: 27571349.
+
+[^dr-aberle]:
+    According to Dr. Aberle from the Medical University of Vienna (27 from Vienna, 2 from Innsbruck) on the 25th of October 2016
