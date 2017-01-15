@@ -5,11 +5,10 @@ title: Why are we doing this?
 
 We are two skeptical geeks who
 
-<ol style="padding-left: 40px;">
-  <li>never take anything at face value,</li>
-  <li>scrutinize the evidence</li>
-  <li>and share our findings.</li>
-</ol>
+ 1. never take anything at face value,
+ 2. scrutinize the evidence
+ 3. and share our findings.
+ {: style="padding-left: 40px;"}
 
 > Should we eat organic?\\
 > Is it safe to travel despite Zika at the moment?\\
