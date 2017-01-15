@@ -11,8 +11,8 @@ We are two skeptical geeks who
   <li>and share our findings.</li>
 </ol>
 
-> Should we eat organic?<br>
-> Is it safe to travel despite Zika at the moment?<br>
+> Should we eat organic?\\
+> Is it safe to travel despite Zika at the moment?\\
 > Should you vaccinate?
 
 If you want answers to any of these questions you could find them easily at the touch of a button. However, in today's world we find ourselves flooded by vast amounts of information. And that's where we come in.
