@@ -163,21 +163,14 @@ Noch viel wichtiger ist _"Bio"_&nbsp;allerdings für die Nachhaltigkeit in der L
 
 [1]: http://sapiensoup.com#_ftn0
 [4]: http://sapiensoup.com#_ftn1
-[5]: http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png
 [6]: http://sapiensoup.com#_ftn2
 [7]: http://sapiensoup.com#_ftn3
-[8]: http://sapiensoup.com/wp-content/uploads/2016/10/Futter.png
-[9]: http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Rinderhaltung-Struktur-Österreich-2015.png
 [10]: http://sapiensoup.com#_ftn4
 [11]: http://sapiensoup.com#_ftn5
-[12]: http://sapiensoup.com/wp-content/uploads/2016/10/Bio-Anteil-im-EU-Vergleich.png
-[13]: http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-EU-Strukturdaten-2013.jpg
 [14]: http://sapiensoup.com#_ftn6
 [15]: http://sapiensoup.com#_ftn7
 [16]: http://sapiensoup.com#_ftn8
-[17]: http://sapiensoup.com/wp-content/uploads/2016/10/Rinderhaltung-total-vs-Bio.png
 [18]: http://sapiensoup.com#_ftn9
-[19]: http://sapiensoup.com/wp-content/uploads/2016/10/Rinderbestand-Österreich-2015.png
 [20]: http://sapiensoup.com#_ftn10
 [22]: http://sapiensoup.com#_ftnref0
 [23]: http://sapiensoup.com#_ftnref1
