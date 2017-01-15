@@ -8,7 +8,6 @@ facebook:
 twitter:
    image: /images/thc/Metabolism-THC-T.png
    large: true
-permalink: /human-metabolism-thc
 ---
 
 It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high.

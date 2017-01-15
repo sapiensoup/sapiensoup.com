@@ -2,7 +2,6 @@
 layout: post
 title:  What Zika is and how to avoid it
 author: nadine
-permalink: /what-zika-is-and-how-to-avoid-it
 ---
 
 Why should we care about Zika? News of the Zika virus is all around, but how dangerous is it really? And is Zika relevant for people who are not intending to have kids? Here's my four-part journey on what we actually know and don't know about the Zika virus to date.
