@@ -26,14 +26,14 @@ Die EU-Bio-Verordnung sieht z.B. vor, dass 95% der Rohstoffe aus biologischem An
 
 Die Gabe von Hormonen oder der präventive Einsatz von Antibiotika ist verboten. Erkrankt ein Tier, muss zuerst eine Therapie mit Pflanzenextrakten oder homöopathischen Mitteln angestrebt werden. Sollte diese zu keinem Behandlungserfolg führen, so kann ein Tierarzt auch synthetische Medikamente und Antibiotika einsetzen. Werden einem Tier Antibiotika verabreicht, so verdoppelt sich die Wartezeit zur kommerziellen Vermarktung und auch die Milch darf während dieser Zeit nicht als Bio-Milch vertrieben werden. Werden häufiger als drei Mal pro Jahr synthetische Medikamente oder Antibiotika verabreicht, so ist das Tier nicht mehr _„Bio"_ und muss konventionell vermarktet werden.
 
-### <u>AMA-Austria</u> und <u>BIO AUSTRIA</u>
+### AMA-Austria und BIO AUSTRIA
 
 Zusätzlich gibt es in Österreich noch andere Gütesiegel wie z.B. das AMA Biosiegel oder das BIO AUSTRIA Logo. Beide stützen sich auf die EU Verordnung und setzen weitere, noch strengere Richtlinien oben auf. Sie regeln hauptsächlich Hygiene, Herkunft und Qualitätskontrolle.<br>
 Der Unterschied zwischen dem schwarz-weissen und dem roten AMA Biosiegel liegt darin, dass für das rote Siegel sämtliche Rohstoffe aus Österreich stammen müssen.
 
 <figure id="attachment_42" style="width: 618px" class="wp-caption alignnone"><img class="size-full wp-image-42" src="http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png" alt="Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA" width="618" height="343" srcset="http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA.png 618w, http://sapiensoup.com/wp-content/uploads/2016/10/Vergleich-von-EU-Bio-mit-AMA-und-BIO-AUSTRIA-300x167.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text">Vergleich: EU-Bio Logo mit AMA Bio und AMA AUSTRIA</figcaption></figure>
 
-# II. Steht <u>Bio</u> Haltung für glückliche Kühe?
+# II. Steht Bio Haltung für glückliche Kühe?
 Schwierige Frage. _„Glück"_ ist schon bei uns Homo Sapiens schwer zu messen – wie misst man _„Glück"_ bei einer Kuh? Interpretiert man Glück als die Abwesenheit von Stress, so könnte&nbsp;man den Stress (d.h. Cortisol-Levels) von Bio-Kuh und konventionel&nbsp;gehaltener&nbsp;Kuh messen und vergleichen. Bei meiner Recherche habe ich zu wenig&nbsp;Datenmaterial gefunden um so eine Hypothese weiter zu verfolgen.
 
 Daher habe&nbsp;ich entschieden&nbsp;das _„Glück"_ der Kühe auf&nbsp;fünf&nbsp;Kategorien herunterzubrechen:
