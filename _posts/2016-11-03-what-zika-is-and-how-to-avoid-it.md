@@ -6,9 +6,9 @@ author: nadine
 
 Why should we care about Zika? News of the Zika virus is all around, but how dangerous is it really? And is Zika relevant for people who are not intending to have kids? Here's my four-part journey on what we actually know and don't know about the Zika virus to date.
 
-[Part 1: What is Zika and why is it in the news?](#part1)\\
-[Part 2: What diseases does Zika cause? How do I know if I have Zika?](#part2)\\
-[Part 3: How do I avoid getting Zika?](#part3)\\
+[Part 1: What is Zika and why is it in the news?](#part1)<br>
+[Part 2: What diseases does Zika cause? How do I know if I have Zika?](#part2)<br>
+[Part 3: How do I avoid getting Zika?](#part3)<br>
 [Part 4: What's the future of the Zika virus?](#part4)
 
 # Part 1: What is Zika and why is it in the news?
