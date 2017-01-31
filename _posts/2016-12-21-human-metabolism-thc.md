@@ -138,6 +138,7 @@ Many users claim that edibles produce a stronger and more "psychedelic" effect w
 
 An insight the data does provide, however, is that the ratio of delta-9-THC to 11-OH-THC impacts the intensity of the psychological high. And this ratio depends directly on the method of intake.
 
+{: #first-pass}
 > The 'first-pass effect' through the liver drastically changes the ratio of the two psychoactive cannabinoids.
 
 When cannabis is inhaled, blood tests show a 10:1 ratio between delta-9-THC and 11-OH-THC. When cannabis is ingested, however, blood tests show this same ratio being 1:1.[^metabolism]
