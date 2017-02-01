@@ -12,13 +12,13 @@ twitter:
 
 It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high.
 
-<a href="/images/thc/Infographic-Human-Metabolism-THC-1300.png">
+<a href="#Infographic-Human-Metabolism-THC">
   <img class="alignright wp-image-159" src="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png" alt="Thumbnail-Infographic-Human-Metabolism-THC" width="150" height="479" srcset="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, /images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, /images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, /images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w, /images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w" sizes="(max-width: 150px) 85vw, 150px" />
 </a>
 
 This post presents a summary of scientific research on the human metabolism of THC—visualized and explained in simple language.
 
-Originally, my goal was to write on the effect of cannabis in breast milk but as I got deeper into the subject matter I became fascinated with the metabolic pathway of THC and what that means for its psychological effect. I learned why—also on a molecular level—cannabis turns into a different kind of drug when it is eaten vs. smoked, why it has such a long half-life in the body and how inhalation technique greatly impacts bioavailability. I spent two months reading my way through scientific papers not freely available to the public, analyzing original data and making sense of it all. The majority of sources for this post are from scientific journals and occasionally from Wikipedia for definition purposes.
+Originally, my goal was to write on the effect of cannabis in breast milk (update: which I now [did]({% post_url 2017-02-02-cannabis-breastfeeding %})) but as I got deeper into the subject matter I became fascinated with the metabolic pathway of THC and what that means for its psychological effect. I learned why—also on a molecular level—cannabis turns into a different kind of drug when it is eaten vs. smoked, why it has such a long half-life in the body and how inhalation technique greatly impacts bioavailability. I spent two months reading my way through scientific papers not freely available to the public, analyzing original data and making sense of it all. The majority of sources for this post are from scientific journals and occasionally from Wikipedia for definition purposes.
 
 I was surprised that I couldn't find any infographics on the subject. So after collecting all this data, I decided to create an infographic myself that sums up the human metabolism of THC. Enjoy and feel free to share it. I encourage you however, to read the post as well, since it contains additional information that goes beyond the infographic.
 
@@ -173,7 +173,7 @@ So, where to start? Some edibles sold in US states, which have legalized marijua
 
 Another—quite useful—lesson I learned researching the metabolism of delta-9-THC is about dealing with smoker's paranoia. Most of us have been there: you, a friend, a first timer, an excessive dose or simply a bad day. Happens to the best. Next time I see somebody freaking out I'll say something along the lines of "Yes, you're super baked. That's because you have peak THC concentration in your brain right now. Hang in there buddy, science taught us the peak doesn't last very long. In just a few minutes it'll be a smooth ride down the other end."
 
-<img class="wp-image-159" src="/images/thc/Infographic-Human-Metabolism-THC-1300.png" alt="Infographic-Human-Metabolism-THC" width="650" height="2075" srcset="/images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w, /images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, /images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, /images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, /images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px">
+<img id="Infographic-Human-Metabolism-THC" src="/images/thc/human-metabolism-thc.svg" alt="Infographic-Human-Metabolism-THC">
 
 &nbsp;
 
