@@ -2,18 +2,25 @@
 layout: post
 title:  Cannabis and Breastfeeding. The Facts.
 author: marlene
-excerpt: "Very little amounts of THC actually make it into the breast milk. Is it enough to harm the baby? Scientific research produced inconsistent results regarding possible long term effects. Read the facts and make your own informed decision."
+excerpt: "Very little amounts of THC make it into the breast milk. Is it enough to harm the baby? Scientific research is two minds about possible long term effects. Read the facts and make your own informed decision."
+facebook:
+   image: /images/breastfeeding/cannabis-breastfeeding-fb.jpg
+twitter:
+   image: /images/breastfeeding/cannabis-breastfeeding-twitter.jpg
+   large: true
 
 ---
 
 **How much THC makes it into breast milk? Can it get a baby “high”? What are the long-term effects on the child?**
+
+<img src="/images/breastfeeding/breastfeeding.jpg">
 
 I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk.
  
 > With cannabis, nursing mothers are pretty much groping in the dark.
 
 Marijuana is legal in half of the States in the US and legal-ish in 16 other countries around the world.  And mothers out there are wondering under which circumstances medical or recreational cannabis use is safe while breastfeeding.
- 
+
 The official guideline is that breastfeeding women should not use cannabis. This is because not enough is known about cannabis and breastfeeding to state “safe amounts” without potentially getting sued.
 In this post I’ll present a coherent overview of the scientific facts about cannabis and breastfeeding.
 
@@ -23,6 +30,7 @@ Being conservative when dealing with under-researched substances makes sense. Bu
 Let's break the topic down into two questions:
 
 **I. How much THC makes it into breast milk?**
+
 **II. What are the effects on the child?**
 
 I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}#psychological-high). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic](/images/thc/Infographic-Human-Metabolism-THC-1300.png) and use it as a cheat sheet.
