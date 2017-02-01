@@ -138,38 +138,22 @@ This is what I personally found to be useful from studying scientific literature
 
 * * *
 
+#### References
 [^hale]: Hale TW, Rowe HE. Medications & Mothers’ Milk 2017. 2016. 17th ed. ISBN 9780826128584
-
 [^chao]: Chao FC, Green DE, Forrest IS, et al. The passage of 14C-delta-9-tetrahydrocannabinol into the milk of lactating squirrel monkeys. Res Commun Chem Pathol Pharmacol. 1976 Oct;15(2):303-17. PubMed PMID: 824699.
-
 [^perez]: Perez-Reyes M, Wall ME. Presence of delta9-tetrahydrocannabinol in human milk. N Engl J Med. 1982 Sep 23;307(13):819-20. PubMed PMID: 6287261.
-
 [^data-mothers]: Mother 1: 105 ng/ml and negative for metabolites. Mother 2: 340 ng/ml, 11-OH-THC 4 ng/ml, no 11-COOH-THC
-
 [^hollister]: Hollister LE, Gillespie HK, Ohlsson A, Lindgren JE, Wahlen A, Agurell S. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
-
 [^parameters]: Results may differ according to assumed parameters such as volume of milk intake, weight of baby, weight of man and amount of THC in cookie.  My assumptions were: (1) Breastmilk contains 170 nanograms of THC per milliliter (i.e. average of the three measurements from the 1982 study: 60.3 ng/ml, 105 ng/ml and 340 ng/ml).  (2) a daily intake of 700 milliliters (33.7 fl oz).  (3) divided over 7 feeding sessions.  (4) baby’s weight: 6 kilograms (13.2 lbs).  (5) the adult man’s weight: 80 kg (176.4 lbs) which was the average when the study was run.  (6) THC in cookie: 20 mg (20 mg of THC per cookie may be considered “mild” nowadays. The potency of cannabis has multiplied since the 1980s and off-the-shelf edibles often come generously equipped.)
-
 [^bennett]: Bennett PN. Cannabis. Bennett PN and the WHO Working Group, editors. Drugs and human lactation. 2nd ed. 1997.
-
 [^amarillo]: Stein R. Amarillo doctor to study marijuana users who breastfeed. 2016. [Amarillo Globe News](http://amarillo.com/news/latest-news/2016-09-03/docs-study-marijuana-users-who-breastfeed)
-
 [^tennes]: Tennes K, Avitable N, Blackard C, et al. Marijuana: prenatal and postnatal exposure in the human. NIDA Res Monogr. 1985;59:48-60. PubMed PMID: 3929132.
-
 [^astley]: Astley SJ, Little RE. Maternal marijuana use during lactation and infant development at one year. Neurotoxicol Teratol. 1990 Mar-Apr;12(2):161-8. PubMed PMID: 2333069.
-
 [^scores]: Average scores: kids of mothers consuming cannabis more than 15 days per month (90), less than 15 days per months (106), no cannabis at all (102)
-
 [^metz]: Metz TD, Stickrath EH. Marijuana use in pregnancy and lactation: a review of the evidence. Am J Obstet Gynecol. 2015 Dec;213(6):761-78. PubMed PMID: 25986032
-
 [^grotenhermen]: Grotenhermen F. Clinical Pharmacokinetics of Cannabinoids. Journal of Cannabis Therapeutics, Vol. 3(1) 2003. [Link to PDF](http://cannabis-med.org/data/pdf/2003-01-1.pdf)
-
 [^potency]: National Center for Natural Products Research. Quarterly report: Potency Monitoring Project, Report 104, December 16, 2008, thru March 15, 2009. [Link to PDF](https://www.ncjrs.gov/pdffiles1/ondcp/mpmp_report_104.pdf)
-
 [^orens]: Orens A. Light M. RowberryJ. Et al. Marijuana Equivalency in Portion and Dosage. Colorado Department of Revenue. August 10, 2015 [Link to PDF](https://www.colorado.gov/pacific/sites/default/files/MED Equivalency_Final 08102015.pdf)
-
 [^who]: WHO on b[reastfeeding](http://www.who.int/topics/breastfeeding/en)
-
 [^bergeria]: Bergeria CL, Heil SH. Surveying Lactation Professionals Regarding Marijuana Use and Breastfeeding. Breastfeeding Medicine. 2015;10(7):377-380. PMCID: PMC4692106
-
 [^faq]: FAQ with [Dr. Franjo Grotenhermen](http://www.cannabis-med.org/english/faq/20-breastmilk.htm)
