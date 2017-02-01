@@ -16,7 +16,7 @@ twitter:
 <img src="/images/breastfeeding/breastfeeding.jpg">
 
 I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk.
- 
+
 > With cannabis, nursing mothers are pretty much groping in the dark.
 
 Marijuana is legal in half of the States in the US and legal-ish in 16 other countries around the world.  And mothers out there are wondering under which circumstances medical or recreational cannabis use is safe while breastfeeding.
@@ -29,11 +29,10 @@ Being conservative when dealing with under-researched substances makes sense. Bu
 
 Let's break the topic down into two questions:
 
-**I. How much THC makes it into breast milk?**
-
+**I. How much THC makes it into breast milk?** \\
 **II. What are the effects on the child?**
 
-I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}#psychological-high). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic](/images/thc/Infographic-Human-Metabolism-THC-1300.png) and use it as a cheat sheet.
+I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}#psychological-high). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic]({% post_url 2016-12-21-human-metabolism-thc %}#Infographic-Human-Metabolism-THC) and use it as a cheat sheet.
 
 We will deal with very small numbers. A quick refresher on the notation and conversion of grams, milligrams and nanograms:
 
@@ -64,6 +63,7 @@ Those two data points are interesting, but don’t answer the question how much 
 This 8:1 ratio has spread across the internet. Beware, every author who quotes that number as if it was a fact got the story wrong. Here is what actually happened: once upon a time in 1982[^perez], there was one cannabis smoking mother who agreed to have her blood and breast milk analyzed simultaneously for THC. She was a heavy user, smoking marijuana out of a pipe seven times per day. About one hour after her last consumption the researchers took a sample of her blood and breast milk. It turned out, THC levels in her breast milk were eight times higher than in her blood.
 
 But one sample is not representative for a larger population, nor was it the purpose of the study. The study's goal was to find out if THC was present in human breast milk at all and if so, whether it was going to be metabolized in the child. (The answer to both questions is yes.)
+
 The 8:1 ratio was solely an observation regarding that particular case of the heavy using mother. In my eyes, those researchers are heroes for collecting and sharing that data. But they would surely not approve people quoting that 8:1 ratio out of context.
 
 In short: that study **did not** find that the THC concentration in milk is 8:1 compared to blood. This ratio was true for one case and one case only.
@@ -96,8 +96,9 @@ Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the a
 
 The entire academic discussion revolves around two studies which present inconsistent results:
 
-One study[^tennes] from 1985 found no effects. The other[^astley] identified slightly reduced motor development in kids of frequent users. That was only true if the mother consumed cannabis in the first month after birth and more frequently than 15 days per month. At one year old, those kids scored more poorly than the kids of non-users.[^scores] However, those results can't be distinguished from cannabis use during pregnancy; 84% of the mothers who used cannabis while breastfeeding had done so during pregnancy too.[^metz]
-Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. That lead wasn’t statistically significant though, which means that there was no difference between kids of occasional-users and non-users.  Furthermore, no differences in mental development were detected amongst any of the three groups.
+One study[^tennes] from 1985 found no effects. The other identified slightly reduced motor development in kids of frequent users.[^astley] That was only true if the mother consumed cannabis in the first month after birth and more frequently than 15 days per month. At one year old, those kids scored more poorly than the kids of non-users.[^scores] However, those results can't be distinguished from cannabis use during pregnancy; 84% of the mothers who used cannabis while breastfeeding had done so during pregnancy too.[^metz]
+
+Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. The narrow lead wasn't statistically significant though, which means that there was no difference between kids of occasional-users and non-users. Furthermore, no differences in mental development were detected amongst any of the three groups.
 
 <img src="/images/breastfeeding/motor-development.svg">
 
@@ -124,13 +125,13 @@ Traditionally, nursing mothers were advised to stop breastfeeding if they wanted
 # My take on the topic
 
 ## Don’t judge
-I believe the reasons why a nursing mother would consume cannabis are personal and complex. Furthermore, I believe that most mothers care deeply for their baby and wouldn’t make such a decision lightly.
+I believe the reasons why a nursing mother would decide to consume cannabis are personal and complex. Furthermore, I believe that most mothers care deeply for their baby and wouldn’t make such a decision lightly.
 
 Personally, I was scared of consuming marijuana while breastfeeding and refrained from even taking an aspirin. But also, I didn’t have the information I have today. Maybe today my decision would be different.
 
 ## Rather, provide information
-This is what I personally found to be useful from studying scientific literature:
-(I'm not a doctor and this is not medical advice.)
+This is what I personally found to be useful from studying scientific literature: \\
+(I'm not a doctor and this isn't medical advice.)
 
 **Eating vs. smoking.** Ingesting cannabis produces a similar high but at a considerably [lower THC exposure]({% post_url 2016-12-21-human-metabolism-thc %}#which-produces-stronger-effects-inhalation-or-ingestion). Start small.
 
@@ -147,7 +148,7 @@ This is what I personally found to be useful from studying scientific literature
 * * *
 
 #### References
-[^hale]: Hale TW, Rowe HE. Medications & Mothers’ Milk 2017. 2016. 17th ed. ISBN 9780826128584
+[^hale]: Hale TW, Rowe HE. Medications & Mothers’ Milk 2017. Springer. 2016. ISBN 9780826128584
 [^chao]: Chao FC, Green DE, Forrest IS, et al. The passage of 14C-delta-9-tetrahydrocannabinol into the milk of lactating squirrel monkeys. Res Commun Chem Pathol Pharmacol. 1976 Oct;15(2):303-17. PubMed PMID: 824699.
 [^perez]: Perez-Reyes M, Wall ME. Presence of delta9-tetrahydrocannabinol in human milk. N Engl J Med. 1982 Sep 23;307(13):819-20. PubMed PMID: 6287261.
 [^data-mothers]: Mother 1: 105 ng/ml and negative for metabolites. Mother 2: 340 ng/ml, 11-OH-THC 4 ng/ml, no 11-COOH-THC
