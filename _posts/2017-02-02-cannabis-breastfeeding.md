@@ -51,7 +51,7 @@ There is little data published on THC levels in mother's milk. Most data is from
  
 _How about humans?_
 Hard to believe, but there is only one study (!) in which two samples (!) of human breast milk were analyzed.[^perez] The two mothers were heavy users and their milk showed THC levels of 105ng/ml and 340ng/ml.[^data-mothers]
- 
+
 Those two data points are interesting, but don’t answer the question how much THC makes it into breast milk because:
   - We don’t know how much marijuana was initially consumed.
   - We don't know how long since the last marijuana consumption.
@@ -148,7 +148,7 @@ This is what I personally found to be useful from studying scientific literature
 * * *
 
 #### References
-[^hale]: Hale TW, Rowe HE. Medications & Mothers’ Milk 2017. Springer. 2016. ISBN 9780826128584
+[^hale]: Hale TW, Rowe HE. 2016. Medications & Mothers’ Milk 2017. 17th edition. Springer Publishing Company.
 [^chao]: Chao FC, Green DE, Forrest IS, et al. The passage of 14C-delta-9-tetrahydrocannabinol into the milk of lactating squirrel monkeys. Res Commun Chem Pathol Pharmacol. 1976 Oct;15(2):303-17. PubMed PMID: 824699.
 [^perez]: Perez-Reyes M, Wall ME. Presence of delta9-tetrahydrocannabinol in human milk. N Engl J Med. 1982 Sep 23;307(13):819-20. PubMed PMID: 6287261.
 [^data-mothers]: Mother 1: 105 ng/ml and negative for metabolites. Mother 2: 340 ng/ml, 11-OH-THC 4 ng/ml, no 11-COOH-THC
