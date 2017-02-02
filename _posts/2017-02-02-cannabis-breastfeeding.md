@@ -4,16 +4,16 @@ title:  Cannabis and Breastfeeding. The Facts.
 author: marlene
 excerpt: "Very little amounts of THC make it into the breast milk. Is it enough to harm the baby? Scientific research is two minds about possible long term effects. Read the facts and make your own informed decision."
 facebook:
-   image: /images/breastfeeding/cannabis-breastfeeding-fb.jpg
+   image: /images/breastfeeding/breastfeeding-1000x527-fb.jpg
 twitter:
-   image: /images/breastfeeding/cannabis-breastfeeding-twitter.jpg
+   image: /images/breastfeeding/breastfeeding-1000x500-twittercard.jpg
    large: true
 
 ---
 
 **How much THC makes it into breast milk? Can it get a baby “high”? What are the long-term effects on the child?**
 
-<img src="/images/breastfeeding/breastfeeding.jpg">
+<img src="/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
 
 I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk.
 
@@ -21,18 +21,14 @@ I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine fro
 
 Marijuana is legal in half of the States in the US and legal-ish in 16 other countries around the world.  And mothers out there are wondering under which circumstances medical or recreational cannabis use is safe while breastfeeding.
 
-The official guideline is that breastfeeding women should not use cannabis. This is because not enough is known about cannabis and breastfeeding to state “safe amounts” without potentially getting sued.
-In this post I’ll present a coherent overview of the scientific facts about cannabis and breastfeeding.
-
-I'm not advocating for nursing mothers to consume cannabis. Just like I'm not advocating for nursing mothers to drink alcohol.
-Being conservative when dealing with under-researched substances makes sense. But if we can agree that every consumed substance makes it out of the system at some point, we can also agree that safely consuming cannabis while breastfeeding is a question of time; may it be waiting to nurse for three hours or three days. The timeframe is what needs to be figured out.
+The official guideline is that breastfeeding women _should not_ use cannabis. This is because not enough is known about the topic to state “safe amounts” to mothers. I wasn't satisfied with that answer, so I kept on digging. Here, I'll present an overview of the scientific facts, so that you can make up your own mind.
 
 Let's break the topic down into two questions:
 
 **I. How much THC makes it into breast milk?** \\
 **II. What are the effects on the child?**
 
-I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}#psychological-high). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic]({% post_url 2016-12-21-human-metabolism-thc %}#Infographic-Human-Metabolism-THC) and use it as a cheat sheet.
+I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic](/images/thc/Infographic-Human-Metabolism-THC-1300.png) and use it as a cheat sheet.
 
 We will deal with very small numbers. A quick refresher on the notation and conversion of grams, milligrams and nanograms:
 
@@ -44,7 +40,7 @@ ng = nanogram | 1 ng + 0.000000001 g
 
 “It is generally accepted that all medications transfer into human milk to some degree, although it is almost always quite low. Only rarely does the amount transferred into milk produce clinically relevant doses in the infant.” reads the introduction to the latest edition of the reference book _Medication and Mothers’ Milk_.[^hale] It is widely used in American hospitals to determine contraindications of drugs for breastfeeding mothers. The chapter on THC is short and doesn’t contain original research. Yet.
 
-<img src="/images/breastfeeding/99-percent.svg">
+<img src="/images/breastfeeding/99-percent@2x.png" width="442" height="337">
 
 ## Dark Age of Data
 There is little data published on THC levels in mother's milk. Most data is from the 1970s and 80s.  A study from the 70s found that in monkeys only 0.2% of the ingested THC by the mother gets into the breast milk.[^chao]
@@ -60,7 +56,9 @@ Those two data points are interesting, but don’t answer the question how much 
   - A sample size of two isn't representative for a larger population.
 
 ## True? There is eight times more THC in breast milk than in blood?
-This 8:1 ratio has spread across the internet. Beware, every author who quotes that number as if it was a fact got the story wrong. Here is what actually happened: once upon a time in 1982[^perez], there was one cannabis smoking mother who agreed to have her blood and breast milk analyzed simultaneously for THC. She was a heavy user, smoking marijuana out of a pipe seven times per day. About one hour after her last consumption the researchers took a sample of her blood and breast milk. It turned out, THC levels in her breast milk were eight times higher than in her blood.
+This 8:1 ratio has spread across the internet. Beware, every author who quotes that number as if it was a fact got the story wrong. Here is what actually happened:
+
+Once upon a time in 1982[^perez], there was one cannabis smoking mother who agreed to have her blood and breast milk analyzed simultaneously for THC. She was a heavy user, smoking marijuana out of a pipe seven times per day. About one hour after her last consumption the researchers took a sample of her blood and breast milk. It turned out, THC levels in her breast milk were eight times higher than in her blood.
 
 But one sample is not representative for a larger population, nor was it the purpose of the study. The study's goal was to find out if THC was present in human breast milk at all and if so, whether it was going to be metabolized in the child. (The answer to both questions is yes.)
 
@@ -79,8 +77,7 @@ I was curious and did the math. Turned out, in one feeding baby experienced abou
 
 > The baby experienced the equivalent of a space cookie’s crumb.
 
-
-<img src="/images/breastfeeding/cannabis-breastfeeding.svg">
+<img src="/images/breastfeeding/cannabis-breastfeeding-math@2x.png" alt="math on how high baby gets from THC infused breastmilk" width="500" height="710">
 
 Why didn’t I compare it to the mom’s marijuana pipe? Because (1) the data doesn’t exist and (2) eating cannabis is [very different]({% post_url 2016-12-21-human-metabolism-thc %}#first-pass) to smoking it. Hence, I believe it’s a more accurate comparison if we stick to the same metabolic pathway through the stomach.
 From another study[^hollister] we know that 20mg of ingested THC produce a decent psychological effect in an adult man. I compared that to a 3 months old baby. The results vary according to how you set the parameters.[^parameters] Other authors came close but arrive at slightly different conclusions, e.g. Bennett who landed at a baby’s dose of 0.8 percent of the maternal intake of one joint (per feeding).[^bennett]
@@ -100,7 +97,7 @@ One study[^tennes] from 1985 found no effects. The other identified slightly red
 
 Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. The narrow lead wasn't statistically significant though, which means that there was no difference between kids of occasional-users and non-users. Furthermore, no differences in mental development were detected amongst any of the three groups.
 
-<img src="/images/breastfeeding/motor-development.svg">
+<img src="/images/breastfeeding/motor-development@2x.png" alt="motor development scores at one year old" width="481" height="336">
 
 # Summary
 
