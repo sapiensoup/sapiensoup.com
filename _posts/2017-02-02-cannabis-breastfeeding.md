@@ -49,24 +49,25 @@ _How about humans?_
 Hard to believe, but there is only one study (!) in which two samples (!) of human breast milk were analyzed.[^perez] The two mothers were heavy users and their milk showed THC levels of 105ng/ml and 340ng/ml.[^data-mothers]
 
 Those two data points are interesting, but don’t answer the question how much THC makes it into breast milk because:
-  - We don’t know how much marijuana was initially consumed.
-  - We don't know how long since the last marijuana consumption.
-  - With a one time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
-  - Both mothers were heavy users who were consuming marijuana on a daily basis. With regular use, THC accumulates in the body over time, especially in fat. And there is a lot of fat in breast milk. We don't know which part of the detected THC is due to accumulation and which part is freshly consumed THC.
-  - A sample size of two isn't representative for a larger population.
+- We don’t know how much marijuana was initially consumed.
+- We don't know how long since the last marijuana consumption.
+- With a one time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
+- Both mothers were heavy users who were consuming marijuana on a daily basis. With regular use, THC accumulates in the body over time, especially in fat. And there is a lot of fat in breast milk. We don't know which part of the detected THC is due to accumulation and which part is freshly consumed THC.
+- A sample size of two isn't representative for a larger population.
 
 ## True? There is eight times more THC in breast milk than in blood?
 This 8:1 ratio has spread across the internet. Beware, every author who quotes that number as if it was a fact got the story wrong. Here is what actually happened:
 
 Once upon a time in 1982[^perez], there was one cannabis smoking mother who agreed to have her blood and breast milk analyzed simultaneously for THC. She was a heavy user, smoking marijuana out of a pipe seven times per day. About one hour after her last consumption the researchers took a sample of her blood and breast milk. It turned out, THC levels in her breast milk were eight times higher than in her blood.
 
-But one sample is not representative for a larger population, nor was it the purpose of the study. The study's goal was to find out if THC was present in human breast milk at all and if so, whether it was going to be metabolized in the child. (The answer to both questions is yes.)
+But one sample is not representative for a larger population, nor was it the goal of the study. The study's goal was to find out if THC was present in human breast milk at all and if so, whether it was going to be metabolized in the child. (The answer to both questions is yes.)
 
 The 8:1 ratio was solely an observation regarding that particular case of the heavy using mother. In my eyes, those researchers are heroes for collecting and sharing that data. But they would surely not approve people quoting that 8:1 ratio out of context.
 
 In short: that study **did not** find that the THC concentration in milk is 8:1 compared to blood. This ratio was true for one case and one case only.
 
 Here are the claims actually supported by science:
+
 1. THC blood levels have proven to be highly variable across subjects.
 2. THC blood levels drop soon after consumption because THC is rapidly taken up by fat tissue. It’s plausible therefore that THC levels would be higher in milk because of its high fat content.
 3. Recreational users clear their systems faster.
@@ -87,7 +88,7 @@ Be that as it may—half a crumb or three—you get an idea about the magnitude 
 > Not knowing how fast THC clears from breast milk is what’s keeping responsible mothers from a responsible use of cannabis.
 
 ## Better times ahead
-Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mother’s Milk_. Currently he discourages cannabis use due to the lack of data. At the same time, he has plans to conduct more research on the topic. In Colorado, he found an ideal testing ground for his new study given the legalization of recreational use of marijuana.[^amarillo]
+Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. Currently he discourages cannabis use due to the lack of data. At the same time, he has plans to conduct more research on the topic. In Colorado, he found an ideal testing ground for his new study given the legalization of recreational use of marijuana.[^amarillo]
 
 # II. What are the effects on the child?
 
@@ -95,7 +96,7 @@ The entire academic discussion revolves around two studies which present inconsi
 
 One study[^tennes] from 1985 found no effects. The other identified slightly reduced motor development in kids of frequent users.[^astley] That was only true if the mother consumed cannabis in the first month after birth and more frequently than 15 days per month. At one year old, those kids scored more poorly than the kids of non-users.[^scores] However, those results can't be distinguished from cannabis use during pregnancy; 84% of the mothers who used cannabis while breastfeeding had done so during pregnancy too.[^metz]
 
-Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. The narrow lead wasn't statistically significant though, which means that there was no difference between kids of occasional-users and non-users. Furthermore, no differences in mental development were detected amongst any of the three groups.
+Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. The narrow lead wasn't statistically significant though, which means that there was no difference between kids of occasional users and non-users. Furthermore, no differences in mental development were detected amongst any of the three groups.
 
 <img src="/images/breastfeeding/motor-development@2x.png" alt="motor development scores at one year old" width="481" height="336">
 
@@ -105,7 +106,7 @@ Very little amounts of THC get transferred into breast milk. Scientific publicat
 The particular circumstances under which those numbers were gathered should be kept in mind though:
 
 ##### Potency of marijuana
-Over the past 35 years, marijuana has evolved. The study [Perez] most authors refer to was conducted in the early 80s, when the average concentration of THC was at 3.2 percent. Until 2008, it had risen to 8.5 percent.[^potency] In Colorado the average potency of flower (i.e. buds) in 2015 was at 17.1 percent THC.[^orens]
+Over the past 35 years, marijuana has evolved. The study[^perez] most authors refer to was conducted in the early 80s, when the average concentration of THC was at 3.2 percent. Until 2008, it had risen to 8.5 percent.[^potency] In Colorado the average potency of flower (i.e. buds) in 2015 was at 17.1 percent THC.[^orens]
 
 ##### Occasional vs. regular use
 The few samples analyzed all came from mothers who smoked on a daily basis. With regular use, THC accumulates in fat deposits, from where it is slowly released back into the bloodstream. That’s why the half-life of THC is longer in regular users.
