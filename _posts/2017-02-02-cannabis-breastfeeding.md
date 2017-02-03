@@ -49,6 +49,7 @@ _How about humans?_
 Hard to believe, but there is only one study (!) in which two samples (!) of human breast milk were analyzed.[^perez] The two mothers were heavy users and their milk showed THC levels of 105ng/ml and 340ng/ml.[^data-mothers]
 
 Those two data points are interesting, but don’t answer the question how much THC makes it into breast milk because:
+
 - We don’t know how much marijuana was initially consumed.
 - We don't know how long since the last marijuana consumption.
 - With a one time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
@@ -135,7 +136,7 @@ This is what I personally found to be useful from studying scientific literature
 
 **Side stream smoke.** Side stream smoke poses a risk to anyone. Besides THC it holds carcinogens and other toxins.
 
-**Backstop.** Have someone sober around who can take over with the child if needed. With varying quality of product, effects can be unpredictable. Especially casual users can experience paranoia or impaired judgement.  
+**Backstop.** Have someone sober around who can take over with the child if needed. With varying quality of product, effects can be unpredictable. Especially casual users can experience paranoia or impaired judgement. Caring for a child in such a case can be difficult.
 
 **Timing matters.** During pregnancy and the first three months of life, a baby’s developing organism is most vulnerable. During that time keep exposure to a minimum.
 
@@ -151,7 +152,7 @@ This is what I personally found to be useful from studying scientific literature
 [^perez]: Perez-Reyes M, Wall ME. Presence of delta9-tetrahydrocannabinol in human milk. N Engl J Med. 1982 Sep 23;307(13):819-20. PubMed PMID: 6287261.
 [^data-mothers]: Mother 1: 105 ng/ml and negative for metabolites. Mother 2: 340 ng/ml, 11-OH-THC 4 ng/ml, no 11-COOH-THC
 [^hollister]: Hollister LE, Gillespie HK, Ohlsson A, Lindgren JE, Wahlen A, Agurell S. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
-[^parameters]: Results may differ according to assumed parameters such as volume of milk intake, weight of baby, weight of man and amount of THC in cookie.  My assumptions were: (1) Breastmilk contains 170 nanograms of THC per milliliter (i.e. average of the three measurements from the 1982 study: 60.3 ng/ml, 105 ng/ml and 340 ng/ml).  (2) a daily intake of 700 milliliters (33.7 fl oz).  (3) divided over 7 feeding sessions.  (4) baby’s weight: 6 kilograms (13.2 lbs).  (5) the adult man’s weight: 80 kg (176.4 lbs) which was the average when the study was run.  (6) THC in cookie: 20 mg (20 mg of THC per cookie may be considered “mild” nowadays. The potency of cannabis has multiplied since the 1980s and off-the-shelf edibles often come generously equipped.)
+[^parameters]: Results may differ according to assumed parameters such as volume of milk intake, weight of baby, weight of man and amount of THC in cookie.  My assumptions were: (1) Breastmilk contains 170 nanograms of THC per milliliter (i.e. average of the three measurements from the 1982 study: 60.3 ng/ml, 105 ng/ml and 340 ng/ml).  (2) a daily intake of 700 milliliters (33.7 fl oz).  (3) divided over 7 feeding sessions.  (4) baby’s weight: 6 kilograms (13.2 lbs).  (5) the adult man’s weight: 80 kg (176.4 lbs) which was the average when the study was run.  (6) THC in cookie: 20 mg (20 mg of THC per cookie may be considered “mild” nowadays. The potency of cannabis has multiplied since the 1980s and off-the-shelf edibles often come generously dosed.)
 [^bennett]: Bennett PN. Cannabis. Bennett PN and the WHO Working Group, editors. Drugs and human lactation. 2nd ed. 1997.
 [^amarillo]: Stein R. Amarillo doctor to study marijuana users who breastfeed. 2016. [Amarillo Globe News](http://amarillo.com/news/latest-news/2016-09-03/docs-study-marijuana-users-who-breastfeed)
 [^tennes]: Tennes K, Avitable N, Blackard C, et al. Marijuana: prenatal and postnatal exposure in the human. NIDA Res Monogr. 1985;59:48-60. PubMed PMID: 3929132.
