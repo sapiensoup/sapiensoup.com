@@ -2,7 +2,7 @@
 layout: post
 title:  Cannabis and Breastfeeding. The Facts.
 author: marlene
-excerpt: "Very little amounts of THC make it into the breast milk. Is it enough to harm the baby? Scientific research is two minds about possible long term effects. Read the facts and make your own informed decision."
+excerpt: "Very little amounts of THC make it into the breast milk. Is it enough to harm a baby? Scientific research is two minds about potential long-term effects. Get the facts here and make your own informed decision."
 facebook:
    image: /images/breastfeeding/breastfeeding-1000x527-fb.jpg
 twitter:
@@ -38,14 +38,14 @@ ng = nanogram | 1 ng + 0.000000001 g
 
 # I. How much THC makes it into breast milk?
 
-“It is generally accepted that all medications transfer into human milk to some degree, although it is almost always quite low. Only rarely does the amount transferred into milk produce clinically relevant doses in the infant.” reads the introduction to the latest edition of the reference book _Medication and Mothers’ Milk_.[^hale] It is widely used in American hospitals to determine contraindications of drugs for breastfeeding mothers. The chapter on THC is short and doesn’t contain original research. Yet.
+“It is generally accepted that all medications transfer into human milk to some degree, although it is almost always quite low. Only rarely does the amount transferred into milk produce clinically relevant doses in the infant.” reads the introduction to the reference book _Medication and Mothers’ Milk_.[^hale] It is widely used in American hospitals to determine contraindications of drugs for breastfeeding mothers. The chapter on THC is short and doesn’t contain original research. Yet.
 
 <img src="/images/breastfeeding/99-percent@2x.png" width="442" height="337">
 
 ## Dark Age of Data
 There is little data published on THC levels in mother's milk. Most data is from the 1970s and 80s.  A study from the 70s found that in monkeys only 0.2% of the ingested THC by the mother gets into the breast milk.[^chao]
- 
-_How about humans?_
+
+**How about humans?**\\
 Hard to believe, but there is only one study (!) in which two samples (!) of human breast milk were analyzed.[^perez] The two mothers were heavy users and their milk showed THC levels of 105ng/ml and 340ng/ml.[^data-mothers]
 
 Those two data points are interesting, but don’t answer the question how much THC makes it into breast milk because:
@@ -53,7 +53,7 @@ Those two data points are interesting, but don’t answer the question how much 
 - We don’t know how much marijuana was initially consumed.
 - We don't know how long since the last marijuana consumption.
 - With a one time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
-- Both mothers were heavy users who were consuming marijuana on a daily basis. With regular use, THC accumulates in the body over time, especially in fat. And there is a lot of fat in breast milk. We don't know which part of the detected THC is due to accumulation and which part is freshly consumed THC.
+- Both mothers were heavy users who were consuming marijuana on a daily basis. With regular use, THC accumulates in the body over time, especially in fat. And there is a lot of fat in breast milk. We don't know which part of the detected THC is due to accumulation and which part is recently consumed THC.
 - A sample size of two isn't representative for a larger population.
 
 ## True? There is eight times more THC in breast milk than in blood?
