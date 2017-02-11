@@ -57,7 +57,7 @@ Those two data points are interesting, but don’t answer the question how much 
 - A sample size of two isn't representative for a larger population.
 
 ## True? There is eight times more THC in breast milk than in blood?
-This 8:1 ratio has spread across the internet. Beware, every author who quotes that number as if it was a fact got the story wrong. Here is what actually happened:
+This 8:1 ratio has spread across the internet. Beware every author who quotes that number as if it were a fact&mdash;they've got the story wrong. Here is what actually happened:
 
 Once upon a time in 1982[^perez], there was one cannabis smoking mother who agreed to have her blood and breast milk analyzed simultaneously for THC. She was a heavy user, smoking marijuana out of a pipe seven times per day. About one hour after her last consumption the researchers took a sample of her blood and breast milk. It turned out, THC levels in her breast milk were eight times higher than in her blood.
 
@@ -84,7 +84,7 @@ I was curious and did the math. Turned out, in one feeding baby experienced abou
 Why didn’t I compare it to the mom’s marijuana pipe? Because (1) the data doesn’t exist and (2) eating cannabis is [very different]({% post_url 2016-12-21-human-metabolism-thc %}#first-pass) to smoking it. Hence, I believe it’s a more accurate comparison if we stick to the same metabolic pathway through the stomach.
 From another study[^hollister] we know that 20mg of ingested THC produce a decent psychological effect in an adult man. I compared that to a 3 months old baby. The results vary according to how you set the parameters.[^parameters] Other authors came close but arrive at slightly different conclusions, e.g. Bennett who landed at a baby’s dose of 0.8 percent of the maternal intake of one joint (per feeding).[^bennett]
 
-Be that as it may—half a crumb or three—you get an idea about the magnitude we’re operating at. Keep in mind however, that a new crumb is added to the pile every time the baby feeds. The crumbs are getting smaller but we don’t know how fast. To my knowledge there is no study examining the rate of THC elimination from breast milk and precisely that’s the problem.
+Be that as it may—half a crumb or three—you get an idea about the magnitude we’re operating at. Keep in mind however, that a new crumb is added to the pile every time the baby feeds. The crumbs are getting smaller but we don’t know how fast. To my knowledge there is no study examining the rate of THC elimination from breast milk and that’s precisely the problem.
 
 > Not knowing how fast THC clears from breast milk is what’s keeping responsible mothers from a responsible use of cannabis.
 
@@ -142,7 +142,7 @@ This is what I personally found to be useful from studying scientific literature
 
 **Minimum effective dose (MED).** The less, the better – true for almost anything.
 
-
+&nbsp;
 
 * * *
 
