@@ -6,12 +6,21 @@ layout: default
 
 {% include post-article.html post=post %}
 
+{% if jekyll.environment == 'production' %}
 <div id="comments" class="comments-area">
   <div id="respond" class="comment-respond">
     <h2 id="reply-title" class="comment-reply-title">Leave a Reply</h2>
-    TODO: Disqus
+    <div id="disqus_thread"/>
+    <script type="text/javascript">
+      var disqus_shortname = 'sapiensoup';
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    </script>
+    </div>
   </div>
 </div><!-- .comments-area -->
+{% endif %}
 <nav class="navigation post-navigation" role="navigation">
   <h2 class="screen-reader-text">Post navigation
   </h2>
