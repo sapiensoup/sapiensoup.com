@@ -11,7 +11,12 @@
     </h1>
   </header><!-- .entry-header -->
   <div class="entry-content">
-    {{ post.content }}
+    {% if page.title == 'Home' %}
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">Read more&hellip;</a>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </div><!-- .entry-content -->
   <footer class="entry-footer">
     <span class="byline">

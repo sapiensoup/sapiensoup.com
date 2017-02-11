@@ -2,14 +2,22 @@
 layout: post
 title:  Sind Bio-Kühe glücklich?
 author: marlene
+description: 'Was sind die 70% Aufpreis für Bio-Rindfleisch tatsächlich wert? Was ist im Leben einer Bio-Kuh besser als in dem einer "normalen" Kuh? Futter, Auslauf, Antibiotika ... die Fakten hier nachlesen.'
+facebook:
+   image: /images/bio-kuhe/Bio-Kuh-Rindfleisch.png
+twitter:
+   image: /images/bio-kuhe/Bio-Kuh-Rindfleisch.png
+   large: true
 ---
 
 Ich esse gerne Rindfleisch. Bilder von industrieller Tierhaltung fahren mir aber durch Mark und Bein. Deswegen verbringe ich gefühlte Stunden vor dem Kühlregal im Supermarkt und vergleiche Etiketten auf Frischfleisch.
 
-Wenn ich im Schnitt 70%[^verschiedene-rindfleischteile] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich verlassen?** Und zweitens, **ist** **eine Bio-Kuh auch wirklich glücklich?**
+Wenn ich im Schnitt 70%[^verschiedene-rindfleischteile] mehr Geld für Bio-Rindfleisch ausgebe, möchte ich zwei Dinge wissen: erstens, **auf welche Bio-Siegel kann ich mich verlassen?** Und zweitens, **ist eine Bio-Kuh auch wirklich glücklich?**
 
 {: style="text-align: center"}
 ![Bio Logos Österreich](/images/bio-kuhe/Logos.png)
+
+<!--more-->
 
 # I. Auf welche Bio Siegel kann man sich verlassen?
 

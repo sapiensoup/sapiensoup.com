@@ -2,7 +2,7 @@
 layout: post
 title:  Human Metabolism of THC
 author: marlene
-excerpt: "Why cannabis turns into a different kind of drug when it's eaten vs. smoked: a summary of scientific research on the human metabolism of THC—visualized and explained in simple language."
+description: "Why cannabis turns into a different kind of drug when it's eaten vs. smoked: a summary of scientific research on the human metabolism of THC—visualized and explained in simple language."
 facebook:
    image: /images/thc/Human-Metabolism-THC-FB.png
 twitter:
@@ -23,6 +23,8 @@ Originally, my goal was to write on the effect of cannabis in breast milk (updat
 I was surprised that I couldn't find any infographics on the subject. So after collecting all this data, I decided to create an infographic myself that sums up the human metabolism of THC. Enjoy and feel free to share it. I encourage you however, to read the post as well, since it contains additional information that goes beyond the infographic.
 
 To understand the pathway of THC in the human body, you must first understand what THC does when it hits your body. You might find the biochemistry part at the beginning challenging. I certainly did when I started applying myself to the topic. Believe me, it's worth it—I promise the reading gets easier and incredibly interesting further on.
+
+<!--more-->
 
 ### A bit of biochemistry
 

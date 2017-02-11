@@ -2,6 +2,12 @@
 layout: post
 title:  What Zika is and how to avoid it
 author: nadine
+description: "How dangerous is Zika really? Only 20% of infected individuals actually get symptoms, but 29% of Zika-infected mothers develop fetal abnormalities. What can we do to avoid getting Zika?"
+facebook:
+   image: /images/zika/Zika-outbreak-map-worldwide-1024x597.png
+twitter:
+   image: /images/zika/Zika-outbreak-map-worldwide-1024x597.png
+   large: true
 ---
 
 Why should we care about Zika? News of the Zika virus is all around, but how dangerous is it really? And is Zika relevant for people who are not intending to have kids? Here's my four-part journey on what we actually know and don't know about the Zika virus to date.
@@ -10,6 +16,8 @@ Why should we care about Zika? News of the Zika virus is all around, but how dan
 [Part 2: What diseases does Zika cause? How do I know if I have Zika?](#part2)<br>
 [Part 3: How do I avoid getting Zika?](#part3)<br>
 [Part 4: What's the future of the Zika virus?](#part4)
+
+<!--more-->
 
 {: #part1}
 # Part 1: What is Zika and why is it in the news?

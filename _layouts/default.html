@@ -14,12 +14,12 @@
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='stylesheet' type='text/css' media='all' href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' />
     <link rel='stylesheet' type='text/css' media='all' href='/css/twentysixteen.css?ver=4.7' />
-    <meta name="description" content="{{ page.excerpt | strip_html }}"/>
+    <meta name="description" content="{{ page.description | strip_html }}"/>
     <meta property="fb:app_id" content="966242223397117">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:description" content="{{ page.description | strip_html }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="article:publisher" content="https://www.facebook.com/sapiensoup/" />
@@ -31,7 +31,7 @@
     <meta property="og:image" content="{{ site.url }}{{ page.facebook.image }}" />
     {% endif %}
     <meta name="twitter:card" content="{% if page.twitter.large %}summary_large_image{% else %}summary{% endif %}" />
-    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
+    <meta name="twitter:description" content="{{ page.description | strip_html }}" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:site" content="@sapiensoupblog" />
     {% if page.twitter.image %}

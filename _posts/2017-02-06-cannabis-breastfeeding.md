@@ -2,13 +2,12 @@
 layout: post
 title:  Cannabis and Breastfeeding. The Facts.
 author: marlene
-excerpt: "Very little amounts of THC make it into the breast milk. Is it enough to harm a baby? Scientific research is two minds about potential long-term effects. Get the facts here and make your own informed decision."
+description: "Very little amounts of THC make it into the breast milk. Is it enough to harm a baby? Scientific research is two minds about potential long-term effects. Get the facts here and make your own informed decision."
 facebook:
    image: /images/breastfeeding/breastfeeding-1000x527-fb.jpg
 twitter:
    image: /images/breastfeeding/breastfeeding-1000x500-twittercard.jpg
    large: true
-
 ---
 
 **How much THC makes it into breast milk? Can it get a baby “high”? What are the long-term effects on the child?**
@@ -19,9 +18,11 @@ I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine fro
 
 > With cannabis, nursing mothers are pretty much groping in the dark.
 
-Marijuana is legal in half of the States in the US and legal-ish in 16 other countries around the world.  And mothers out there are wondering under which circumstances medical or recreational cannabis use is safe while breastfeeding.
+Marijuana is legal in half of the States in the US and legal-ish in 16 other countries around the world. And mothers out there are wondering under which circumstances medical or recreational cannabis use is safe while breastfeeding.
 
 The official guideline is that breastfeeding women _should not_ use cannabis. This is because not enough is known about the topic to state “safe amounts” to mothers. I wasn't satisfied with that answer, so I kept on digging. Here, I'll present an overview of the scientific facts, so that you can make up your own mind.
+
+<!--more-->
 
 Let's break the topic down into two questions:
 

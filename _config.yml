@@ -2,3 +2,4 @@ url: https://sapiensoup.com
 title: "Sapiensoup Blog"
 markdown: kramdown
 permalink: /:title
+excerpt_separator: <!--more-->

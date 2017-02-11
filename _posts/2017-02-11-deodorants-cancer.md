@@ -2,13 +2,12 @@
 layout: post
 title:  Deodorants Don't Cause Breast Cancer
 author: nadine
-excerpt: "Myth debunked: antiperspirants don't cause breast cancer, not even if applied after shaving. You might still want to throw it out after hearing about this entirely new approach to odor and skincare, respecting the skin's microbiome."
+description: "Myth debunked: antiperspirants don't cause breast cancer, not even if applied after shaving. You might still want to throw it out after hearing about this entirely new approach to odor and skincare, respecting the skin's microbiome."
 facebook:
    image: /images/deodorants-cancer/antiperspirant-deodorants-breast-cancer-tiny.jpg
 twitter:
    image: /images/deodorants-cancer/antiperspirant-deodorants-breast-cancer-tiny-1000x500.jpg
    large: true
-
 ---
 
 **Many people believe that antiperspirants cause breast cancer, especially if applied after shaving. Here is why you can happily use your antiperspirant and why you might want to throw it out anyway.**
@@ -21,6 +20,8 @@ I have tried very hard to stay away from antiperspirants for the last few years 
 [How deodorants and antiperspirants work](#how-deodorants-and-antiperspirants-work)\\
 [Can aluminum in antiperspirants cause cancer?](#can-aluminum-in-antiperspirants-cause-cancer)\\
 [Brand-new approach to odors](#brand-new-approach-to-odors)
+
+<!--more-->
 
 # Why we sweat at all
 
