@@ -12,7 +12,7 @@ twitter:
 
 **Many people believe that antiperspirants cause breast cancer, especially if applied after shaving. Here is why you can happily use your antiperspirant and why you might want to throw it out anyway.**
 
-<img src="/images/deodorants-cancer/antiperspirant-deodorants-breast-cancer-tiny.jpg">
+<img src="/images/deodorants-cancer/antiperspirant-deodorants-breast-cancer-tiny.jpg" alt="does aluminum cause cancer" title="woman applying deodorant">
 
 I have tried very hard to stay away from antiperspirants for the last few years because someone told me that the aluminum in them causes breast cancer. Back then, I googled this claim and found plenty of posts agreeing with this statement and thus believed it. It was pretty difficult to make the switch from antiperspirants to deodorants at the beginning, but I’ve simply gotten used to it 5 years down the line, although for eventful/stressful occasions I still bring out my very effective bottle of antiperspirant. I decided it was time to investigate sweating, deodorants and antiperspirants and whether there was any truth to this lifestyle change. Turns out, there isn’t much. But there’s a lot we should all be aware of.
 
@@ -58,7 +58,7 @@ But shortly after, another study was published, which concluded that more freque
 
 I could, for example, choose flossing teeth, and then go on to ask breast cancer survivors when they began flossing. The data would provide me with a statistical relationship.  Regrettably, this study was interpreted by many as evidence for a connection between breast cancer and deodorant/antiperspirant use. Whereas, the only meaningful conclusions we can extract from this is that women who use deodorants tend to be younger.[^jones]
 
-<img src="/images/deodorants-cancer/deodorant-breastcancer-infographic@2x.png" width="600" height="1305">
+<img src="/images/deodorants-cancer/deodorant-breastcancer-infographic@2x.png" alt="deodorant and breastcancer debunked" title="scientific study without control group is bad science" width="600" height="1305">
 
 However, another study in 2006 in Iraq, showed that the use of deodorants _reduced_ the risk of breast cancer. Unfortunately, I was not able to read the actual study, but a review showed that this study and the first study with 1,606 women were the only two with proper controls in place investigating this association.
 
