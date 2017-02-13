@@ -4,3 +4,4 @@ _site
 *.sw?
 .idea
 *.iml
+.DS_Store
