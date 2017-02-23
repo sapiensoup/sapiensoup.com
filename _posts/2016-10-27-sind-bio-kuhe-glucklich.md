@@ -55,7 +55,6 @@ In der konventionellen Viehhaltung besteht keine Pflicht die Tiere auf die Weide
 
  - ständigen Zugang zu **Freigelände**. Diese Auslaufflächen müssen so gestaltet sein, dass die Tiere Schutz vor Regen, Sonne, Kälte oder Hitze finden. Die Größe der Auslauffläche richtet sich nach dem Gewicht des Tieres. Für ein beispielsweise 400kg schweres junges Mastrind sind es 3,7m<sup>2</sup> Mindestfläche, für eine Milchkuh sind es 4,5m<sup>2</sup> pro Tier und bei Zuchtstieren sind es 30m<sup>2</sup> pro Tier
  - Zugang zu **Weideland**, wann immer der Zustand des Bodens und die Witterungsbedingungen dies zulassen – mindestens aber 180 Tage pro Jahr. Die Größe des Weidelandes soll in etwa 1 ha pro ausgewachsener Kuh betragen.[^weidelandes]
- {: style="padding-left: 40px;"}
 
 ### Futter
 
@@ -101,7 +100,6 @@ Warum werden Mutterkuh und Kalb eigentlich getrennt? Muttertiere produzieren gru
  2. Milchkühe werden jedes Jahr geschwängert, denn ohne Kalb – keine Milch.
  3. Auch bei der Herstellung von Biomilch, werden die Kälber bald nach der Geburt von der Mutterkuh getrennt. Die Kälber müssen zwar laut EU-Bio-Verordnung „natürliche Milch" zu trinken bekommen – das kann Frischmilch oder auch Milchpulver[^bio-austria] sein – allerdings bekommen sie diese aus mechanischen Trinkvorrichtungen verabreicht. Am Euter der Mutter dürfen die Kälber nicht trinken.
 Die vorgeschriebene Gruppenhaltung ab dem Alter von einer Woche soll dem Kalb ein Leben im Sozialverband bieten. Dieser Verband ist meist eine Gruppe von Kälbern und bedeutet nicht, dass das das Tier mit seiner Mutter beisammen sein darf um seinem natürlichen Sozialverhalten – Säugen und Ablecken – nachzugehen. Milch aus echter „Mutterkuhhaltung" sucht man in österreichischen Supermärkten vergebens.
- {: style="padding-left: 40px;"}
 
 > „Aber ich sehe oft Kühe mit ihren Jungen auf der Wiese grasen, wie kann das sein wenn die Tiere getrennt werden?"
 
@@ -141,7 +139,6 @@ Noch viel wichtiger ist _"Bio"_ allerdings für die Nachhaltigkeit in der Landwi
  - **Nährstoffe im Boden** bleiben erhalten. Durch abwechslungsreiche Fruchtfolgen und regelmäßige Pausen können sich die Böden erholen.
  - **Grundwasser** wird nicht mit Kunstdüngern belastet.
  - Da der Biobauer keine künstlichen Pflanzenschutzmittel einsetzen darf, ist eine **hohe Biodiversität** in seinem Eigeninteresse.
- {: style="padding-left: 40px;"}
 
 > Biologische Landwirtschaft schont Böden und Gewässer und hilft damit uns und zukünftigen Generationen.
 

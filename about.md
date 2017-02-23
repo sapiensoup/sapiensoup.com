@@ -8,7 +8,6 @@ We are two skeptical geeks who
  1. never take anything at face value,
  2. scrutinize the evidence
  3. and share our findings.
- {: style="padding-left: 40px;"}
 
 > Should we eat organic?<br>
 > Is it safe to travel despite Zika at the moment?<br>
