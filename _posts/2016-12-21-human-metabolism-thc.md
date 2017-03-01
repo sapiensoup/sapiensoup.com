@@ -175,7 +175,7 @@ So, where to start? Some edibles sold in US states, which have legalized marijua
 
 Another—quite useful—lesson I learned researching the metabolism of delta-9-THC is about dealing with smoker's paranoia. Most of us have been there: you, a friend, a first timer, an excessive dose or simply a bad day. Happens to the best. Next time I see somebody freaking out I'll say something along the lines of "Yes, you're super baked. That's because you have peak THC concentration in your brain right now. Hang in there buddy, science taught us the peak doesn't last very long. In just a few minutes it'll be a smooth ride down the other end."
 
-<img class="wp-image-159" src="/images/thc/Infographic-Human-Metabolism-THC-1300.png" alt="Infographic-Human-Metabolism-THC" width="650" height="2075" srcset="/images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w, /images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, /images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, /images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, /images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px">
+<img class="wp-image-159" src="/images/thc/human-metabolism-thc.svg" alt="Infographic-Human-Metabolism-THC" width="650" height="2075">
 
 &nbsp;
 
