@@ -12,8 +12,8 @@ twitter:
 
 It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high.
 
-<a href="/images/thc/Infographic-Human-Metabolism-THC-1300.png">
-  <img class="alignright wp-image-159" src="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png" alt="Thumbnail-Infographic-Human-Metabolism-THC" width="150" height="479" srcset="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, /images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, /images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, /images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w, /images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w" sizes="(max-width: 150px) 85vw, 150px" />
+<a href="/images/thc/human-metabolism-thc.svg">
+  <img class="alignright wp-image-159" alt="Thumbnail-Infographic-Human-Metabolism-THC" width="150" height="479">
 </a>
 
 This post presents a summary of scientific research on the human metabolism of THC—visualized and explained in simple language.
