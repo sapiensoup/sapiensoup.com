@@ -3,3 +3,9 @@ title: "Sapiensoup Blog"
 markdown: kramdown
 permalink: /:title
 excerpt_separator: <!--more-->
+gems:
+  - jekyll-sitemap
+exclude:
+  - CNAME
+  - Gemfile
+  - serve.sh
