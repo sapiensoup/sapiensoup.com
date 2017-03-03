@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 cd $(dirname $0)
-bundler exec jekyll serve --livereload
+bundler exec jekyll serve --livereload --future
