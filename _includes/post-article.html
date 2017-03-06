@@ -12,7 +12,7 @@
   </header><!-- .entry-header -->
   <div class="entry-content">
     {% if page.title == 'Home' %}
-      {{ post.excerpt | remove: '[^verschiedene-rindfleischteile]' }}
+      {{ post.excerpt | remove: '[^verschiedene-rindfleischteile]' | remove: '[^shang]' | remove: '[^moffet]' }}
       <a href="{{ post.url }}">Read more&hellip;</a>
     {% else %}
       {{ post.content }}

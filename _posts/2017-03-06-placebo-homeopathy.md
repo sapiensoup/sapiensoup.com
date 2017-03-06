@@ -100,8 +100,12 @@ My daughter barely understands the concept of medicine yet. But when I pull out 
 
 #### References
 
-[^shang]: Shang A, Huwiler-Müntener K, Nartey L. Are the clinical effects of homoeopathy placebo effects? Comparative study of placebo-controlled trials of homoeopathy and allopathy. Lancet. 2005 Aug 27-Sep 2;366(9487):726-32. PubMed PMID: 16125589.
-[^moffet]: Moffet HH. Sham acupuncture may be as efficacious as true acupuncture: a systematic review of clinical trials. J Altern Complement Med. 2009 Mar;15(3):213-6. Review. PubMed PMID: 19250001.
+[^shang]:
+    Shang A, Huwiler-Müntener K, Nartey L. Are the clinical effects of homoeopathy placebo effects? Comparative study of placebo-controlled trials of homoeopathy and allopathy. Lancet. 2005 Aug 27-Sep 2;366(9487):726-32. PubMed PMID: 16125589.
+
+[^moffet]:
+    Moffet HH. Sham acupuncture may be as efficacious as true acupuncture: a systematic review of clinical trials. J Altern Complement Med. 2009 Mar;15(3):213-6. Review. PubMed PMID: 19250001.
+
 [^harvard]: Pinch B. [More Than Just a Sugar Pill: Why the placebo effect is real.](http://sitn.hms.harvard.edu/flash/2016/just-sugar-pill-placebo-effect-real) Harvard University Blog.
 [^fuente]: de la Fuente-Fernández R, Lidstone S, Stoessl AJ. Placebo effect and dopamine release. J Neural Transm Suppl. 2006;(70):415-8. Review. PubMed PMID: 17017561.
 [^moseley]: Moseley JB, O'Malley K, Petersen NJ. A Controlled Trial of Arthroscopic Surgery for Osteoarthritis of the Knee. N Engl J Med 2002; 347:81-88July 11, 2002
