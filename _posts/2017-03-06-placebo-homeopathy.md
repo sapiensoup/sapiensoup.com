@@ -4,9 +4,9 @@ title:  "The Skeptic's Guide to Embracing Homeopathy"
 author: marlene
 description: "You know homeopathy is bogus; but your child doesn't! The Power of Placebo: How you and your family can get a great deal out of homeopathy without actually believing in it."
 facebook:
-   image: /images/placebo/placebo-effect-4@2x.png
+   image: /images/placebo/placebo-effect-4-fb@2x.png
 twitter:
-   image: /images/placebo/placebo-effect-4@2x.png
+   image: /images/placebo/placebo-effect-4-fb@2x.png
    large: true
 ---
 
