@@ -65,7 +65,9 @@ Homeopathy checks all boxes for being a powerful placebo:
 - Is socially accepted
 - Short intervals of intake
 
-At the same time, homeopathy has no side effects. Why? Because the high dilution effectively eliminates all active ingredients. Richard Dawkins drew a catchy comparison: for a commonly prescribed 30C dilution, it’s like taking one molecule of the active ingredient and diluting it with all the atoms of the solar system.[^dawkins]
+At the same time, homeopathy has no side effects. Why? Because the high dilution effectively eliminates all active ingredients. Richard Dawkins drew a catchy comparison: for a commonly prescribed 30C dilution, it’s like taking one molecule of the active ingredient and diluting it with all the atoms of the solar system.[^dawkins] Justin Cooke from [The Sunlight Experiment](https://thesunlightexperiment.com/blog/2016/9/15/homeopathy-skepticism?rq=homeopathy) did a beautiful job illustrating the dilution process. Click to enlarge:
+
+<a href="https://static1.squarespace.com/static/52cba3b9e4b0a14ddad6a571/t/57e0e97cf5e2318fad0c3dbc/1474357653868/Homeopathy+extreme+dilutions"> <img src="/images/placebo/homeopathy-extreme-dilutions.jpeg" alt="dilution in homeopathy" width="600">
 
 ## Placebo works best in children
 In my estimation, homeopathy can be useful for all kinds of minor aliments like headache, cough, runny nose, anxiety, etc. Eventually children would bounce back to normal on their own, but with a powerful placebo I have experienced that I can speed up the process.
