@@ -69,8 +69,13 @@ At the same time, homeopathy has no side effects. Why? Because the high dilution
 
 <a href="https://static1.squarespace.com/static/52cba3b9e4b0a14ddad6a571/t/57e0e97cf5e2318fad0c3dbc/1474357653868/Homeopathy+extreme+dilutions"> <img src="/images/placebo/homeopathy-extreme-dilutions.jpeg" alt="dilution in homeopathy" width="600">
 
+## [Update] Hyland's scandal 2017
+_No side effects_ is only true if the original substance is diluted to the point of inefficacy. The scandal around [Hyland's teething tablets](https://www.scientificamerican.com/article/hundreds-of-babies-harmed-by-homeopathic-remedies-families-say/) shows how substandard manufacturing practices can pose a real threat to consumers. Inconsistent amounts of _atropa belladonna_ aka _deadly nightshade_ were found in the tablets, possibly harming hundreds of babies. They might even be linked to the death of eight babies over the past 10 years.
+
+This scandals makes me reconsider my choice of placebo. Fortunately some pharmacies produce non-homeopathic placebo pills, which don't contain any active ingredient, not even theoretically. Personally I'll go with those in the future. Let me know what you use as placebo.
+
 ## Placebo works best in children
-In my estimation, homeopathy can be useful for all kinds of minor aliments like headache, cough, runny nose, anxiety, etc. Eventually children would bounce back to normal on their own, but with a powerful placebo I have experienced that I can speed up the process.
+In my estimation, placebo can be useful for all kinds of minor aliments like headache, cough, runny nose, anxiety, etc. Eventually children would bounce back to normal on their own, but with a powerful placebo I have experienced that I can speed up the process.
 
 As a parent you have superpowers. Your child sees you as all-knowing and almighty. If you tell them that this medicine will heal their boo-boo, the placebo effect will rise to its fullest effect.
 
@@ -80,7 +85,7 @@ If my child suffered from depression and I had a 60 percent chance to mitigate t
 
 {% include infogram.html id="placebo_response_in_children_vs_adults" title="Placebo responses in children, adolescents and adults" %}
 
-My daughter is a young toddler. Together we’ve been through multiple colds, infections, teething and all kinds of children’s diseases. I know when I can get away using a placebo and when it’s time for real medicine. For example: I wouldn’t treat an acute ear infection with homeopathy, but a mild to moderate cold—no problem! Generally, my goal is to go for as long as possible without actual medication.
+My daughter is a young toddler. Together we’ve been through multiple colds, infections, teething and all kinds of children’s diseases. I know when I can get away using a placebo and when it’s time for real medicine. For example: I wouldn’t treat an acute ear infection with a placebo, but a mild to moderate cold—no problem! Generally, my goal is to go for as long as possible without actual medication.
 
 ## Is prescribing a placebo ethical?
 Intentionally deceiving patients would go against most doctor’s ethics. But in a doctor-parent-child relationship this is of no concern. The physician gives full disclosure to the parent who makes an informed decision about their child’s treatment.
