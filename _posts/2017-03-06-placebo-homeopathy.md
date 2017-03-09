@@ -47,7 +47,7 @@ Bouncing back to normal can be accelerated or at least less debilitating thanks 
 
 > Prescription drugs come with effects and side effects.
 
-The chasm is actually much deeper. You would think that medical procedures are based on evidence and the scientific method. They’re not. The history of western medicine is studded with treatments which were based on anecdotes and bits of evidence at best. What mattered most of all was the esteemed authority of the doctor. Examples of ineffective and often torturous treatments are blood letting, lobotomies or the overuse of mercury. And despite mayor improvements, 15 percent of all medical practices get reversed even today.[^freakonomics]
+The chasm is actually much deeper. You would think that medical procedures are based on evidence and the scientific method. They’re not. The history of western medicine is studded with treatments which were based on anecdotes and bits of evidence at best. What mattered most of all was the esteemed authority of the doctor. Examples of ineffective and often torturous treatments are blood letting, lobotomies or the overuse of mercury. And despite major improvements, 15 percent of all medical practices get reversed even today.[^freakonomics]
 
 Furthermore, clinical trials for a new drug are often biased or even manipulated. I highly recommend listening to the three-part series _Bad Medicine_ on [Freakonomics Radio](http://freakonomics.com/archive) if you want to learn more about modern medicine. And believe me, you do!
 
