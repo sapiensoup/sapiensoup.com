@@ -90,7 +90,9 @@ Be that as it may—half a crumb or three—you get an idea about the magnitude 
 > Not knowing how fast THC clears from breast milk is what’s keeping responsible mothers from a responsible use of cannabis.
 
 ## Better times ahead
-Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. Currently he discourages cannabis use due to the lack of data. At the same time, he has plans to conduct more research on the topic. In Colorado, he found an ideal testing ground for his new study given the legalization of recreational use of marijuana.[^amarillo]
+Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. Currently he discourages cannabis use due to the lack of data.
+
+The great news is that he currently conducts a study in Colorado to collect more evidence about the transfer of THC into human milk. He is still looking for participants in the Denver area. If you are a _cannamama_ you might want to check his [website](http://www.infantrisk.com/content/research-study-transfer-marijuana-human-milk) for more info. In Colorado, he found an ideal testing ground for his new study given the legalization of recreational use of marijuana.[^amarillo]
 
 # II. What are the effects on the child?
 
