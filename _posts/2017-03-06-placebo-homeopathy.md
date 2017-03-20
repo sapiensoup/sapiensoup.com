@@ -36,7 +36,7 @@ Placebo effects are even known in surgery. The outcomes of actual arthroscopic k
 <img src="/images/placebo/placebo-effect@2x.png" alt="efficacy of placebo effect in depression, migraine, pain" title="therapeutic effects of placebo">
 
 ## Human factor
-The degree of personal care a patient receives, correlates with the success of the therapy. When a doctor listens empathically, patients get better almost automatically. The placebo effect is amplified even more if the patient is educated about exactly how and when the medication will come into effect.[^miller]
+The degree of personal care a patient receives, correlates with the success of the therapy. When a doctor listens empathically, patients get better almost immediately. The placebo effect is amplified even more if the patient is educated about exactly how and when the medication will come into effect.[^miller]
 
 > The more information is shared about the effects of the pretended medicine, the stronger the placebo effect.
 
