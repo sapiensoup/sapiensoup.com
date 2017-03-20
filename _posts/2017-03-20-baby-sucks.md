@@ -6,7 +6,7 @@ description: "I'm dead serious—you're signing up for two years of misery. And 
 facebook:
    image: /images/baby-sucks/crying-baby-1000x550.jpeg
 twitter:
-   image: /images/baby-sucks/baby-happiness-1@2x.png
+   image: /images/baby-sucks/crying-baby-1000x550.jpeg
    large: true
 ---
 
