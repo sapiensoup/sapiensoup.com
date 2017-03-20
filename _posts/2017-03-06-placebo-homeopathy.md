@@ -49,7 +49,7 @@ Bouncing back to normal can be accelerated or at least less debilitating thanks 
 
 The chasm is actually much deeper. You would think that medical procedures are based on evidence and the scientific method. They’re not. The history of western medicine is studded with treatments which were based on anecdotes and bits of evidence at best. What mattered most of all was the esteemed authority of the doctor. Examples of ineffective and often torturous treatments are blood letting, lobotomies or the overuse of mercury. And despite major improvements, 15 percent of all medical practices get reversed even today.[^freakonomics]
 
-Furthermore, clinical trials for a new drug are often biased or even manipulated. I highly recommend listening to the three-part series _Bad Medicine_ on [Freakonomics Radio](http://freakonomics.com/archive) if you want to learn more about modern medicine. And believe me, you do!
+Furthermore, clinical trials for a new drug are often biased or even manipulated. I highly recommend listening to the three-part series _Bad Medicine_ on [Freakonomics Radio](http://freakonomics.com/archive){:target="_blank"} if you want to learn more about modern medicine. And believe me, you do!
 
 My personal credo is, that if I _can_ abstain from medication, I will. Here’s where homeopathy comes in.
 
@@ -65,7 +65,7 @@ Homeopathy checks all boxes for being a powerful placebo:
 - Is socially accepted
 - Short intervals of intake
 
-At the same time, homeopathy has no side effects. Why? Because the high dilution effectively eliminates all active ingredients. Richard Dawkins drew a catchy comparison: for a commonly prescribed 30C dilution, it’s like taking one molecule of the active ingredient and diluting it with all the atoms of the solar system.[^dawkins] Justin Cooke from [The Sunlight Experiment](https://thesunlightexperiment.com/blog/2016/9/15/homeopathy-skepticism?rq=homeopathy) did a beautiful job illustrating the dilution process. Click to enlarge:
+At the same time, homeopathy has no side effects. Why? Because the high dilution effectively eliminates all active ingredients. Richard Dawkins drew a catchy comparison: for a commonly prescribed 30C dilution, it’s like taking one molecule of the active ingredient and diluting it with all the atoms of the solar system.[^dawkins] Justin Cooke from [The Sunlight Experiment](https://thesunlightexperiment.com/blog/2016/9/15/homeopathy-skepticism?rq=homeopathy){:target="_blank"} did a beautiful job illustrating the dilution process. Click to enlarge:
 
 <a href="https://static1.squarespace.com/static/52cba3b9e4b0a14ddad6a571/t/57e0e97cf5e2318fad0c3dbc/1474357653868/Homeopathy+extreme+dilutions"> <img src="/images/placebo/homeopathy-extreme-dilutions.jpeg" alt="dilution in homeopathy" width="600">
 
