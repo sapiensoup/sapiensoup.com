@@ -15,7 +15,7 @@ twitter:
 <img src="/images/baby-sucks/crying-baby-1000x550.jpeg" alt="baby doesn't stop crying">
 
 # Having a baby is worse than the death of your spouse?
-Imagine your spouse or partner, the most important person in the world died. Horrible, right? Well, according to a 2015 study[^margolis] having a baby is worse. In numbers, it's 50 percent worse that the death of your partner or being unemployed. The birth of your first child is almost three times as bad as a divorce.
+Imagine your spouse or partner, the most important person in the world died. Horrible, right? Well, according to a 2015 study[^margolis] having a baby is worse. In numbers, it's 50 percent worse than the death of your partner or being unemployed. The birth of your first child is almost three times as bad as a divorce.
 
 <img src="/images/baby-sucks/baby-loss-happiness@2x.png" alt="relative loss of happiness after child birth, unemployment, divorce of death of partner" width="500">
 
