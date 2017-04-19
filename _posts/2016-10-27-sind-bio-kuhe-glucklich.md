@@ -117,15 +117,13 @@ Im Klartext bedeutet das: wer nicht möchte dass Kalb und Mutter getrennt werden
 
 Auch die strengen, österreichischen Bio-Richtlinien von AMA-Austria oder BIO AUSTRIA schreiben keine Muttergebundene Kälberaufzucht für Milchvieh vor.
 
-##### Wo gibt es Milch aus Muttergebundener Kälberaufzucht in Wien zu kaufen?
+##### Wo gibt es Milch aus Muttergebundener Kälberaufzucht in Österreich zu kaufen?
 
-Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden keine solche Milch finden. Auf meine Anfrage bei der Landwirtschaftskammer konnte mir trotz freundlicher Unterstützung auch kein Betrieb genannt werden, der Milch aus Muttergebundener Kälberaufzucht anbieten würde. Solche Milch wird meist nur direkt am Bauernhof zum Eigenbedarf getrunken und stammt von Mütterkühen (sprich von Mastvieh), nicht von Milchkühen.
+Ich habe viel herumgefragt und konnte selbst in dezidierten Bauernläden in Wien keine solche Milch finden. Sie wird meist nur direkt am Bauernhof zum Eigenbedarf getrunken und stammt von Mütterkühen (sprich von Mastvieh), nicht von Milchkühen.
 
 Das Problem scheint zu sein, dass Milchproduktion eine sehr arbeitsintensive Form der Landwirtschaft ist. Durch Muttergebundene Kälberaufzucht erhöht sich der Arbeitsaufwand und verringert sich der Milchoutput – keine sonderlich attraktive Nische, nicht einmal für Kleinbetriebe.
 
-In der Schweiz gibt es einige aktive Betriebe, die eine Mischform praktizieren, die _„Mutter- und Ammengebundene Kälberaufzucht (MAgKa)"_ mit nur teilweiser Trennung und rationiertem Zugang zum Euter.[^kaelberaufzucht]
-
-Außerdem fällt mir auf, dass es nur wenig Bewusstsein über die geschilderte Trennung von Mutter und Kalb in Österreich gibt – und damit auch kaum Nachfrage nach Milch aus Muttergebundener Kälberaufzucht.
+In meinem Folgeartikel [Kalbfreundliche Milch aus Österreich]({% post_url 2017-04-20-kalbfreundliche-milch %}) liste ich Bezugsquellen für Milch aus muttergebundener Kälberaufzucht auf.
 
 # Macht der Kauf von Bio-Produkten dann überhaupt Sinn?
 
