@@ -2,7 +2,7 @@
 layout: post
 title:  "Medical benefits of psychedelic drugs"
 author: marlene
-description: "Ecstasy, LSD, magic mushrooms and ketamine are extraordinarily effective in treating mental illnesses such as depression, anxiety or PTSD."
+description: "Ecstasy, LSD, magic mushrooms and ketamine were found to be extraordinarily effective in treating mental illnesses such as depression, anxiety or PTSD."
 facebook:
    image: /images/medical-benefits-psychedelic-drugs/lsd-against-depression@2x.png
 twitter:
