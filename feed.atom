@@ -19,7 +19,7 @@
       <uri>{{ site.url }}/author/{{ post.author }}</uri>
     </author>
     <summary>
-      {{ post.excerpt }}
+      {{ post.excerpt | remove: '[^verschiedene-rindfleischteile]' | remove: '[^shang]' | remove: '[^moffet]' | remove: '[^disclaimer]' | remove: '[^margolis]' | remove: '[^break-through]' }}
     </summary>
   </entry>
   {% endfor %}
