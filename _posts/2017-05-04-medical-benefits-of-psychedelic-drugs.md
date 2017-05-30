@@ -12,7 +12,7 @@ twitter:
 
 **"Psychedelic drugs are poised to be the next major breakthrough in mental health care" writes Scientific American.[^break-through] Dropping acid to treat depression—seriously…?!**
 
-<img src="/images/medical-benefits-psychedelic-drugs/lsd-against-depression@2x.png" alt="Psychedelic drugs proven effective against mental disorders like depression">
+<img src="{{ site.url }}/images/medical-benefits-psychedelic-drugs/lsd-against-depression@2x.png" alt="Psychedelic drugs proven effective against mental disorders like depression">
 
 Psychedelic drugs can seem pretty scary at first. At some point in your life, you’ve probably heard stories about LSD causing schizophrenia, triggering flashbacks, or even making people jump out of windows because they think they can fly.
 
