@@ -112,12 +112,14 @@ And for those of you who wonder _“How does it actually feel taking a psychedel
 
 That’s a lot of ground to cover, and that’s why this is the first in a series of blog posts:
 
-**How psychedelic substances work\\
-MDMA-assisted therapy\\
-What LSD does to the brain\\
+**[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}\\
+[Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
+The Psychedelic Experience\\
+MDMA-assisted Therapy\\
+What LSD Does to the Brain\\
 Microdosing LSD\\
-Medical benefits of psilocybin\\
-Medical benefits of ketamine**
+Medical Benefits of Psilocybin\\
+Medical Benefits of Ketamine**
 
 You can [sign up](http://eepurl.com/cBB_9D) and get notified when we publish our next story.
 
