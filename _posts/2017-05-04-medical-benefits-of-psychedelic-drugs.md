@@ -52,7 +52,7 @@ Psychedelic drugs are heavily stigmatized. In most countries they are subject to
 
 In 2010 David Nutt, Ph.D., former president of the _European College of Neuropsychopharmacology_ and advisor to the British government on the misuse of drugs, presented a rational analysis of the 20 most popular illegal drugs. He analyzed the individual and social harm of the drugs.
 
-<img src="/images/medical-benefits-psychedelic-drugs/nutt-analysis-of-drugs-harm-potential.png" alt="David Nutt's harm assessment of 20 popular drugs from The Lancet, 2010">_Drug harms in the UK (Nutt)_[^ranking-nutt]
+<img src="{{ site.url }}/images/medical-benefits-psychedelic-drugs/nutt-analysis-of-drugs-harm-potential.png" alt="David Nutt's harm assessment of 20 popular drugs from The Lancet, 2010">_Drug harms in the UK (Nutt)_[^ranking-nutt]
 
 Besides the more obvious, immediate physical harm to the user (in light blue) every drug implies a certain degree of social harm (in dark blue), such as damage to families or cost of health care and police. Nutt found that heroin, crack cocaine and methamphetamine (aka _crystal meth_) were most damaging to the user. Alcohol was the most damaging to others because it causes loss of relationships and tangibles, injuries to others (including fights, domestic violence, traffic accidents) and economic costs. Put bluntly: society pays the price of addiction.
 
@@ -64,7 +64,7 @@ Drug addiction is a serious problem. It's important to note however, that the le
 
 Examples to the contrary are commonly prescribed opioids. Legal narcotic drugs like oxycodone (e.g. _OxyContin_) or fentanyl, which is 50 times more potent than morphine[^fentanyl], possess highly addictive _and_ toxic properties. Opioid abuse is skyrocketing in the U.S.. More Americans die from overdosing a prescription pain reliever than overdosing from heroin.[^opioid-addiction] Opioid prescription drugs would be located in the top right corner on the chart below despite being classified only as a [Schedule 2 drug]( http://static3.businessinsider.com/image/573b94ab52bcd029008c3779-1200-1285/bi-graphics_drug-scheduling-chart.png){:target="_blank"}: high potential for abuse but with accepted medical use.
 
-<img src="/images/medical-benefits-psychedelic-drugs/gable-safety-ratio-and-dependency.png" alt="risk of overdose and dependency of legal and illegal drugs including psychedelic drugs such as MDMA, LSD, psilocybin, ketamine">_Safety ratio and dependency (Gable)_[^dependence]
+<img src="{{ site.url }}/images/medical-benefits-psychedelic-drugs/gable-safety-ratio-and-dependency.png" alt="risk of overdose and dependency of legal and illegal drugs including psychedelic drugs such as MDMA, LSD, psilocybin, ketamine">_Safety ratio and dependency (Gable)_[^dependence]
 
 The chart shows the dependency potential on the y-axis and the safety ratio on the x-axis: the lower the ratio, the safer the drug. A value of 0.1 means that consuming ten times the active dose of a drug is lethal. A value of 0.01 would require a consumption of 100 times the active dose for it to be lethal. For marijuana, LSD and psilocybin it would require 1000 times the active dose to be lethal. And indeed, there is not one documented case of a lethal overdose of those substances in humans ever.
 
@@ -79,7 +79,7 @@ And while all of that remains true, you don’t want to throw out the baby with 
 
 Psychedelics might not be a miraculous cure on their own. But combined with—for example—psychotherapy we might look at a treatment protocol which is far more effective than the (expensive) status quo.
 
-<img src="/images/medical-benefits-psychedelic-drugs/treatment-protocol@2x.png" alt="Made up example of a treatment protocol with psychedelic drugs">_Hypothetical example of a treatment protocol_
+<img src="{{ site.url }}/images/medical-benefits-psychedelic-drugs/treatment-protocol@2x.png" alt="Made up example of a treatment protocol with psychedelic drugs">_Hypothetical example of a treatment protocol_
 
 
 # Who is driving research on psychedelic drugs?
@@ -89,7 +89,7 @@ Today, psychedelic drugs are not the north star of a young political countercult
 
 Prestigious research teams across the world run fully randomized, double-blind, placebo controlled trials—the gold standard of modern research—to explore the therapeutic properties of psychedelic drugs. And reputable science journals and newspapers like _The New York Times, The Washington Post, The Guardian_ or _Wired_ publish the findings. Why? Because the results are literally mind-altering.
 
-<img src="/images/medical-benefits-psychedelic-drugs/medical-benefits-psychedelic-drugs@2x.png" alt="medical benefits of psychedelic drugs related to mood, life satisfaction, creativity, PTSD, anxiety, OCD, depression and more">
+<img src="{{ site.url }}/images/medical-benefits-psychedelic-drugs/medical-benefits-psychedelic-drugs@2x.png" alt="medical benefits of psychedelic drugs related to mood, life satisfaction, creativity, PTSD, anxiety, OCD, depression and more">
 
 The organizations gathering these findings are amongst the most prestigious in the world:
 
@@ -156,7 +156,7 @@ For even more information we invite you to join the [Psychedelic Society Vienna 
 
 [^opioid-addiction]: American Society of Addiction Medicine. [Opioid Addiction 2016 Facts & Figures](http://www.asam.org/docs/default-source/advocacy/opioid-addiction-disease-facts-figures.pdf). - Data from: Center for Behavioral Health Statistics and Quality. (2016). Key substance use and mental health indicators in the United States: Results from the 2015 National Survey on Drug Use and Health (HHS Publication No. SMA 16-4984, NSDUH Series H-51). Retrieved from http://www.samhsa.gov/data/
 
-[^history]: [The Medical History of Psychedelic Drugs](http://www.maps.org/images/pdf/history_of_psychedelics.pdf). 2007. Dissertation presented to the University of Cambridge.
+[^history]: [The Medical History of Psychedelic Drugs](http://www.maps.org{{ site.url }}/images/pdf/history_of_psychedelics.pdf). 2007. Dissertation presented to the University of Cambridge.
 
 [^griffiths]: Griffiths RR, Johnson MW, Carducci MA. Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial. J Psychopharmacol. 2016 Dec;30(12):1181-1197. [PubMed PMID: 27909165](https://www.ncbi.nlm.nih.gov/pubmed/27909165).
 

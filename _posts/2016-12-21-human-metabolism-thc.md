@@ -12,8 +12,8 @@ twitter:
 
 It's widely-known that Tetrahydrocannabinol (THC) is the active ingredient in cannabis and the reason people experience a psychological high. Less widely-known, however, is what happens to THC in the body and how that impacts the psychological high.
 
-<a href="/images/thc/Infographic-Human-Metabolism-THC-1300.png">
-  <img class="alignright wp-image-159" src="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png" alt="Thumbnail-Infographic-Human-Metabolism-THC" width="150" height="479" srcset="/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, /images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, /images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, /images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w, /images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w" sizes="(max-width: 150px) 85vw, 150px" />
+<a href="{{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300.png">
+  <img class="alignright wp-image-159" src="{{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png" alt="Thumbnail-Infographic-Human-Metabolism-THC" width="150" height="479" srcset="{{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300-94x300.png 94w, {{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300-768x2452.png 768w, {{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300-321x1024.png 321w, {{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300-1200x3831.png 1200w, {{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300.png 1300w" sizes="(max-width: 150px) 85vw, 150px" />
 </a>
 
 This post presents a summary of scientific research on the human metabolism of THC—visualized and explained in simple language.
@@ -41,7 +41,7 @@ THC = _Tetrahydrocannabinol_
 
 Again, in the liver, delta-9-THC turns into 11-OH-THC which turns into 11-COOH-THC. You'll need to remember this as I will now explain how THC travels through the human body.
 
-<figure id="attachment_160" style="width: 390px" class="wp-caption aligncenter"><img class="wp-image-160" src="/images/thc/Metabolites-of-THC-780-300x192.png" alt="Metabolites-of-THC" width="390" height="250" srcset="/images/thc/Metabolites-of-THC-780-300x192.png 300w, /images/thc/Metabolites-of-THC-780-768x492.png 768w, /images/thc/Metabolites-of-THC-780.png 780w" sizes="(max-width: 390px) 85vw, 390px"><figcaption class="wp-caption-text"><center>Metabolites of delta-9-THC</center></figcaption></figure>
+<figure id="attachment_160" style="width: 390px" class="wp-caption aligncenter"><img class="wp-image-160" src="{{ site.url }}/images/thc/Metabolites-of-THC-780-300x192.png" alt="Metabolites-of-THC" width="390" height="250" srcset="{{ site.url }}/images/thc/Metabolites-of-THC-780-300x192.png 300w, {{ site.url }}/images/thc/Metabolites-of-THC-780-768x492.png 768w, {{ site.url }}/images/thc/Metabolites-of-THC-780.png 780w" sizes="(max-width: 390px) 85vw, 390px"><figcaption class="wp-caption-text"><center>Metabolites of delta-9-THC</center></figcaption></figure>
 
 **Note:** The three THC molecules have different properties. For the sake of clarity I'll call them by their full names—delta-9-THC, 11-OH-THC, 11-COOH-THC—unless I mean THC in general.
 
@@ -60,7 +60,7 @@ There are two kinds of cannabinoid receptors:
 
 Each time the blood circulates through the body, a certain portion of it passes through the liver. There, psychoactive delta-9-THC is metabolized into psychoactive 11-OH-THC and non-psychoactive 11-COOH-THC. Afterward, these two metabolites travel along with delta-9-THC to the heart and from there throughout the body. Like delta-9-THC, 11-OH-THC also binds to CB1 receptors in the brain.
 
-<figure id="attachment_151" style="width: 600px" class="wp-caption aligncenter"><img class="wp-image-151" style="text-align: center;" src="/images/thc/Metabolic-Pathway-Stomach-1200.png" alt="Metabolic pathway of THC after inhalation" width="600" height="150" srcset="/images/thc/Metabolic-Pathway-Stomach-1200.png 1200w, /images/thc/Metabolic-Pathway-Stomach-1200-300x75.png 300w, /images/thc/Metabolic-Pathway-Stomach-1200-768x192.png 768w, /images/thc/Metabolic-Pathway-Stomach-1200-1024x256.png 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after inhalation</center></figcaption></figure>
+<figure id="attachment_151" style="width: 600px" class="wp-caption aligncenter"><img class="wp-image-151" style="text-align: center;" src="{{ site.url }}/images/thc/Metabolic-Pathway-Stomach-1200.png" alt="Metabolic pathway of THC after inhalation" width="600" height="150" srcset="{{ site.url }}/images/thc/Metabolic-Pathway-Stomach-1200.png 1200w, {{ site.url }}/images/thc/Metabolic-Pathway-Stomach-1200-300x75.png 300w, {{ site.url }}/images/thc/Metabolic-Pathway-Stomach-1200-768x192.png 768w, {{ site.url }}/images/thc/Metabolic-Pathway-Stomach-1200-1024x256.png 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after inhalation</center></figcaption></figure>
 
 The biological pathway through the lungs typically results in a steep increase of delta-9-THC in the bloodstream within 10 minutes of consumption. 11-OH-THC peaks slightly later, at around 15 minutes. After that, levels of both psychoactive molecules decrease sharply until, after 12 hours, their concentration falls under the detectable limit of 0.5 ng/ml. The second and non-psychoactive metabolite 11-COOH-THC peaks more than one hour after consumption and circulates in the bloodstream for a long time. In the quoted study it took 168 hours, i.e. 7 days, to fall under the detectable limit.[^blood-cannabinoids]
 
@@ -70,7 +70,7 @@ The biological pathway through the lungs typically results in a steep increase o
 
 When ingested, delta-9-THC enters the bloodstream through the walls of the stomach and intestines. Tests with radiolabeled delta-9-THC molecules show this process to be highly effective, with 90-95% of delta-9-THC molecules being absorbed, depending on the carrier medium.[^pharmacokinetics] When absorbed gastrointestinally, delta-9-THC travels first to the liver where most of it is eliminated or metabolized before it has ever had a chance to activate a receptor. After this first pass through the liver, the remaining delta-9-THC and both its metabolites get to the heart and from there into circulation. Delta-9-THC and 11-OH-THC reach the brain simultaneously.
 
-<figure id="attachment_156" style="width: 424px" class="wp-caption aligncenter"><img class="wp-image-156" src="/images/thc/Metabolic-Pathway-Lungs-848.png" alt="Metabolic-Pathway-Stomach" width="424" height="150" srcset="/images/thc/Metabolic-Pathway-Lungs-848.png 848w, /images/thc/Metabolic-Pathway-Lungs-848-300x106.png 300w, /images/thc/Metabolic-Pathway-Lungs-848-768x272.png 768w" sizes="(max-width: 424px) 85vw, 424px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after ingestion</center></figcaption></figure>
+<figure id="attachment_156" style="width: 424px" class="wp-caption aligncenter"><img class="wp-image-156" src="{{ site.url }}/images/thc/Metabolic-Pathway-Lungs-848.png" alt="Metabolic-Pathway-Stomach" width="424" height="150" srcset="{{ site.url }}/images/thc/Metabolic-Pathway-Lungs-848.png 848w, {{ site.url }}/images/thc/Metabolic-Pathway-Lungs-848-300x106.png 300w, {{ site.url }}/images/thc/Metabolic-Pathway-Lungs-848-768x272.png 768w" sizes="(max-width: 424px) 85vw, 424px"><figcaption class="wp-caption-text"><center>Metabolic pathway of THC after ingestion</center></figcaption></figure>
 
 # Bioavailability
 
@@ -110,7 +110,7 @@ Blood transports the THC but it's the destination that matters:
 
  - **THC is highly fat-soluble.** THC is rapidly taken up by fat tissue, where it likes to accumulate and sit for many days. From these fat deposits, it is slowly released back into the bloodstream.[^marijuana-toxicity]
 
-<img class="aligncenter wp-image-121" src="/images/thc/Distribution-1024x698.jpg" alt="Distribution of THC in the body over time." width="550" height="375" srcset="/images/thc/Distribution-1024x698.jpg 1024w, /images/thc/Distribution-300x205.jpg 300w, /images/thc/Distribution-768x524.jpg 768w, /images/thc/Distribution-1200x818.jpg 1200w, /images/thc/Distribution.jpg 1280w" sizes="(max-width: 550px) 85vw, 550px">
+<img class="aligncenter wp-image-121" src="{{ site.url }}/images/thc/Distribution-1024x698.jpg" alt="Distribution of THC in the body over time." width="550" height="375" srcset="{{ site.url }}/images/thc/Distribution-1024x698.jpg 1024w, {{ site.url }}/images/thc/Distribution-300x205.jpg 300w, {{ site.url }}/images/thc/Distribution-768x524.jpg 768w, {{ site.url }}/images/thc/Distribution-1200x818.jpg 1200w, {{ site.url }}/images/thc/Distribution.jpg 1280w" sizes="(max-width: 550px) 85vw, 550px">
 
 As you can see in the chart above,[^marijuana-toxicity] after smoking THC there is a time lag between concentrations in the blood and brain. That's why high THC levels in the bloodstream don't mean that the user experiences a psychological high at the same time.
 
@@ -175,7 +175,7 @@ So, where to start? Some edibles sold in US states, which have legalized marijua
 
 Another—quite useful—lesson I learned researching the metabolism of delta-9-THC is about dealing with smoker's paranoia. Most of us have been there: you, a friend, a first timer, an excessive dose or simply a bad day. Happens to the best. Next time I see somebody freaking out I'll say something along the lines of "Yes, you're super baked. That's because you have peak THC concentration in your brain right now. Hang in there buddy, science taught us the peak doesn't last very long. In just a few minutes it'll be a smooth ride down the other end."
 
-<img class="wp-image-159" src="/images/thc/human-metabolism-thc.svg" alt="Infographic-Human-Metabolism-THC" width="650" height="2075">
+<img class="wp-image-159" src="{{ site.url }}/images/thc/human-metabolism-thc.svg" alt="Infographic-Human-Metabolism-THC" width="650" height="2075">
 
 &nbsp;
 

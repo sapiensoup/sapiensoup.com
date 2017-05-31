@@ -12,12 +12,12 @@ twitter:
 
 **I'm dead serious—you're signing up for two years of misery. And nobody is talking about it. Here is my story.[^disclaimer]**
 
-<img src="/images/baby-sucks/crying-baby-1000x550.jpeg" alt="baby doesn't stop crying">
+<img src="{{ site.url }}/images/baby-sucks/crying-baby-1000x550.jpeg" alt="baby doesn't stop crying">
 
 # Having a baby is worse than the death of your spouse?
 Imagine your spouse or partner, the most important person in the world died. Horrible, right? Well, according to a 2015 study[^margolis] having a baby is worse. In numbers, it's 50 percent worse than the death of your partner or being unemployed. The birth of your first child is almost three times as bad as a divorce.
 
-<img src="/images/baby-sucks/baby-loss-happiness@2x.png" alt="relative loss of happiness after child birth, unemployment, divorce of death of partner" width="500">
+<img src="{{ site.url }}/images/baby-sucks/baby-loss-happiness@2x.png" alt="relative loss of happiness after child birth, unemployment, divorce of death of partner" width="500">
 
 **There you have it: Having a baby sucks.**
 
@@ -25,7 +25,7 @@ Imagine your spouse or partner, the most important person in the world died. Hor
 
 When you hold your baby for the first time it is **the** moment: peak awesomeness. But within a few weeks of baby’s birth, your happiness will fall off a cliff. Your life will become so shitty, that you'll find yourself breaking down in tears on the bathroom floor. You will wonder if you have just completely ruined your life. You will snap at your partner. You will come face to face with the most disgusting side of your personality. You will want to give the child back.
 
-<img src="/images/baby-sucks/baby-happiness-1@2x.png" alt="how happiness will decrease after baby is born" width="450">
+<img src="{{ site.url }}/images/baby-sucks/baby-happiness-1@2x.png" alt="how happiness will decrease after baby is born" width="450">
 
 ## What makes it so bad exactly?
 
@@ -61,7 +61,7 @@ The post-war generations were brought up under difficult circumstances by author
 
 If you’re reading this, you’re probably a member of the _Generation Y (1976-1990)_ or the so-called _Millennials (1991-2005)_[^generations]. If you were also born and raised in the western hemisphere, you were lucky to grow up in a safe and comfortable environment. Your parents—_Baby Boomers_ and _Generation X_—had already taken a stand for gender equality, countered racism and superseded the authoritarian approach to parenting. This means that—as a group—you’ve experienced a lot less shitty stuff in your life.
 
-<img src="/images/baby-sucks/generations-timeline@2x.png" alt="Generations names of 20th century and historic events">
+<img src="{{ site.url }}/images/baby-sucks/generations-timeline@2x.png" alt="Generations names of 20th century and historic events">
 
 The worst events of your lifetime were perhaps 9/11 (the majority followed on TV) and the financial crisis of 2008. The financial crisis certainly took its toll on the early members of Generation Y. But most of us were either still in school—thus financially supported by our parents—or had just started out a career with an underpaid job and a cheap rent. Because we didn’t have a lot to lose, the crisis only affected us peripherally.
 
@@ -74,11 +74,11 @@ At around two years, your child can walk, has acquired basic communication skill
 
 After two years you will have adjusted to the new situation. You will have grown as a person and have made a number of adjustments and optimizations to your life that will change it for the better. Sometimes extreme pressure is just what it takes to form a diamond.
 
-<img src="images/baby-sucks/baby-happiness-2@2x.png" alt="how your baby will bring happiness and personal growth to your life">
+<img src="{{ site.url }}/images/baby-sucks/baby-happiness-2@2x.png" alt="how your baby will bring happiness and personal growth to your life">
 
 My daughter mercilessly eliminated baggage I was carrying for reasons of courtesy, guilt or compensation. I quit meeting people half-heartedly, stopped pointless internet surfing, I abandoned all non-essential home improvement projects. I stopped obsessing about looks and went with natural nails, low-maintenance haircuts, functional clothing, threw out all my high heel shoes, and the list goes on. My child forced me to set priorities like nothing else I’ve ever experienced. In fact, my life has gotten an upgrade.
 
-<img src="images/baby-sucks/before-after-baby@2x.png" alt="a baby constrains and upgrades the parent's life at the same time" width="600">
+<img src="{{ site.url }}/images/baby-sucks/before-after-baby@2x.png" alt="a baby constrains and upgrades the parent's life at the same time" width="600">
 
 ## Natural dopamine hits
 Of course, having a baby doesn't suck entirely. For example, the baby will get you high on dopamine and oxytocin a lot of the time.[^swain] Those are two of the many neurotransmitters which make you experience a form of happiness.
@@ -95,7 +95,7 @@ We have to be honest with new parents—particularly the mothers—or they’ll 
 
 In the same way we should be honest about just how tough those first years are going to be. We can’t spare new parents the stress of sleep deprivation, domestic isolation or relationship glitches—those things are inevitable. But we can spare them the additional pain of thinking that the stress they are experiencing is due to their personal shortcomings. If I had known that having a baby sucks, I wouldn't have felt like such an idiot.
 
-<img src="/images/baby-sucks/baby-sucks-expectations@2x.png" alt="stop whitewashing early parenthood or parents will think they are doing it wrong">
+<img src="{{ site.url }}/images/baby-sucks/baby-sucks-expectations@2x.png" alt="stop whitewashing early parenthood or parents will think they are doing it wrong">
 
 Despite all my ranting, I wholeheartedly recommend motherhood. I recommend it the same way I recommend traveling the world on a shoestring. It shapes character.
 

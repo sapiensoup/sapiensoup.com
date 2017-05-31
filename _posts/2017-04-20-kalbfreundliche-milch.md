@@ -14,7 +14,7 @@ twitter:
 
 Egal ob Biobauernhof oder konventionelle Viehhaltung: Kälber von Milchkühen werden innerhalb der ersten Lebenswoche von ihrer Mutter getrennt, häufig innerhalb weniger Stunden nach der Geburt.
 
-<img src="/images/kalbfreundliche-milch/kuh-mit-neugeborenem-kalb.jpg" alt="Kühe haben enge Beziehung zu ihrem Kalb">
+<img src="{{ site.url }}/images/kalbfreundliche-milch/kuh-mit-neugeborenem-kalb.jpg" alt="Kühe haben enge Beziehung zu ihrem Kalb">
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Die Milchkuh wird jedes Jahr wieder geschwängert damit ihre Milchproduktion nic
 
 Die wenigsten Konsumenten wissen, dass ihre Milch aus nicht-kalbfreundlicher Herkunft stammt. Wer seine Milch im Supermarkt oder sogar im Bioladen kauft, muss mit an Sicherheit grenzender Wahrscheinlichkeit davon ausgehen, dass der Milchkuh ihr Kalb nach der Geburt weggenommen wurde.
 
-<img src="/images/kalbfreundliche-milch/kalb-freundliche-milch@2x.png" alt="Mutterkuhhaltung: Kalbfreundliche Milch aus muttergebundener Kälberaufzucht ist derzeit weder im Supermarkt noch im Biomarkt in Österreich zu kaufen">
+<img src="{{ site.url }}/images/kalbfreundliche-milch/kalb-freundliche-milch@2x.png" alt="Mutterkuhhaltung: Kalbfreundliche Milch aus muttergebundener Kälberaufzucht ist derzeit weder im Supermarkt noch im Biomarkt in Österreich zu kaufen">
 
 # Warum ist das so?
 Die Milch der Mutterkuh ist für die Milchwirtschaft bestimmt. Damit das Kalb die Milch nicht „wegtrinkt“, wird es von der Mutter getrennt.
@@ -33,7 +33,7 @@ Ja. In Biobetrieben muss das Kalb zwar anfangs mit „natürlicher“ Milch ern�
 # Aber ich sehe oft Kälber die bei ihren Müttern trinken...?!
 Das sind keine Milchkühe, sondern Kühe die für die Fleischproduktion vorgesehen sind. In der Mastviehhaltung wird die Milch der Kühe im Regelfall _nicht_ kommerziell verwertet. Deshalb dürfen diese Kälber bei der Mutterkuh bleiben und säugen.
 
-<img src="/images/kalbfreundliche-milch/kuehe-in-oesterreich@2x.png" alt="Kühe in Österreich sind 70% Milchvieh und 30% Mastvieh">
+<img src="{{ site.url }}/images/kalbfreundliche-milch/kuehe-in-oesterreich@2x.png" alt="Kühe in Österreich sind 70% Milchvieh und 30% Mastvieh">
 
 In Österreich sind 70 Prozent der Kühe für die Milchproduktion vorgesehen _(Milchvieh)_ und 30 Prozent für die Fleischproduktion _(Mastvieh)_. In reinen Biobetrieben sind etwas mehr als die Hälfte der Kühe Milchkühe.[^viehhaltung]
 

@@ -12,11 +12,11 @@ twitter:
 
 **You know homeopathy is bogus; but your child doesn't! The Power of Placebo: How you and your family can get a great deal out of homeopathy without actually believing in it.**
 
-<img src="/images/placebo/homeopathy-placebo-1@2x.png" alt="argument if homeopathy works" title="mother and daughter discussing homeopathy">
+<img src="{{ site.url }}/images/placebo/homeopathy-placebo-1@2x.png" alt="argument if homeopathy works" title="mother and daughter discussing homeopathy">
 
 My mom and I have had this conversation a gazillion times. Then, last Christmas, we got into a full-blown fight.
 
-<img src="/images/placebo/homeopathy-placebo-2@2x.png" alt="fight about efficacy of homeopathy" title="mother and daughter discussing homeopathy">
+<img src="{{ site.url }}/images/placebo/homeopathy-placebo-2@2x.png" alt="fight about efficacy of homeopathy" title="mother and daughter discussing homeopathy">
 
 Study after study shows, that homeopathy has no effect beyond placebo.[^shang] Same is true for acupuncture, cupping and some other types of so called _complementary medicine_.[^moffet] The placebo effect however is powerful and worth further investigation.
 
@@ -33,7 +33,7 @@ Here is how it works: when you are in pain and your doctor prescribes a pain med
 
 Placebo effects are even known in surgery. The outcomes of actual arthroscopic knee surgery for arthritis has proven to be no better than sham surgery.[^moseley] Both types of surgery produced the same positive results in patients.
 
-<img src="/images/placebo/placebo-effect@2x.png" alt="efficacy of placebo effect in depression, migraine, pain" title="therapeutic effects of placebo">
+<img src="{{ site.url }}/images/placebo/placebo-effect@2x.png" alt="efficacy of placebo effect in depression, migraine, pain" title="therapeutic effects of placebo">
 
 ## Human factor
 The degree of personal care a patient receives, correlates with the success of the therapy. When a doctor listens empathically, patients get better almost immediately. The placebo effect is amplified even more if the patient is educated about exactly how and when the medication will come into effect.[^miller]
@@ -53,7 +53,7 @@ Furthermore, clinical trials for a new drug are often biased or even manipulated
 
 My personal credo is, that if I _can_ abstain from medication, I will. Here’s where homeopathy comes in.
 
-<img src="/images/placebo/homeopathy-placebo-3@2x.png" alt="use homeopathy as placebo" title="taking advantage of placebo effect through homeopathy">
+<img src="{{ site.url }}/images/placebo/homeopathy-placebo-3@2x.png" alt="use homeopathy as placebo" title="taking advantage of placebo effect through homeopathy">
 
 # Homeopathy: a powerful placebo without side effects
 
@@ -67,7 +67,7 @@ Homeopathy checks all boxes for being a powerful placebo:
 
 At the same time, homeopathy has no side effects. Why? Because the high dilution effectively eliminates all active ingredients. Richard Dawkins drew a catchy comparison: for a commonly prescribed 30C dilution, it’s like taking one molecule of the active ingredient and diluting it with all the atoms of the solar system.[^dawkins] Justin Cooke from [The Sunlight Experiment](https://thesunlightexperiment.com/blog/2016/9/15/homeopathy-skepticism?rq=homeopathy){:target="_blank"} did a beautiful job illustrating the dilution process. Click to enlarge:
 
-<a href="https://static1.squarespace.com/static/52cba3b9e4b0a14ddad6a571/t/57e0e97cf5e2318fad0c3dbc/1474357653868/Homeopathy+extreme+dilutions"> <img src="/images/placebo/homeopathy-extreme-dilutions.jpeg" alt="dilution in homeopathy" width="600">
+<a href="https://static1.squarespace.com/static/52cba3b9e4b0a14ddad6a571/t/57e0e97cf5e2318fad0c3dbc/1474357653868/Homeopathy+extreme+dilutions"> <img src="{{ site.url }}/images/placebo/homeopathy-extreme-dilutions.jpeg" alt="dilution in homeopathy" width="600">
 
 ## [Update] Hyland's scandal 2017
 _No side effects_ is only true if the original substance is diluted to the point of inefficacy. The scandal around [Hyland's teething tablets](https://www.scientificamerican.com/article/hundreds-of-babies-harmed-by-homeopathic-remedies-families-say/) shows how substandard manufacturing practices can pose a real threat to consumers. Inconsistent amounts of _atropa belladonna_ aka _deadly nightshade_ were found in the tablets, possibly harming hundreds of babies. They might even be linked to the death of eight babies over the past 10 years.

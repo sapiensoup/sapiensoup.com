@@ -14,7 +14,7 @@ twitter:
 
 And indeed, both classes of drugs promise to heal similar mental illnesses and reportedly, have similar side effects. Do you how they work in the brain? No?—Good! That’s exactly what this article is about. But before we talk about your brain on psychedelic drugs and antidepressants, we have to get a good understanding of the underlying serotonergic system in the brain. I promise, you’ll be fascinated.
 
-![You can't understand psychedelic drugs and antidepressants without understanding the serotonergic system in the brain first](images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png)
+![You can't understand psychedelic drugs and antidepressants without understanding the serotonergic system in the brain first]({{ site.url }}/images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png)
 
 <!--more-->
 
@@ -30,20 +30,20 @@ If you chose to skip the brain fundamentals, you might have to google a few thin
 ## How neurons communicate
 When a neuron _fires_, the cell body (_soma_) sends an electrical signal down its _axon_ to its _axon terminals_. This is where one neuron connects to the _dendrites_ of the next neuron. In between is the _synapse_. From the axon terminals, a chemical signal activates the dendrites and sends a message to the soma of the next neuron. The soma collects the messages and once a threshold is exceeded, it fires off an electrical signal down its own axon and the process repeats.
 
-![Neuron with its soma, dendrites, axon and axon terminals. Electrical vs. chemical signal at the synapse.](images/serotonin/neurons-synapse@2x.png)
+![Neuron with its soma, dendrites, axon and axon terminals. Electrical vs. chemical signal at the synapse.]({{ site.url }}/images/serotonin/neurons-synapse@2x.png)
 
 Chemical signals are made from neurotransmitters. How they are produced, sent and received is the key to understanding the interactions between drugs and the serotonergic system.
 
 ## Neurotransmitters
 You have probably heard of the neurotransmitters dopamine, serotonin, adrenaline and oxytocin.
-<img src="images/serotonin/neurotransmitters@2x.png" alt="Neurotransmitters dopamine, serotonin, adrenaline, oxytocin and their functions">
+<img src="{{ site.url }}/images/serotonin/neurotransmitters@2x.png" alt="Neurotransmitters dopamine, serotonin, adrenaline, oxytocin and their functions">
 We have more than 100 different types of neurotransmitters in our brain and their job is facilitating the communication between neurons. Think of a neurotransmitter as a language: some neurons speak dopamine, others speak serotonin, others speak adrenaline and so on. While some neurons are multilingual, let’s say fluent in serotonin _and_ dopamine, most of them speak just one language. All neurons which speak serotonin make up the _serotonergic system_.
 
 
 # 2. The serotonergic system
 The serotonergic system is amongst the oldest neurotransmitter systems in the brain. It might be as old as 750 million years; even single-celled organisms carry serotonin receptors.[^PS13-nichols] [^nichols-serotonin] In humans, those neurons originate from the _raphe nuclei_ in the brainstem and form a network spanning every corner of the brain and influencing nearly every aspect of our lives. It plays a key role in regulating mood, sexual behavior, aggression, impulsivity, cognitive function, appetite, pain, thermoregulation, circadian rhythm, sleep and memory. [^serotonergic] [^brain-development]
 
-<img src="images/serotonin/serotonergic-neurons.svg" alt="Serotonergic pathways in the brain">_Serotonergic pathways in the brain_[^pathway]
+<img src="{{ site.url }}/images/serotonin/serotonergic-neurons.svg" alt="Serotonergic pathways in the brain">_Serotonergic pathways in the brain_[^pathway]
 With all of these control functions, it makes sense that many prescription drugs—and most antidepressants—target the serotonergic system. What might not be so obvious, however, is that psychedelic drugs like MDMA (aka. _molly, ecstasy_), LSD (aka. _acid_) and psilocybin (aka. _magic mushrooms_) also stimulate the serotonergic system to create their unique effects.
 
 All those substances do essentially one thing: they raise the serotonergic activity in the brain. Why? Because raising serotonergic activity makes you happy, social and active; whereas lowering serotonergic activity makes you depressed, irritable and more prone to mental illnesses.
@@ -51,11 +51,11 @@ All those substances do essentially one thing: they raise the serotonergic activ
 
 ## Serotonin in the synapse
 This is where it gets really interesting. Before we dive into the life of a serotonin molecule, let’s make sure we’re all on the same page. Take another look at the more detailed version of how communication happens at the synapse. On the top is the axon terminal of the “sender-neuron” which is often referred to as the _presynaptic neuron_. On the bottom is the “receiver-neuron”—the _postsynaptic neuron_. The skin of the neurons is the _membrane_; and the little gap in between is called the _synaptic cleft_. What gets sent from the sender to the receiver? A chemical signal, otherwise known as neurotransmitter; and in the case of a serotonergic neuron the neurotransmitter is serotonin.
-<img src="images/serotonin/neurons-synapse-detail@2x.png" alt="Chemical communication at the synapse between presynaptic and postsynaptic membrane">
+<img src="{{ site.url }}/images/serotonin/neurons-synapse-detail@2x.png" alt="Chemical communication at the synapse between presynaptic and postsynaptic membrane">
 
 Now we get to the nitty gritty. The following graphic illustrates the lifecycle of a serotonin molecule. Follow the orange dots from one to seven and check out the explanation below.
 
-<img src="images/serotonin/serotonin-lifecycle-synapse-detail@2x.png" alt="Lifecycle of serotonin at the synapse: synthesis, storage, release, receptor activation and clearing, reuptake and metabolism">_Signaling in chemical synapses_
+<img src="{{ site.url }}/images/serotonin/serotonin-lifecycle-synapse-detail@2x.png" alt="Lifecycle of serotonin at the synapse: synthesis, storage, release, receptor activation and clearing, reuptake and metabolism">_Signaling in chemical synapses_
 
 ### 1 Synthesis
 Well over 90 percent of the serotonin in our body is made in our gut. But since serotonin can’t cross the blood-brain barrier, it has to be synthesized in the brain from scratch. What _does_ cross the blood-brain barrier however is _tryptophan_, the fundamental building block of serotonin.[^neuroscience] Within the neuron, enzymes turn tryptophan into 5-HT which is the chemical name for serotonin.[^synthesis]
@@ -77,7 +77,7 @@ Where does a serotonin molecule go after it has activated a receptor? There are 
 ### 6 Reuptake
 Along the presynaptic membrane are serotonin transporters (SERT) that pull serotonin back into the cell in a process called _reuptake_. These transporters are basically groups of proteins that act like a gate: one in—one out. One molecule binds to the transporter on the outside of the membrane and changes the transporter's configuration. Consequently, another molecule drops off, but on the inside of the membrane.[^sert-wikipedia]
 
-<img src="images/serotonin/serotonin-transporter-SERT@2x.png" alt="Serotonin transporters SERT on the presynaptic membrane">
+<img src="{{ site.url }}/images/serotonin/serotonin-transporter-SERT@2x.png" alt="Serotonin transporters SERT on the presynaptic membrane">
 
 Back in the presynaptic neuron, some of the serotonin gets reloaded into vesicles and will be reused. Producing serotonin from scratch is a complex process and takes time. Therefore, recycling helps the brain maintain a steady supply.
 
@@ -90,7 +90,7 @@ The brain can’t _produce_ large quantities of serotonin at once, therefore it 
 
 Follow the orange dots below to see a few examples of these protection strategies.
 
-<img src="images/serotonin/synapse-protection@2x.png" alt="Protection against overstimulation of neurons">
+<img src="{{ site.url }}/images/serotonin/synapse-protection@2x.png" alt="Protection against overstimulation of neurons">
 
 If there is (1) a high concentration of serotonin outside the neuron, the neuron reacts with
 
@@ -104,7 +104,7 @@ Receptors are not only found on the postsynaptic membrane. Some are located on t
 ## The versatility of serotonin receptors
 Do you recall from the beginning how serotonin regulates mood, sexual behavior, cognitive function, sleep, memory and so on? How does it accomplish all that? Well, in reality there isn't just one single type of serotonin receptor—there are 14. They are numbered from 1 to 7 and further categorized into A, B, C, etc. Remember, the chemical name for serotonin is 5-HT. Going forward we'll talk a lot about 5-HT<sub>2A</sub> receptors, since they are the target of hallucinogenic drugs like LSD and psilocybin.
 
-<img src="images/serotonin/5-HT-serotonin-receptor-subtypes@2x.png" alt="Serotonin 5-HT receptor subtypes">
+<img src="{{ site.url }}/images/serotonin/5-HT-serotonin-receptor-subtypes@2x.png" alt="Serotonin 5-HT receptor subtypes">
 
 All 5-HT subtypes possess special qualities in how they regulate mood, anxiety, impulsivity, aggression, migraines, etc. Some of these subtypes act as regular receptors at the postsynaptic membrane, while others act as autoreceptors on the axon terminals, dendrites or directly on the cell body. The 5-HT<sub>2A</sub> receptor, for example, is a receptor on the postsynaptic membrane and regulates mood, anxiety and schizophrenia.[^5-HT-wikipedia] Wikipedia offers a fantastic [overview of 5-HT receptor subtypes](https://en.wikipedia.org/wiki/5-HT_receptor){:target="_blank"} if you wish to go deeper.
 
@@ -116,7 +116,7 @@ Now that you know how serotonin acts in the synaptic cleft it will be easy for y
 Before 1950 it was believed that mental illnesses like schizophrenia or autism were caused by _“refrigerator mothers”_—mothers who were emotionally distanced and cold with their offspring.[^refrigerator-mother] The psychiatric community had no idea that behaviour patterns, such as schizophrenic or autistic behaviour, might arise from neurochemical events in the brain.[^PS13-nichols]
 
 In the late 1930s, serotonin was first discovered in the gut where it played a role in muscle contraction. It took another 15 years before it was detected in the brain—which was in 1953—but still only in the context of muscle contraction. One year later, in 1954 two scientists noticed the chemical similarity between serotonin and LSD.
-<img src="images/serotonin/chemical-structure-LSD-serotonin@2x.jpg" alt="Comparison of chemical skeletal structure of serotonin and LSD">_Chemical structure of LSD and serotonin_[^nichols-serotonin]
+<img src="{{ site.url }}/images/serotonin/chemical-structure-LSD-serotonin@2x.jpg" alt="Comparison of chemical skeletal structure of serotonin and LSD">_Chemical structure of LSD and serotonin_[^nichols-serotonin]
 
 They had already known that LSD had peculiar effects on mind and behavior, because _Sandoz Laboratories_ had marketed LSD as a psychiatric drug since 1947. Putting one and one together, these two scientists suggested that serotonin might play an important role in mental illness.[^discovery]
 
@@ -129,7 +129,7 @@ _Selective serotonin reuptake inhibitors_ (SSRIs) are the most commonly prescrib
 
 SSRIs bind to serotonin transporters (SERT) on the presynaptic membrane and block them. This means serotonin can't get taken back up into the presynaptic neuron. More serotonin remains in the synaptic cleft where it continues to bind to receptors and activates them.
 
-<img src="images/serotonin/SSRI-on-serotonin-transporter-SERT@2x.png" alt="How SSRIs block serotonin reuptake of serotonin transporters SERT">
+<img src="{{ site.url }}/images/serotonin/SSRI-on-serotonin-transporter-SERT@2x.png" alt="How SSRIs block serotonin reuptake of serotonin transporters SERT">
 
 ### MAOIs: Blocking metabolism
 _Monoamine Oxidase Inhibitors_ (MAOI) are older antidepressants, which are still in use, but not commonly prescribed because of their potentially lethal effects. MAOIs keep serotonin from being metabolized and excreted from the neuron, which in turn increases its availability.
@@ -141,7 +141,7 @@ Antidepressants ultimately raise serotonin levels, so does MDMA.
 ### MDMA
 MDMA is a sneaky bastard. Insidiously it takes control of the infrastructure and turns the whole system upside down. How does it do that? First, MDMA enters the neuron via the serotonin transporters (SERT). Once inside the neuron, it inhibits the vesicular transporters (VMAT2) which means that serotonin is not neatly packed within the vesicles anymore, but now accumulates within the cytosol. Then, MDMA reverses the direction of the SERT, meaning instead of transporting serotonin into the neuron, they now release it into the cleft and deny its reuptake.[^VMAT2] The result is a dramatic increase of serotonin levels in the synaptic cleft which makes the receptors on the postsynaptic membrane go haywire for a few hours.
 
-<img src="images/serotonin/synapse-MDMA@2x.png" alt="How MDMA works in brain at synapse and how MDMA affects serotonin transporters SERT and vesicle transporters VMAT2">
+<img src="{{ site.url }}/images/serotonin/synapse-MDMA@2x.png" alt="How MDMA works in brain at synapse and how MDMA affects serotonin transporters SERT and vesicle transporters VMAT2">
 
 Moreover, MDMA increases dopamine and norepinephrine (i.e. noradrenaline) levels, which gives it its ecstatic properties. This temporary overstimulation of the serotonergic system leaves the neurons depleted of serotonin and needing to recover after the drug use.
 
@@ -162,7 +162,7 @@ Why does this stir a researcher’s blood? Because if you want to know what a ce
 
 Also, when breaking up the regular communication pathways, the brain starts to communicate in brand new ways. This visualization shows brain regions communicating which one another in (a) a normal state or (b) after administering psilocybin. On the left you can see that the color-coded regions communicate mostly amongst themselves, i.e. the dots of the purple region talk to other dots within the purple region. But under the influence of an hallucinogenic drug the purple dots start talking to all kinds of other brain regions.
 
-<img src="images/serotonin/pathways-brain-psilocybin.jpg" alt="Communication pathways in the brain after psilocybin (magic mushrooms) and placebo. Homological scaffolds">_Communication pathways in the brain after (a) placebo and (b) psilocybin_[^homological-scaffolds]
+<img src="{{ site.url }}/images/serotonin/pathways-brain-psilocybin.jpg" alt="Communication pathways in the brain after psilocybin (magic mushrooms) and placebo. Homological scaffolds">_Communication pathways in the brain after (a) placebo and (b) psilocybin_[^homological-scaffolds]
 
 These novel communication pathways might be able to explain the creativity-enhancing and problem-solving qualities that are often attributed to hallucinogenic drugs.
 
@@ -170,7 +170,7 @@ These novel communication pathways might be able to explain the creativity-enhan
 # The problem with criminalization
 What's the essential nature of science? (1) You find an interesting thing, (2) you test and observe how the thing behaves under different conditions and (3) you come up with a hypothesis.
 
-<img src="images/serotonin/scientist@2x.png" alt="Kids are natural born scientists">
+<img src="{{ site.url }}/images/serotonin/scientist@2x.png" alt="Kids are natural born scientists">
 
 Psychedelic drugs and the serotonergic system are deeply intertwined. Not only was LSD involved in the initial discovery of the serotonergic system which later revolutionized psychiatry.[^nichols-serotonin] Today, psychedelic research could yet again revolutionize our understanding of the human brain. Manipulating 5-HT<sub>2A</sub> receptors has astounding effects on brain circuitries that are involved in the sense of self and consciousness. You can think of the 5-HT<sub>2A</sub> receptor as the little kid’s basket and hallucinogens as a perfect tool to test it. Psychedelic drugs could be nothing less than our key to deciphering consciousness.
 

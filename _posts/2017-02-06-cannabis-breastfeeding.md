@@ -12,7 +12,7 @@ twitter:
 
 **How much THC makes it into breast milk? Can it get a baby “high”? What are the long-term effects on the child?**
 
-<img src="/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
+<img src="{{ site.url }}/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
 
 I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk.
 
@@ -29,7 +29,7 @@ Let's break the topic down into two questions:
 **I. How much THC makes it into breast milk?** \\
 **II. What are the effects on the child?**
 
-I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic](/images/thc/Infographic-Human-Metabolism-THC-1300.png) and use it as a cheat sheet.
+I recommend reading my post on the [Human Metabolism of THC]({% post_url 2016-12-21-human-metabolism-thc %}). Knowing about how THC—the main active ingredient in cannabis—is metabolized will increase your understanding of the topic. For those in a hurry: at minimum check the [infographic]({{ site.url }}/images/thc/Infographic-Human-Metabolism-THC-1300.png) and use it as a cheat sheet.
 
 We will deal with very small numbers. A quick refresher on the notation and conversion of grams, milligrams and nanograms:
 
@@ -41,7 +41,7 @@ ng = nanogram | 1 ng + 0.000000001 g
 
 “It is generally accepted that all medications transfer into human milk to some degree, although it is almost always quite low. Only rarely does the amount transferred into milk produce clinically relevant doses in the infant.” reads the introduction to the reference book _Medication and Mothers’ Milk_.[^hale] It is widely used in American hospitals to determine contraindications of drugs for breastfeeding mothers. The chapter on THC is short and doesn’t contain original research. Yet.
 
-<img src="/images/breastfeeding/99-percent@2x.png" alt="does THC belong to 99% or 1%" title="99% of drugs transfer at subclinical levels" width="442" height="337">
+<img src="{{ site.url }}/images/breastfeeding/99-percent@2x.png" alt="does THC belong to 99% or 1%" title="99% of drugs transfer at subclinical levels" width="442" height="337">
 
 ## Dark Age of Data
 There is little data published on THC levels in mother's milk. Most data is from the 1970s and 80s.  A study from the 70s found that in monkeys only 0.2% of the ingested THC by the mother gets into the breast milk.[^chao]
@@ -80,7 +80,7 @@ I was curious and did the math. Turned out, in one feeding baby experienced abou
 
 > The baby experienced the equivalent of a space cookie’s crumb.
 
-<img src="/images/breastfeeding/cannabis-breastfeeding-math@2x.png" alt="math on how high baby gets from THC infused breastmilk" title="calculation of baby's dose or THC from breastmilk" width="500" height="710">
+<img src="{{ site.url }}/images/breastfeeding/cannabis-breastfeeding-math@2x.png" alt="math on how high baby gets from THC infused breastmilk" title="calculation of baby's dose or THC from breastmilk" width="500" height="710">
 
 Why didn’t I compare it to the mom’s marijuana pipe? Because (1) the data doesn’t exist and (2) eating cannabis is [very different]({% post_url 2016-12-21-human-metabolism-thc %}#first-pass) to smoking it. Hence, I believe it’s a more accurate comparison if we stick to the same metabolic pathway through the stomach.
 From another study[^hollister] we know that 20mg of ingested THC produce a decent psychological effect in an adult man. I compared that to a 3 months old baby. The results vary according to how you set the parameters.[^parameters] Other authors came close but arrive at slightly different conclusions, e.g. Bennett who landed at a baby’s dose of 0.8 percent of the maternal intake of one joint (per feeding).[^bennett]
@@ -102,7 +102,7 @@ One study[^tennes] from 1985 found no effects. The other identified slightly red
 
 Ironically, the kids whose mothers used cannabis less than 15 days per month scored higher than the kids of non-users. The narrow lead wasn't statistically significant though, which means that there was no difference between kids of occasional users and non-users. Furthermore, no differences in mental development were detected amongst any of the three groups.
 
-<img src="/images/breastfeeding/motor-development@2x.png" alt="motor development scores at one year old" title="motor development scores of kids whose mothers consumed cannabis" width="481" height="336">
+<img src="{{ site.url }}/images/breastfeeding/motor-development@2x.png" alt="motor development scores at one year old" title="motor development scores of kids whose mothers consumed cannabis" width="481" height="336">
 
 # Summary
 
