@@ -4,9 +4,9 @@ title:  "Psychedelic Drugs and the Serotonergic System"
 author: marlene
 description: "Serotonin is key to understanding how antidepressants and psychedelic drugs work. Check out the infographics to learn how the serotonergic system functions and how drugs like SSRIs, MDMA and LSD interact with it."
 facebook:
-   image: /images/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png
+   image: /images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png
 twitter:
-   image: /images/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png
+   image: /images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png
    large: true
 ---
 
