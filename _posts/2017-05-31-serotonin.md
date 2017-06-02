@@ -172,11 +172,11 @@ What's the essential nature of science? (1) You find an interesting thing, (2) y
 
 <img src="{{ site.url }}/images/serotonin/scientist@2x.png" alt="Kids are natural born scientists">
 
-Psychedelic drugs and the serotonergic system are deeply intertwined. Not only was LSD involved in the initial discovery of the serotonergic system which later revolutionized psychiatry.[^nichols-serotonin] Today, psychedelic research could yet again revolutionize our understanding of the human brain. Manipulating 5-HT<sub>2A</sub> receptors has astounding effects on brain circuitries that are involved in the sense of self and consciousness. You can think of the 5-HT<sub>2A</sub> receptor as the little kid’s basket and hallucinogens as a perfect tool to test it. Psychedelic drugs could be nothing less than our key to deciphering consciousness.
+Psychedelic drugs and the serotonergic system are deeply intertwined. Not only was LSD involved in the initial discovery of the serotonergic system which later revolutionized psychiatry.[^nichols-serotonin] Today, psychedelic research could yet again revolutionize our understanding of the human brain. Manipulating 5-HT<sub>2A</sub> receptors has astounding effects on brain circuitries that are involved in the sense of self and consciousness. You can think of the 5-HT<sub>2A</sub> receptor as the little kid’s basket and hallucinogens as a perfect tool to test it. Psychedelic drugs might be nothing less than our key to deciphering consciousness.
 
 With brand-new brain imaging technology, we can literally watch the brain as it loses its sense of time and space, as it dissolves its sense of self, as it abandons the ego in the knowing of a connection to something larger. We can watch the brain as it changes its state of consciousness. The problem is, we're not allowed to. The current drug legislation makes psychedelic research so difficult and so expensive, that only very few research teams manage to get approval and funding for their studies.
 
- > Criminalization of psychedelic drugs stands between science and the deciphering of consciousness.
+ > Criminalization of psychedelic drugs stands between science and the exploration of consciousness.
 
 
 # A mighty and mysterious system
