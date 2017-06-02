@@ -190,8 +190,7 @@ In the meantime, every new study on psychedelics reveals fascinating new insight
 MDMA-assisted Therapy\\
 What LSD Does to the Brain\\
 Microdosing LSD\\
-Medical Benefits of Psilocybin\\
-Medical Benefits of Ketamine**
+Medical Benefits of Psilocybin**
 
 Wow, that was a lot of information to take in. But you did it! Now you know more about the serotonergic system than any of your friends (except if your friends are neuroscientists). Since you seem to be really interested in the topic you might want to [get notified](http://eepurl.com/cBB_9D) when we publish our next story.
 

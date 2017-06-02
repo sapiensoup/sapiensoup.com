@@ -118,8 +118,7 @@ The Psychedelic Experience\\
 MDMA-assisted Therapy\\
 What LSD Does to the Brain\\
 Microdosing LSD\\
-Medical Benefits of Psilocybin\\
-Medical Benefits of Ketamine**
+Medical Benefits of Psilocybin**
 
 You can [sign up](http://eepurl.com/cBB_9D) and get notified when we publish our next story.
 
