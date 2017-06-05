@@ -2,7 +2,7 @@
 layout: post
 title:  "Eat yourself happy"
 author: marlene
-description: ""
+description: "If your brain is low on serotonin, you might feel depressed or irritable. Certain foods help keep up a steady supply of serotonin, whereas others prevent it."
 facebook:
    image: /images/tryptophan/happy-brain-food-tryptophan@2x.png
 twitter:
@@ -10,7 +10,7 @@ twitter:
    large: true
 ---
 
-**The neurotransmitter serotonin is deeply involved in regulating mood and anxiety. If your brain is short in serotonin, you might feel depressed or irritable. So, what can you do to keep up a steady supply of serotonin? Step number one: eat right.**
+**The neurotransmitter serotonin is deeply involved in regulating mood and anxiety. If your brain is low on serotonin, you might feel depressed or irritable. So, what can you do to keep up a steady supply of serotonin? Step number one: eat right.**
 
 ![nutrients in food influence happiness through serotonin in brain]({{ site.url }}/images/tryptophan/happy-brain-food-tryptophan@2x.png)
 
