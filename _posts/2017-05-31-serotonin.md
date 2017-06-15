@@ -10,16 +10,22 @@ twitter:
    large: true
 ---
 
-**Most everyone knows someone who has taken antidepressants. But psychedelic drugs? Many people think they are exotic, dangerous substances. You might be surprised to hear that psychedelic drugs like MDMA or LSD have a lot in common with antidepressants. They both work with the same neurotransmitter in the brain: serotonin.**
+Most of us are familiar with antidepressants. They're among the world's most frequently prescribed drugs[^prescription-trends], and if we have not taken them ourselves, we likely know others who have.
 
-And indeed, both classes of drugs promise to heal similar mental illnesses and reportedly, have similar side effects. Do you how they work in the brain? No?—Good! That’s exactly what this article is about. But before we talk about your brain on psychedelic drugs and antidepressants, we have to get a good understanding of the underlying serotonergic system in the brain. I promise, you’ll be fascinated.
+Psychedelics are a different story. They're illegal throughout most of the world and therefore rarely prescribed. Most of us have not taken them ourselves, and we aren't likely to know many others who have either.
+
+Naturally, this situation leaves most people regarding antidepressants as a valid (though perhaps over-used) treatment option, while regarding psychedelics as illegitimate and dangerous.
+
+The surprising reality, however, is that antidepressants and psychedelics have a lot in common. Specifically, both interact with serotonin in similar ways, producing similar effects, benefits and risks.
+
+Before we can talk about your brain on these drugs, though, it's important to have a basic understanding of the brain and its _serotonergic system_. Don't worry, it's super fascinating stuff, and easy as 1-2-3:
 
 ![You can't understand psychedelic drugs and antidepressants without understanding the serotonergic system in the brain first]({{ site.url }}/images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png)
 
 <!--more-->
 
-# 1. The brain
-We’ll talk about neurotransmitters, synapses and chemical signaling. If these things are vaguely familiar to you—read on. If not, I recommend reading part 2 of Tim Urban’s fantastic—and highly entertaining—[Neuralink and the Brain's Magical Future](http://waitbutwhy.com/2017/04/neuralink.html#part2){:target="_blank"} story on the _Wait But Why_ blog. You’ll learn everything from brain anatomy to neural networks in just 15 minutes.
+# 1. Brain basics
+Below, we’ll talk about neurotransmitters, synapses and chemical signaling. If these things are even vaguely familiar to you, then read on. If not, I recommend reading part 2 of Tim Urban’s fantastic—and highly entertaining—[Neuralink and the Brain's Magical Future](http://waitbutwhy.com/2017/04/neuralink.html#part2){:target="_blank"} story on the _Wait But Why_ blog. You’ll learn everything from brain anatomy to neural networks in just 15 minutes.
 
 If you chose to skip the brain fundamentals, you might have to google a few things on the way. No worries, you'll manage. Your brain is well equipped for the task with its[^brain]
 - 100 types of neurotransmitters   _(one hundred)_
@@ -28,7 +34,7 @@ If you chose to skip the brain fundamentals, you might have to google a few thin
 - 1,000,000,000,000,000 synapses  _(one quadrillion)_
 
 ## How neurons communicate
-When a neuron _fires_, the cell body (_soma_) sends an electrical signal down its _axon_ to its _axon terminals_. This is where one neuron connects to the _dendrites_ of the next neuron. In between is the _synapse_. From the axon terminals, a chemical signal activates the dendrites and sends a message to the soma of the next neuron. The soma collects the messages and once a threshold is exceeded, it fires off an electrical signal down its own axon and the process repeats.
+When a neuron _fires_, the cell body, or _soma_, sends an electrical signal down its _axon_ to its _axon terminals_. This is where one neuron connects to the _dendrites_ of the next neuron. In between is the _synapse_. From the axon terminals, a chemical signal activates the dendrites and sends a message to the soma of the next neuron. The soma collects the messages and once a threshold is exceeded, it fires off an electrical signal down its own axon and the process repeats.
 
 ![Neuron with its soma, dendrites, axon and axon terminals. Electrical vs. chemical signal at the synapse.]({{ site.url }}/images/serotonin/neurons-synapse@2x.png)
 
@@ -201,6 +207,8 @@ If you are located in the Vienna area, we invite you to join the [Psychedelic So
 * * *
 
 #### References
+
+[^prescription-trends]: Wikipedia. Retrived on 2017-06-15. [Antidepressant prescription trends](https://en.wikipedia.org/wiki/Antidepressant#Prescription_trends)
 
 [^brain]: Drachman DA. Do we have brain to spare?. Neurology. 64 (12): 2004-5. [PMID 15985565](https://www.ncbi.nlm.nih.gov/pubmed/15985565)
 
