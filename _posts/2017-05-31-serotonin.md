@@ -10,22 +10,16 @@ twitter:
    large: true
 ---
 
-**Most everyone knows someone who has taken antidepressants. But psychedelic drugs? Many people think they are exotic, dangerous substances. You might be surprised to hear that psychedelic drugs like MDMA or LSD have a lot in common with antidepressants. They both work with the same neurotransmitter in the brain: serotonin.**
+**Most of us know someone who has taken antidepressants. But psychedelic drugs? Not so much. Many people believe they are illegitimate and dangerous. You might be surprised to hear that psychedelic drugs like MDMA and LSD have a lot in common with antidepressants. They both work with the same neurotransmitter in the brain: serotonin.**
 
-And indeed, both classes of drugs promise to heal similar mental illnesses and reportedly, have similar side effects. Do you how they work in the brain? No?—Good! That’s exactly what this article is about. But before we talk about your brain on psychedelic drugs and antidepressants, we have to get a good understanding of the underlying serotonergic system in the brain. I promise, you’ll be fascinated.
+And indeed, antidepressants and psychedelic drugs promise to heal similar mental illnesses and can also have similar side effects. Do you know how they work in the brain? No? Good! That’s exactly what this article is about. Before we can talk about your brain on these drugs, though, it's important to have a basic understanding of the brain and its _serotonergic system_. Don't worry, it's super fascinating stuff, and easy as 1-2-3:
 
 ![You can't understand psychedelic drugs and antidepressants without understanding the serotonergic system in the brain first]({{ site.url }}/images/serotonin/brain-serotonergic-system-SSRI-psychedelic-drugs@2x.png)
 
 <!--more-->
 
-# 1. The brain
-We’ll talk about neurotransmitters, synapses and chemical signaling. If these things are vaguely familiar to you—read on. If not, I recommend reading part 2 of Tim Urban’s fantastic—and highly entertaining—[Neuralink and the Brain's Magical Future](http://waitbutwhy.com/2017/04/neuralink.html#part2){:target="_blank"} story on the _Wait But Why_ blog. You’ll learn everything from brain anatomy to neural networks in just 15 minutes.
-
-If you chose to skip the brain fundamentals, you might have to google a few things on the way. No worries, you'll manage. Your brain is well equipped for the task with its[^brain]
-- 100 types of neurotransmitters   _(one hundred)_
-- 100,000,000,000 neurons   _(one hundred billion)_
-- 1,000,000,000,000 glial cells   _(one trillion)_
-- 1,000,000,000,000,000 synapses  _(one quadrillion)_
+# 1. Brain basics
+Below, we’ll talk about neurotransmitters, synapses and chemical signaling. If these things are even vaguely familiar to you, then read on. If not, I recommend reading part 2 of Tim Urban’s fantastic—and highly entertaining—[Neuralink and the Brain's Magical Future](http://waitbutwhy.com/2017/04/neuralink.html#part2){:target="_blank"} story on the _Wait But Why_ blog. You’ll learn everything from brain anatomy to neural networks in just 15 minutes.
 
 ## How neurons communicate
 When a neuron _fires_, the cell body (_soma_) sends an electrical signal down its _axon_ to its _axon terminals_. This is where one neuron connects to the _dendrites_ of the next neuron. In between is the _synapse_. From the axon terminals, a chemical signal activates the dendrites and sends a message to the soma of the next neuron. The soma collects the messages and once a threshold is exceeded, it fires off an electrical signal down its own axon and the process repeats.
