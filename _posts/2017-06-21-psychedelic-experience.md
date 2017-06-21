@@ -140,7 +140,7 @@ You can sign up and [get notified](http://eepurl.com/cBB_9D) when we publish our
     [The Mushroom/LSD Experience Explained & Explored](http://highexistence.com/mushrooms-lsd-experience-explained-to-non-user/) Retrieved 2017-06-20.
 
 [^dosage-erowid]:
-    The resource _erowid_, reports a common dose to be at around 100 micrograms of LSD.[LSD Dosage](https://erowid.org/chemicals/lsd/lsd_dose.shtml) Retrieved 2017-06-20.
+    The resource _erowid_, reports a common dose to be at around 100 micrograms of LSD. [LSD Dosage](https://erowid.org/chemicals/lsd/lsd_dose.shtml) Retrieved 2017-06-20.
 
 [^5D-ASC-chart]: Some titles were modified for better understanding. Data from Studerus E, Gamma A, Vollenweider FX. Psychometric Evaluation of the Altered States of Consciousness Rating Scale (OAV). Bell V, ed. PLoS ONE. 2010;5(8):e12412. [PMCID: PMC2930851](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2930851/) and Carhart-Harris RL, Muthukumaraswamy S, Roseman L. Neural correlates of the LSD experience revealed by multimodal neuroimaging. Proc Natl Acad Sci U S A. 2016 Apr 26;113(17):4853-8. [PubMed PMID: 27071089](https://www.ncbi.nlm.nih.gov/pubmed/27071089)
 
@@ -166,4 +166,4 @@ You can sign up and [get notified](http://eepurl.com/cBB_9D) when we publish our
 
 [^set-setting]: Hartogsohn I. [The American Trip: Set, Setting, and Psychedelics in 20th Century Psychology]( http://www.maps.org/news-letters/v23n1/v23n1_p6-9.pdf). MAPS Bulletin Special Edition. Spring 2013. Retrieved 2017-06-07
 
-[^stealing-fire]: Strongly recommended read: Kotler S, Wheal J. 2017. [Stealing Fire.](http://www.goodreads.com/book/show/30317415-stealing-fire). Dey Street Books.
+[^stealing-fire]: Strongly recommended read: Kotler S, Wheal J. 2017. [Stealing Fire](http://www.goodreads.com/book/show/30317415-stealing-fire). Dey Street Books.
