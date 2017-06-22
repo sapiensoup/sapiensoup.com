@@ -97,7 +97,7 @@ _Inspired by Darrik May who used this image for his [talk](https://youtu.be/j7Ke
 62 percent of respondents rated their worst bad trip to be amongst the ten most psychologically difficult or challenging experiences of their lives. What’s surprising is that about the same percentage of users also considered it amongst the ten most _meaningful_ experiences of their lives.[^bad-trips] _“A difficult experience, sometimes described as catharsis, often results in positive personal meaning or spiritual significance.”_ says Griffths.[^griffiths-difficult]
 
 ![Griffiths study results on bad trips from psilocybin]({{ site.url }}/images/psychedelic-experience/bad-trips-psilocybin@2x.png)
-_How 2,000 psilocybin users rated their worst bad trip[^bad-trip]_
+_How 2,000 psilocybin users rated their worst bad trip[^bad-trips]_
 
 Challenges may eventually lead to personal growth. 76 percent of participants reported that their difficult experience led to _increases_ in current well-being and life satisfaction.[^bad-trips] This suggests that a “bad trip” might not be so bad after all.
 
