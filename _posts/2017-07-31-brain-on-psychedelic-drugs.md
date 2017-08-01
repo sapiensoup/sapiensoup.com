@@ -131,6 +131,7 @@ In our next post we’ll talk more about psychedelics and mental disorders. You 
 Microdosing LSD\\
 MDMA-assisted Therapy**
 
+If you are located in the Vienna area, we invite you to join the [Psychedelic Society Vienna Meetup](https://www.meetup.com/Psychedelic-Society-Vienna/), where we'll discuss the latest research and developments in the field.
 
 &nbsp;
 

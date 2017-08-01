@@ -121,14 +121,15 @@ This was part 3 of our series on psychedelic drugs.
 
 **[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}\\
 [Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
-[The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})**  (you've just read it)\\
-**Hallucinogens in the Brain\\
-MDMA-assisted Therapy\\
+[The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})** (you've just read it)\\
+**[Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
+Mental Disorders and Psychedelics\\
 Microdosing LSD\\
-Medical Benefits of Psilocybin**
+MDMA-assisted Therapy**
 
 You can sign up and [get notified](http://eepurl.com/cBB_9D) when we publish our next story.
 
+If you are located in the Vienna area, we invite you to join the [Psychedelic Society Vienna meetup](https://www.meetup.com/Psychedelic-Society-Vienna/), where we'll discuss the latest research and developments in the field.
 
 &nbsp;
 
