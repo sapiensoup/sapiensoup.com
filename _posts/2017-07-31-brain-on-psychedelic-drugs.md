@@ -75,7 +75,7 @@ Psychedelics interact with the [serotonergic system](/serotonin#2-the-serotonerg
 But whereas serotonin binds to about a dozen different subtypes of serotonin receptors, psychedelic drugs bind to a very specific subtype, the so-called _serotonin 2A receptor_. LSD additionally binds to a few other subtypes of serotonin and dopamine receptors, but to a lesser degree. Most relevant for the psychedelic experience is the serotonin 2A receptor.
 
 ## II. Long axons
-Serotonin 2A receptors sit on specific types of neurons which have long axons that span across the brain, as opposed to neurons with short axons that only connect to other cells in their close vicinity. These large neurons have axons that leave the cortex and run down into areas below the prefrontal cortex.[^cerebral-cortex-wiki] Doing so, they have top-down control over the regions they connect to, and in this case it’s areas associated with emotions and stress responses.[^vollenweider-neurobiology]
+Serotonin 2A receptors sit on specific types of neurons which have long [axons](/serotonin#how-neurons-communicate) that span across the brain, as opposed to neurons with short axons that only connect to other cells in their close vicinity. These large neurons have axons that leave the cortex and run down into areas below the prefrontal cortex.[^cerebral-cortex-wiki] Doing so, they have top-down control over the regions they connect to, and in this case it’s areas associated with emotions and stress responses.[^vollenweider-neurobiology]
 
 ## III. Excitatory neurons
 Neurons can be either excitatory or inhibitory. Think of training a dog.
