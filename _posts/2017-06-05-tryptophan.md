@@ -45,7 +45,7 @@ The brain has plenty of these enzymes in stock. What usually causes the bottlene
 There is some evidence that nutritional supplements containing purified tryptophan raise brain tryptophan levels more efficiently than nutrition. That would make sense, since the supplement doesn't contain any of the competing amino acids.[^Wurtman]
 
 # Exercise
-Another way to facilitate tryptophan's entry in the brain is through exercise. When your muscles work hard, they are hungry for amino acids. That works in your favor, because exercise only decreases blood levels of amino acids other than tryptophan.[^BCAA] Consequently, tryptophan experiences an easier uptake at the blood-brain barrier.
+Another way to facilitate tryptophan's entry in the brain is through exercise. When your muscles work hard, they are hungry for amino acids. That works in your favor, because exercise only decreases blood levels of amino acids other than tryptophan.[^blomstrand] Consequently, tryptophan experiences an easier uptake at the blood-brain barrier.
 
 # Learn more
 Tryptophan plays a role in regulating serotonin levels in the brain, but that's only one piece of the puzzle. The larger serotonergic system is complex and mysterious. If you want to understand how it works, check out our story on [Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %}).
@@ -68,4 +68,4 @@ Tryptophan plays a role in regulating serotonin levels in the brain, but that's 
 
 [^Wurtman]: Wurtman RJ, Hefti F, Melamed E. Precursor control of neurotransmitter synthesis. Pharmacol Rev. 1980 Dec;32(4):315-35. [PubMed PMID: 6115400](https://www.ncbi.nlm.nih.gov/pubmed/6115400)
 
-[^BCAA]: Shimomura Y, Yamamoto Y, Bajotto G, et al. Nutraceutical effects of branched-chain amino acids on skeletal muscle. J Nutr. 2006 Feb;136(2):529S-532S. [PubMed PMID: 16424141.](https://www.ncbi.nlm.nih.gov/pubmed/16424141)
+[^blomstrand]: Blomstrand E, Hassmén P, Ekblom B, et al. Administration of branched-chain amino acids during sustained exercise--effects on performance and on plasma concentration of some amino acids. Eur J Appl Physiol Occup Physiol. 1991;63(2):83-8. [PubMed PMID: 1748109](https://www.ncbi.nlm.nih.gov/pubmed/1748109).
