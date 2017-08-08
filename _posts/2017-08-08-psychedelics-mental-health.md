@@ -12,7 +12,7 @@ twitter:
 
 **“It’s almost as if when you take [psilocybin], it’s like taking onboard your own psychotherapist.” said a study participant about his psychedelic experience.[^watts-trd] A widespread belief about psychedelic drugs is that they can turn users mentally ill; what the data shows, however, is that psychedelics can achieve quite the opposite effect: they afford patients a relief of symptoms. Indeed, a growing body of evidence supports that psychedelic drugs may be extraordinarily effective in treating mood disorder and addiction.**
 
-![Psychedelics effective in mental disorders](/images/mental-health-psychedelics/psychedelics-mental-health@2x.png)
+![Psychedelics effective in mental disorders](/images/mental-health-psychedelics/psychedelics-mental-health.jpg)
 
 Depression. Anxiety. Addiction. Most everyone of us knows somebody who is battling such a condition. Talk therapies may help, but sometimes they don’t. Antidepressants may help, but sometimes they don’t. Some patients are of the opinion that antidepressants are like “Band-Aids” in the way that they never really tackle the underlying issues of their problems.[^watts-trd]
 
