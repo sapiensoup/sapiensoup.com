@@ -128,7 +128,8 @@ If you are located in the Vienna area, we invite you to join the [Psychedelic So
 
 #### References
 
-[^watts-trd]: Watts R, Day C, Krzanowski J, et al. Patients’ Accounts of Increased “Connectedness” and “Acceptance” After Psilocybin for Treatment-Resistant Depression. Journal of Humanistic Psychology. June-19-2017.
+[^watts-trd]:
+    Watts R, Day C, Krzanowski J, et al. Patients’ Accounts of Increased “Connectedness” and “Acceptance” After Psilocybin for Treatment-Resistant Depression. Journal of Humanistic Psychology. June-19-2017.
 
 [^gasser]: Gasser P, Holstein D, Michel Y, et al. Safety and efficacy of lysergic acid diethylamide-assisted psychotherapy for anxiety associated with life-threatening diseases. J Nerv Ment Dis 2014; 202: 513–20. [PMID: 24594678]( https://www.ncbi.nlm.nih.gov/pubmed/24594678)
 
