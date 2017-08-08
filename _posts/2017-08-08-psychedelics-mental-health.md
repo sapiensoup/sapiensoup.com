@@ -4,9 +4,9 @@ title:  "Psychedelics and Mental Health"
 author: marlene
 description: "Psychedelic drugs appear to be extraordinarily effective in treating mental disorders: latest research results show immediate and long-lasting effects in mood disorders and addiction."
 facebook:
-   image: /images/mental-health-psychedelics/psychedelics-mental-health@2x.png
+   image: /images/mental-health-psychedelics/psychedelics-mental-health.jpg
 twitter:
-   image: /images/mental-health-psychedelics/psychedelics-mental-health@2x.png
+   image: /images/mental-health-psychedelics/psychedelics-mental-health.jpg
    large: true
 ---
 
