@@ -123,7 +123,7 @@ This was part 3 of our series on psychedelic drugs.
 [Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
 [The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})** (you've just read it)\\
 **[Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
-[Psychedelics and Mental Health]({% post_url 2017-08-28-psychedelics-mental-health %})\\
+[Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
 Microdosing LSD\\
 MDMA-assisted Therapy**
 
