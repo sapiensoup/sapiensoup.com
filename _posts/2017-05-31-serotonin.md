@@ -29,7 +29,7 @@ When a neuron _fires_, the cell body (_soma_) sends an electrical signal down it
 Chemical signals are made from neurotransmitters. How they are produced, sent and received is the key to understanding the interactions between drugs and the serotonergic system.
 
 ## Neurotransmitters
-You have probably heard of the neurotransmitters dopamine, serotonin, adrenaline and oxytocin.
+You have probably heard of the neurotransmitters dopamine, serotonin, adrenaline and oxytocin. A simplistic view:
 <img src="{{ site.url }}/images/serotonin/neurotransmitters@2x.png" alt="Neurotransmitters dopamine, serotonin, adrenaline, oxytocin and their functions">
 We have more than 100 different types of neurotransmitters in our brain and their job is facilitating the communication between neurons. Think of a neurotransmitter as a language: some neurons speak dopamine, others speak serotonin, others speak adrenaline and so on. While some neurons are multilingual, let’s say fluent in serotonin _and_ dopamine, most of them speak just one language. All neurons which speak serotonin make up the _serotonergic system_.
 
