@@ -4,9 +4,9 @@ title:  "Microdosing LSD: Smart Drug or Placebo?"
 author: marlene
 description: "Microdosing LSD promises to act like a mix of Adderall and Prozac but without the side effects. Sounds too good to be true; is it? Here is an overview of what scientific proof we have as of today."
 facebook:
-   image: /images/microdosing-lsd/lsd-image-makeover-through-microdosing@2x.png
+   image: /images/microdosing-lsd/lsd-image-makeover-microdosing@2x.png
 twitter:
-   image: /images/microdosing-lsd/lsd-image-makeover-through-microdosing@2x.png
+   image: /images/microdosing-lsd/lsd-image-makeover-microdosing@2x.png
    large: true
 ---
 
@@ -19,7 +19,7 @@ Microdosing gained currency in Silicon Valley in late 2015 and is spreading like
 <!--more-->
 
 Stories of young professionals taking tiny doses of acid before going to the office have been making headlines all throughout the media with The New York Times, The Guardian, BBC, CNN, Forbes, Wired, Rolling Stone and Vice picking up on the trend. Search Google for ‘microdosing’ and you’ll find books, podcasts, subreddits and even [a new online course](http://thethirdwave.co/microdosing-course) on microdosing.
-![Total Makeover: Microdosing changes image of LSD](/images/microdosing-lsd/lsd-image-makeover-through-microdosing@2x.png)
+![Total Makeover: Microdosing changes image of LSD](/images/microdosing-lsd/lsd-image-makeover-microdosing@2x.png)
 Microdosing caters to the needs of a modern society: being highly effective, thinking out of the box _and_ being happy in a fast and competitive world. By doing so, it gives LSD a total image makeover. Today, it’s not smelly hippies who use LSD; it’s _übersmart twenty-somethings_[^rollingstone-md], tech-entrepreneurs and high-achievers.
 
 # How does microdosing LSD work?
