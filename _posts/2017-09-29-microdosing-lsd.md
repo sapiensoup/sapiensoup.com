@@ -20,7 +20,7 @@ Microdosing gained currency in Silicon Valley in late 2015 and is spreading like
 
 Stories of young professionals taking tiny doses of acid before going to the office have been making headlines all throughout the media with The New York Times, The Guardian, BBC, CNN, Forbes, Wired, Rolling Stone and Vice picking up on the trend. Search Google for ‘microdosing’ and you’ll find books, podcasts, subreddits and even [a new online course](http://thethirdwave.co/microdosing-course) on microdosing.
 ![Total Makeover: Microdosing changes image of LSD](/images/microdosing-lsd/lsd-image-makeover-microdosing@2x.png)
-Microdosing caters to the needs of a modern society: being highly effective, thinking out of the box _and_ being happy in a fast and competitive world. By doing so, it gives LSD a total image makeover. Today, it’s not smelly hippies who use LSD; it’s _übersmart twenty-somethings_[^rollingstone-md], tech-entrepreneurs and high-achievers.
+Microdosing caters to the needs of a modern society: being highly effective, thinking out of the box _and_ being happy in a fast and competitive world. By doing so, it gives LSD a total image makeover. Today, it’s not 'smelly hippies' who use LSD; it’s _übersmart twenty-somethings_[^rollingstone-md], tech-entrepreneurs and high-achievers.
 
 # How does microdosing LSD work?
 The concept is simple: take a sub-perceptual dose of LSD every few days. Why not every day? The body quickly builds up a tolerance against LSD, and taking a dose every day would diminish the effects. Currently, James Fadiman’s [microdosing protocol](https://sites.google.com/view/microdosingpsychedelics/home) is considered the gold standard of microdosing:
