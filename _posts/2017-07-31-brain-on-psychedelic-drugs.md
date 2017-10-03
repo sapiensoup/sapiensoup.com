@@ -17,7 +17,7 @@ twitter:
 
 <!--more-->
 
-The experiences of Cary Grant and Steve Jobs are in no way isolated cases. In a recent experiment at Johns Hopkins University School of Medicine, 36 healthy volunteers were given a high dose of the hallucinogen _psilocybin_ (the active ingredient in so-called 'magic mushrooms'). Two thirds of participants rated it amongst **_“the five most meaningful and spiritually significant events of my life”_**. Furthermore, around 72 percent reported increases in well-being (vs. 21 percent in the control group) and 63 percent reported positive behavior changes (vs. 28 percent in the control group). Interestingly, the results were long lasting—even 14 months after the psychedelic experience, 64 percent of participants reported increased well-being and 61 percent reported positive behavior changes. [^griffiths-healthy]
+The experiences of Cary Grant and Steve Jobs are in no way isolated cases. In a recent experiment at Johns Hopkins University School of Medicine, 36 healthy volunteers were given a high dose of the hallucinogen _psilocybin_ (the active ingredient in so-called 'magic mushrooms'). Two thirds of participants rated it amongst **_“the five most meaningful and spiritually significant events of my life”_**. They reported increased well-being and positive behavior changes even 14 months after the psychedelic experience with no additional uses of the substance. [^griffiths-healthy]
 
 ![Griffiths' psilocybin study in healthy volunteers](images/brain-on-psychedelic-drugs/psilocybin-long-term-effects-griffiths-2@2x.png)
 
