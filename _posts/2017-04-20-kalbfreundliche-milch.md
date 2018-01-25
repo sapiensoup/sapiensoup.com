@@ -71,6 +71,15 @@ Ich habe den Betrieb im April 2017 besichtigt. Gabriela Schöffl ist die Jung-B�
 
 Gabriela und ihr Mann Bernhard bieten regelmäßig Besichtigungen und Events auf ihrem Hof an. Für Gruppen und Schulklassen gibt es ein geführtes Programm „Schule am Bauernhof“.
 
+### Rainer Bergbauer, VBG
+Auf der Egg 183, 6867 Schwarzenberg
+
+Der Hof von [Rainer Bergbauer](https://www.rainer-bergbauer.at/) und seiner Frau Manuela ist ein Demeter zertifizierter Biobauernhof in der Nähe von Bregenz und Dornbirn in Vorarlberg. Seit fünf Jahren praktizieren sie reine _muttergebundene Aufzucht_ bei allen ihren Tieren, sprich Kühe, Schafe, Schweine und Hühner.
+
+Manuela erzählt: _"Unsere Produkte stellen wir alle selber her und vermarkten diese auf den Wochenmärkten in Dornbirn und Bregenz und in unserem Hoflädele am Schwarzenberg. Wir sind stolz darauf einen Weg gefunden zu haben, wie unsere Tiere bei der eigenen Mutter groß werden dürfen."_
+
+Aus muttergebundener Aufzucht kann man dort nicht nur Milch sondern auch Joghurt, Topfen und Käse sowie verschiedene Fleischprodukte erwerben.
+
 &nbsp;
 
 **Kennst du weitere Betriebe, von denen man kalbfreundliche Milch beziehen kann? Bitte hinterlasse uns eine Notiz im Kommentar-Feld.**
