@@ -118,7 +118,8 @@ But it’s more than data and science. I’ve now met many of the people behind 
 [^suicide-va]:
     [National Suicide Data Report](https://www.mentalhealth.va.gov/suicide_prevention/Suicide-Prevention-Data.asp). 2016. U.S. Department of Veteran Affairs.
 
-[^doblin-ps17]: Rick Doblin. [Opening Plenary: Psychedelic Science 2017]( https://www.youtube.com/watch?v=yobpw8ihO0Q). 2017. Youtube.
+[^doblin-ps17]:
+    Rick Doblin. [Opening Plenary: Psychedelic Science 2017]( https://www.youtube.com/watch?v=yobpw8ihO0Q). 2017. Youtube.
 
 [^maps-phase2]: [A Phase 3 Program of MDMA-Assisted Psychotherapy for the Treatment of Severe Posttraumatic Stress Disorder (PTSD).](http://www.maps.org/research/mdma/ptsd/phase3) MAPS. Retrieved 2018-03-01.
 
