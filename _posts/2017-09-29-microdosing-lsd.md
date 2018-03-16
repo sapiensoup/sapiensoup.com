@@ -109,8 +109,9 @@ next and final story in the 7-part-series on psychedelic drugs: MDMA-assisted th
 [The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})\\
 [Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
 [Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
-[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})** (you've just read it)\\
-**MDMA-assisted Therapy**
+[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})** (You've just read it)\\
+**[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
+
 
 If you are located in the Vienna area, we invite you to join the [Psychedelic Society Vienna](https://www.meetup.com/Psychedelic-Society-Vienna/), where we regularly discuss the latest research and developments in the world of psychedelia.
 

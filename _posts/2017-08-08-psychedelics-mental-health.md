@@ -116,9 +116,9 @@ In the meantime, a phenomenon called _microdosing_ has become popular in Silicon
 [Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
 [The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})\\
 [Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
-[Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})** (you've just read it)\\
-**Microdosing LSD\\
-MDMA-assisted Therapy**
+[Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})** (You've just read it)\\
+**[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})\\
+[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
 
 If you are located in the Vienna area, we invite you to join the [Psychedelic Society Vienna Meetup](https://www.meetup.com/Psychedelic-Society-Vienna/), where we'll discuss the latest research and developments in the field.
 

@@ -112,13 +112,13 @@ And for those of you who wonder _“How does it actually feel taking a psychedel
 
 That’s a lot of ground to cover, and that’s why this is the first in a series of blog posts:
 
-**[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}\\
-[Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
+**[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}** (You've just read it)\\
+**[Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
 [The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})\\
 [Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
 [Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
-Microdosing LSD\\
-MDMA-assisted Therapy**
+[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})\\
+[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
 
 You can [sign up](http://eepurl.com/cBB_9D) and get notified when we publish our next story.
 

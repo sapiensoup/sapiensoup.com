@@ -121,11 +121,11 @@ This was part 3 of our series on psychedelic drugs.
 
 **[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}\\
 [Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})\\
-[The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})** (you've just read it)\\
+[The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})** (You've just read it)\\
 **[Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
 [Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
-Microdosing LSD\\
-MDMA-assisted Therapy**
+[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})\\
+[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
 
 You can sign up and [get notified](http://eepurl.com/cBB_9D) when we publish our next story.
 

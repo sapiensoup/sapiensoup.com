@@ -179,12 +179,12 @@ Having discovered the serotonergic system less than 70 years ago, there is much 
 In the meantime, every new study on psychedelics reveals fascinating new insights about consciousness, the brain’s default mode network and mental disorders. Over the next posts in our _Psychedelic Drugs_ series we’ll cover the outcome of those recent studies.
 
 **[Medical Benefits of Psychedelic Drugs]({% post_url 2017-05-04-medical-benefits-of-psychedelic-drugs %}){:target="_blank"}\\
-[Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})** (you've just read it) \\
+[Psychedelic Drugs and the Serotonergic System]({% post_url 2017-05-31-serotonin %})** (You've just read it)\\
 **[The Psychedelic Experience]({% post_url 2017-06-21-psychedelic-experience %})\\
 [Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
 [Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
-Microdosing LSD\\
-MDMA-assisted Therapy**
+[Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})\\
+[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
 
 Wow, that was a lot of information to take in. But you did it! Now you know more about the serotonergic system than any of your friends (except if your friends are neuroscientists). Since you seem to be really interested in the topic you might want to [get notified](http://eepurl.com/cBB_9D) when we publish our next story.
 
