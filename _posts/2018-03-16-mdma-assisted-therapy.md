@@ -97,7 +97,7 @@ This is the final article in my 7-part series on psychedelic drugs.
 [Your Brain on Psychedelic Drugs]({% post_url 2017-07-31-brain-on-psychedelic-drugs %})\\
 [Psychedelics and Mental Health]({% post_url 2017-08-08-psychedelics-mental-health %})\\
 [Microdosing LSD: Smart Drug or Placebo?]({% post_url 2017-09-29-microdosing-lsd %})\\
-[MDMA-assisted Therapy]({% post_url 2018-03-14-mdma-assisted-therapy %})**
+[MDMA-assisted Therapy]({% post_url 2018-03-16-mdma-assisted-therapy %})**
 
 # Final Thoughts
 The research I’ve done while writing this series has convinced me that psychedelic substances will fundamentally transform our approach to mental health. Some of the most reputable universities in the world—Imperial College London, Johns Hopkins, NYU—are leading modern research in psychedelics. They have produced staggering results which have encouraged yet further institutions to engage in this re-emerging field of research. For the first time, we see more publications on psychedelics today than we saw in the 1960s.
