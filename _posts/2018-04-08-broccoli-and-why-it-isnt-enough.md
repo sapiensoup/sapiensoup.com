@@ -2,7 +2,7 @@
 layout: post
 title:  "Broccoli and why it isn’t enough"
 author: nadine
-description: "How sulphoraphane works in the body and what you can do to maximize your sulphoraphane bioavailability."
+description: "How sulforaphane works in the body and what you can do to maximize your sulforaphane bioavailability."
 facebook:
    image: /images/sulforaphane/sources-of-myrosinase-sulfpraphane@2x.png
 twitter:
