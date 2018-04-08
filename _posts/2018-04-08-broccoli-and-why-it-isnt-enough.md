@@ -16,6 +16,8 @@ Ok, so I told a white lie in the first post: Cruciferous vegetables such as broc
 
 ![Myrosinase turns glucoraphanin into sulforaphane](/images/sulforaphane/glucoraphanin-myrosinase-sulforaphane@2x.png)
 
+<!--more-->
+
 This enzyme is turned on when the raw vegetable is crushed, chopped or chewed. It is usually delivered with the vegetable but unfortunately is often denatured when cooked. When an enzyme is denatured, it can no longer do its job because it has lost its structure. Think of a paperclip that is bent open. You can still say it is a paperclip, but it can no longer perform the function of holding papers together. That’s what happens to enzymes when they become denatured.
 
 # Maximizing sulforaphane intake
