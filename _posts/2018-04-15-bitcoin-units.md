@@ -69,7 +69,11 @@ Today, most people use bitcoin either as a store of value or for trading. Hardly
 
 
 # Nakamoto, why...?
-What really gets me is this: why on earth would bitcoin’s creator make 1 bitcoin equal 100,000,000 satoshis in the first place?! If Satoshi Nakamoto had given it just one more decimal point, making 1 bitcoin = 1,000,000,000 satoshis, the denomination of bitcoin would have been metric out of the box: we would have had perfect _milli, micro_ and _nano_ divisions. I don’t get it. Maybe the failure to design for metric-system friendliness is the best proof yet that Satoshi Nakamoto was an American.
+What really gets me is this: why on earth would bitcoin’s creator make 1 bitcoin equal 100 million satoshis in the first place?! If Satoshi Nakamoto had given it just one more decimal place, making 1 bitcoin equal to 1 _billion_ satoshis, bitcoin would have been metric-friendly out of the box: we would have had perfect _milli, micro_ and _nano_ divisions.
+
+![What if](/images/bitcoin-units/what-if@2x.png)
+
+I don’t get it. Maybe the failure to design for metric-system friendliness is the best proof yet that Satoshi Nakamoto was an American.
 
 
 # My 3 favorite reads on bitcoin
