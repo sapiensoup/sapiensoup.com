@@ -39,7 +39,7 @@ You might ask yourself how many decimal places we will actually need and use ove
 
 
 # How much will bitcoin be worth?
-Nobody knows. Really. _Nobody_. As of now, it’s all hypothetical models and best guesses. A common practice is to select a traditional asset class, such as the world’s gold reserves or the world’s total money supply and then divide the market capitalization of that asset class by 21 million—the total number of bitcoin that will ever exist. That’ll present you with a certain price per bitcoin. [The Money Project](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/) published a brilliantly visualized comparison of such asset classes which we will use as a basis for our hypothetical calculation. Let’s consider gold, narrow money and broad money:
+Nobody knows. Really. _Nobody_. As of now, it’s all hypothetical models and best guesses. One way to think about the future value of bitcoin is to select a traditional value category, such as the world’s gold reserves or the world’s total money supply and then divide the market capitalization of that value category by 21 million—the total number of bitcoin that will ever exist. That’ll present you with a certain price per bitcoin. [The Money Project](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/) published a brilliantly visualized comparison of such value categories which we will use as a basis for our hypothetical calculation. Let’s consider gold, narrow money and broad money:
 
 ![How much will bitcoin be worth in the future](/images/bitcoin-units/future-price-bitcoin-market-cap@2x.png)
 
