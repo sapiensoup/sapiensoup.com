@@ -14,7 +14,7 @@ twitter:
 
 <img src="{{ site.url }}/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
 
-I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk.
+I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk. But with cannabis, nursing mothers are pretty much groping in the dark.
 
 > With cannabis, nursing mothers are pretty much groping in the dark.
 
@@ -35,7 +35,7 @@ We will deal with very small numbers. A quick refresher on the notation and conv
 
 g = gram | 1 g = 1,000 mg
 mg = milligram | 1 mg = 1,000,000 ng
-ng = nanogram | 1 ng + 0.000000001 g
+ng = nanogram | 1 ng = 0.000000001 g
 
 # I. How much THC makes it into breast milk?
 
@@ -53,7 +53,7 @@ Those two data points are interesting, but don’t answer the question how much 
 
 - We don’t know how much marijuana was initially consumed.
 - We don't know how long since the last marijuana consumption.
-- With a one time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
+- With a one-time measurement we don't see how the THC concentration in breast milk behaves over 24 hours.
 - Both mothers were heavy users who were consuming marijuana on a daily basis. With regular use, THC accumulates in the body over time, especially in fat. And there is a lot of fat in breast milk. We don't know which part of the detected THC is due to accumulation and which part is recently consumed THC.
 - A sample size of two isn't representative for a larger population.
 
@@ -90,9 +90,9 @@ Be that as it may—half a crumb or three—you get an idea about the magnitude 
 > Not knowing how fast THC clears from breast milk is what’s keeping responsible mothers from a responsible use of cannabis.
 
 ## Better times ahead
-Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. Currently he discourages cannabis use due to the lack of data.
+Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. In the book, he currently discourages cannabis use due to the lack of data.
 
-The great news is that he currently conducts a study in Colorado to collect more evidence about the transfer of THC into human milk. He is still looking for participants in the Denver area. If you are a _cannamama_ you might want to check his [website](http://www.infantrisk.com/content/research-study-transfer-marijuana-human-milk) for more info. In Colorado, he found an ideal testing ground for his new study given the legalization of recreational use of marijuana.[^amarillo]
+In 2017, Dr. Hale and a team of other researchers started to collect breastmilk samples of Colorado moms to gain a better understanding of how much THC actually transfers into human milk. The study was published in the scientific journal _Obstetrics & Gynecology_ last week (April 2018) and we'll shortly publish a follow up post here on Sapiensoup to share the findings with you.
 
 # II. What are the effects on the child?
 
@@ -132,14 +132,13 @@ I believe the reasons why a nursing mother would decide to consume cannabis are 
 Personally, I was scared of consuming marijuana while breastfeeding and refrained from even taking an aspirin. But also, I didn’t have the information I have today. Maybe today my decision would be different.
 
 ## Rather, provide information
-This is what I personally found to be useful from studying scientific literature: \\
-(I'm not a doctor and this isn't medical advice.)
+I'm not a doctor and this isn't medical advice. Having said that, here is what I personally found to be useful from studying scientific literature:
 
 **Eating vs. smoking.** Ingesting cannabis produces a similar high but at a considerably [lower THC exposure]({% post_url 2016-12-21-human-metabolism-thc %}#which-produces-stronger-effects-inhalation-or-ingestion). Start small.
 
-**Side stream smoke.** Side stream smoke poses a risk to anyone. Besides THC it holds carcinogens and other toxins.
+**Side stream smoke.** Side stream smoke poses a risk to anyone, including you and your baby. Besides THC it holds carcinogens and other toxins.
 
-**Backstop.** Have someone sober around who can take over with the child if needed. With varying quality of product, effects can be unpredictable. Especially casual users can experience paranoia or impaired judgement. Caring for a child in such a case can be difficult.
+**Backstop.** Have someone sober around who can take over with the child if needed. With varying potency of product, effects can be unpredictable. Especially casual users can experience paranoia or impaired judgement. Caring for a child in such a case can be difficult.
 
 **Timing matters.** During pregnancy and the first three months of life, a baby’s developing organism is most vulnerable. During that time keep exposure to a minimum.
 
@@ -157,7 +156,6 @@ This is what I personally found to be useful from studying scientific literature
 [^hollister]: Hollister LE, Gillespie HK, Ohlsson A, Lindgren JE, Wahlen A, Agurell S. Do plasma concentrations of delta 9-tetrahydrocannabinol reflect the degree of intoxication? J Clin Pharmacol. 1981 Aug-Sep;21(8-9 Suppl):171S-177S. PubMed PMID: 6271822.
 [^parameters]: Results may differ according to assumed parameters such as volume of milk intake, weight of baby, weight of man and amount of THC in cookie.  My assumptions were: (1) Breastmilk contains 170 nanograms of THC per milliliter (i.e. average of the three measurements from the 1982 study: 60.3 ng/ml, 105 ng/ml and 340 ng/ml).  (2) a daily intake of 700 milliliters (33.7 fl oz).  (3) divided over 7 feeding sessions.  (4) baby’s weight: 6 kilograms (13.2 lbs).  (5) the adult man’s weight: 80 kg (176.4 lbs) which was the average when the study was run.  (6) THC in cookie: 20 mg (20 mg of THC per cookie may be considered “mild” nowadays. The potency of cannabis has multiplied since the 1980s and off-the-shelf edibles often come generously dosed.)
 [^bennett]: Bennett PN. Cannabis. Bennett PN and the WHO Working Group, editors. Drugs and human lactation. 2nd ed. 1997.
-[^amarillo]: Stein R. Amarillo doctor to study marijuana users who breastfeed. 2016. [Amarillo Globe News](http://amarillo.com/news/latest-news/2016-09-03/docs-study-marijuana-users-who-breastfeed)
 [^tennes]: Tennes K, Avitable N, Blackard C, et al. Marijuana: prenatal and postnatal exposure in the human. NIDA Res Monogr. 1985;59:48-60. PubMed PMID: 3929132.
 [^astley]: Astley SJ, Little RE. Maternal marijuana use during lactation and infant development at one year. Neurotoxicol Teratol. 1990 Mar-Apr;12(2):161-8. PubMed PMID: 2333069.
 [^scores]: Average scores: kids of mothers consuming cannabis more than 15 days per month (90), less than 15 days per months (106), no cannabis at all (102)
