@@ -12,6 +12,8 @@ twitter:
 
 **How much THC makes it into breast milk? Can it get a baby “high”? What are the long-term effects on the child?**
 
+**Update:** also check out our latest post on this topic: [Only small amounts of THC transfer into breast milk](https://sapiensoup.com/only-small-amounts-of-THC-transfer-into-breast-milk), that includes most recent scientific findings from April, 2018.
+
 <img src="{{ site.url }}/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
 
 I nursed my daughter for almost two years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk. But with cannabis, nursing mothers are pretty much groping in the dark.
@@ -88,11 +90,6 @@ From another study[^hollister] we know that 20mg of ingested THC produce a decen
 Be that as it may—half a crumb or three—you get an idea about the magnitude we’re operating at. Keep in mind however, that a new crumb is added to the pile every time the baby feeds. The crumbs are getting smaller but we don’t know how fast. To my knowledge there is no study examining the rate of THC elimination from breast milk and that’s precisely the problem.
 
 > Not knowing how fast THC clears from breast milk is what’s keeping responsible mothers from a responsible use of cannabis.
-
-## Better times ahead
-Dr. Thomas Hale—clinical pharmacologist and professor of pediatrics—is the author of the earlier mentioned reference book _Medications and Mothers' Milk_. In the book, he currently discourages cannabis use due to the lack of data.
-
-In 2017, Dr. Hale and a team of other researchers started to collect breastmilk samples of Colorado moms to gain a better understanding of how much THC actually transfers into human milk. The study was published in the scientific journal _Obstetrics & Gynecology_ last week (April 2018) and we'll shortly publish a follow up post here on Sapiensoup to share the findings with you.
 
 # II. What are the effects on the child?
 
