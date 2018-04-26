@@ -2,7 +2,7 @@
 layout: post
 title:  Only small amounts of THC transfer into breast milk
 author: marlene
-description: "New data shows that only 2.5% of the THC in a joint transfer into breast milk. Here is how smart feeding times may lower baby's THC exposure even further and other practical suggestions for mothers who consider using cannabis while breastfeeding."
+description: "New data shows that only 2.5% of the THC in a joint transfers into breast milk. Here is how smart timing may lower baby's THC exposure even further and other practical suggestions for mothers who consider using cannabis while breastfeeding."
 facebook:
    image: /images/breastfeeding/cannabis-breastfeeding-marijuana.jpg
 twitter:
