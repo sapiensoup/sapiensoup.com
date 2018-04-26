@@ -14,7 +14,7 @@ twitter:
 
 <img src="{{ site.url }}/images/breastfeeding/breastfeeding-1000x527-fb.jpg">
 
-I nursed my daughter for more than 1.5 years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk. But with cannabis, nursing mothers are pretty much groping in the dark.
+I nursed my daughter for almost two years. You bet, I had a glass of wine from time to time. I knew how long it would take my body to clear the alcohol so that—after a couple of hours—I could feed again without exposing my child to any risk. But with cannabis, nursing mothers are pretty much groping in the dark.
 
 > With cannabis, nursing mothers are pretty much groping in the dark.
 
