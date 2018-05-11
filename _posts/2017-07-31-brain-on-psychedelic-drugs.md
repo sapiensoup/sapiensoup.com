@@ -2,7 +2,7 @@
 layout: post
 title:  "Your Brain on Psychedelic Drugs"
 author: marlene
-description: "What psychedelic drugs do in the brain is unique and rather complicated unless you are a neuroscientist. Sapiensoup breaks it down in an entertaining way that's easy to understand."
+description: "What is it about psychedelics that has the power to change lives for the better? The answer might lie in the unique ways that psychedelics interact with the brain. Sapiensoup breaks it down in an entertaining way that's easy to understand."
 facebook:
    image: /images/brain-on-psychedelic-drugs/self-reflected-gregadunn.jpg
 twitter:
