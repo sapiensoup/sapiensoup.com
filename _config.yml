@@ -9,3 +9,5 @@ exclude:
   - CNAME
   - Gemfile
   - serve.sh
+plugins:
+  - jemoji
