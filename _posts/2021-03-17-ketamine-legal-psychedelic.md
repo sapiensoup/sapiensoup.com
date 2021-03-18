@@ -4,9 +4,9 @@ title:  "Ketamine: A Legal, yet Overlooked Psychedelic"
 author: marlene
 description: "At higher doses, ketamine can evoke psychedelic experiences. It is legal, dirt cheap and readily available in hospitals everywhere."
 facebook:
-   image: /images/ketamine-legal-psychedelic/therapeutic-models-ketamine_x2.png
+   image: /images/ketamine-legal-psychedelic/ketamine-dose-dependent_x2.png
 twitter:
-   image: /images/ketamine-legal-psychedelic/therapeutic-models-ketamine_x2.png
+   image: /images/ketamine-legal-psychedelic/ketamine-dose-dependent_x2.png
    large: true
 ---
 
